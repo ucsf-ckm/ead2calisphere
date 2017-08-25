@@ -13,11 +13,29 @@ let currentTitle = '';
 const displayData = (data) => {
   if (data.get('DONOTDISPLAY'))
     return;
+
+  const output = [];
+  // File path: leave blank
+  output.push('');
+
+  // Title
   const unittitlePrefix = dataMapStack.reduce(
     (rv, value) => rv + `${value.get('unittitle')}: `,
     ''
   );
-  console.log(`${unittitlePrefix}${data.get('unittitle')}`);
+  output.push(`${unittitlePrefix}${data.get('unittitle')}`);
+
+  // Alternative title: leave blank
+  output.push('');
+
+  // Identifier: leave blank
+  output.push('');
+
+  // Local identifier
+  // Should look like mss96-33_1_2_bctv
+  // <unititd>_ <c#><did><container type="box">_<c#><did><container type="folder">_titleabbreviation
+
+  console.log(output.join(`\t`));
 };
 
 const handlers = {
