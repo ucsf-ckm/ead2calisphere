@@ -33,7 +33,7 @@ const displayData = (data) => {
 
   // Local identifier
   // Should look like mss96-33_1_2_bctv
-  // <unititd>_ <c#><did><container type="box">_<c#><did><container type="folder">_titleabbreviation
+  // <unitid>_ <c#><did><container type="box">_<c#><did><container type="folder">_titleabbreviation
 
   console.log(output.join(`\t`));
 };
