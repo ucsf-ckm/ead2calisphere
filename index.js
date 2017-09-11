@@ -71,7 +71,7 @@ const handlers = {
       if (soFar === undefined) {
         return dataMap.set(tagStack[tagStack.length - 1], trimmedText);
       }
-      return dataMap.set(`${soFar}${trimmedText}`);
+      return dataMap.set(tagStack[tagStack.length - 1], `${soFar} ${trimmedText}`);
     }
   },
   onclosetag: function(tagname){
