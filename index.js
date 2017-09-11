@@ -24,6 +24,7 @@ const displayData = (data) => {
     ''
   );
   output.push(`${unittitlePrefix}${data.get('unittitle')}`);
+  // output.push(data.get('unittitle'));
 
   // Alternative title: leave blank
   output.push('');
@@ -67,11 +68,17 @@ const handlers = {
       if (tagStack.length === 0) {
         throw new Error(`found text outside of tags: ${trimmedText}`);
       }
-      const soFar = dataMap.get(tagStack[tagStack.length - 1]);
-      if (soFar === undefined) {
-        return dataMap.set(tagStack[tagStack.length - 1], trimmedText);
-      }
-      return dataMap.set(tagStack[tagStack.length - 1], `${soFar} ${trimmedText}`);
+
+      tagStack.forEach((tag, index) => {
+        const soFar = dataMap.get(tagStack[index]);
+        if (soFar === undefined) {
+          return dataMap.set(tag, trimmedText);
+        }
+        if (/[A-Za-z0-9]$/.test(soFar)) {
+          return dataMap.set(tag, `${soFar} ${trimmedText}`);
+        }
+        return dataMap.set(tag, `${soFar}${trimmedText}`);
+      });
     }
   },
   onclosetag: function(tagname){
