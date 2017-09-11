@@ -62,7 +62,7 @@ const handlers = {
   ontext: function(text){
     if (fileLevelTagStack.length === 0)
       return;
-    const trimmedText = text.trim();
+    const trimmedText = text.trim().replace(/\s+/g, ' ');
     if (trimmedText.length > 0) {
       if (tagStack.length === 0) {
         throw new Error(`found text outside of tags: ${trimmedText}`);
