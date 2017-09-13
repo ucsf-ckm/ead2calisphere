@@ -1,43 +1,42 @@
-'use strict';
+'use strict'
 
-const eadRaw = require('fs').readFileSync(__dirname + '/aids-rp.xml', 'utf-8');
+const path = require('path')
+const eadRaw = require('fs').readFileSync(path.join(__dirname, '/aids-rp.xml'), 'utf-8')
 
-const htmlparser2 = require('htmlparser2');
+const htmlparser2 = require('htmlparser2')
 
-let tagStack = [];
-let fileLevelTagStack = [];
-let dataMapStack = [];
-let dataMap = new Map();
-let currentTitle = '';
+let tagStack = []
+let fileLevelTagStack = []
+let dataMapStack = []
+let dataMap = new Map()
 
 const displayData = (data) => {
-  if (data.get('DONOTDISPLAY'))
-    return;
+  if (data.get('DONOTDISPLAY')) { return }
 
-  const output = [];
+  const output = []
   // File path: leave blank
-  output.push('');
+  output.push('')
 
   // Title
   const unittitlePrefix = dataMapStack.reduce(
     (rv, value) => rv + `${value.get('unittitle')}: `,
     ''
-  );
-  output.push(`${unittitlePrefix}${data.get('unittitle')}`);
+  )
+  output.push(`${unittitlePrefix}${data.get('unittitle')}`)
   // output.push(data.get('unittitle'));
 
   // Alternative title: leave blank
-  output.push('');
+  output.push('')
 
   // Identifier: leave blank
-  output.push('');
+  output.push('')
 
   // Local identifier
   // Should look like mss96-33_1_2_bctv
   // <unitid>_ <c#><did><container type="box">_<c#><did><container type="folder">_titleabbreviation
 
-  console.log(output.join(`\t`));
-};
+  console.log(output.join(`\t`))
+}
 
 const handlers = {
   /*
@@ -48,57 +47,55 @@ const handlers = {
     See desired output format at:
       https://docs.google.com/spreadsheets/d/1zmJVEZtdJ_6cwmdyWYR7dXMGYFKp_TGiyRV9zQgGbXE/edit?usp=sharing
    */
-  onopentag: function(name, attribs){
-    tagStack.push(name);
-    if (attribs.level === "file") {
+  onopentag: function (name, attribs) {
+    tagStack.push(name)
+    if (attribs.level === 'file') {
       if (dataMap.size > 0) {
         // This map encloses another map, so do not display on line by itself.
-        dataMap.set('DONOTDISPLAY', true);
-        dataMapStack.push(dataMap);
-        dataMap = new Map();
+        dataMap.set('DONOTDISPLAY', true)
+        dataMapStack.push(dataMap)
+        dataMap = new Map()
       }
-      fileLevelTagStack.push(name);
+      fileLevelTagStack.push(name)
     }
   },
-  ontext: function(text){
-    if (fileLevelTagStack.length === 0)
-      return;
-    const trimmedText = text.trim().replace(/\s+/g, ' ');
+  ontext: function (text) {
+    if (fileLevelTagStack.length === 0) { return }
+    const trimmedText = text.trim().replace(/\s+/g, ' ')
     if (trimmedText.length > 0) {
       if (tagStack.length === 0) {
-        throw new Error(`found text outside of tags: ${trimmedText}`);
+        throw new Error(`found text outside of tags: ${trimmedText}`)
       }
 
       tagStack.forEach((tag, index) => {
-        const soFar = dataMap.get(tagStack[index]);
+        const soFar = dataMap.get(tagStack[index])
         if (soFar === undefined) {
-          return dataMap.set(tag, trimmedText);
+          return dataMap.set(tag, trimmedText)
         }
         if (/[A-Za-z0-9]$/.test(soFar)) {
-          return dataMap.set(tag, `${soFar} ${trimmedText}`);
+          return dataMap.set(tag, `${soFar} ${trimmedText}`)
         }
-        return dataMap.set(tag, `${soFar}${trimmedText}`);
-      });
+        return dataMap.set(tag, `${soFar}${trimmedText}`)
+      })
     }
   },
-  onclosetag: function(tagname){
-    const expectedTag = tagStack.pop();
-    if (expectedTag !== tagname)
-      throw new Error(`Invalid XML: Expected closing tag ${expectedTag} but saw ${tagname}`);
-    if (tagname === fileLevelTagStack[fileLevelTagStack.length -1]) {
-      fileLevelTagStack.pop();
+  onclosetag: function (tagname) {
+    const expectedTag = tagStack.pop()
+    if (expectedTag !== tagname) { throw new Error(`Invalid XML: Expected closing tag ${expectedTag} but saw ${tagname}`) }
+    if (tagname === fileLevelTagStack[fileLevelTagStack.length - 1]) {
+      fileLevelTagStack.pop()
 
-      displayData(dataMap);
-      dataMap = dataMapStack.pop() || new Map();
+      displayData(dataMap)
+      dataMap = dataMapStack.pop() || new Map()
     }
   }
-};
+}
 
 const options = {
   decodeEntities: true,
-  xmlMode: true,
-};
+  xmlMode: true
+}
 
-const parser = new htmlparser2.Parser(handlers, options);
-parser.write(eadRaw); // passed through handlers 
-parser.end();
+const parser = new htmlparser2.Parser(handlers, options)
+parser.write(eadRaw) // passed through handlers
+parser.end()
