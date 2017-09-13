@@ -9,9 +9,14 @@ let tagStack = []
 let fileLevelTagStack = []
 let dataMapStack = []
 let dataMap = new Map()
+let collectionNumber = ''
 
 const displayData = (data) => {
   if (data.get('DONOTDISPLAY')) { return }
+
+  if (!collectionNumber) {
+    throw new Error('no collection number found')
+  }
 
   const output = []
   // File path: leave blank
@@ -34,6 +39,7 @@ const displayData = (data) => {
   // Local identifier
   // Should look like mss96-33_1_2_bctv
   // <unitid>_ <c#><did><container type="box">_<c#><did><container type="folder">_titleabbreviation
+  output.push(`${collectionNumber}_`)
 
   console.log(output.join(`\t`))
 }
@@ -48,7 +54,7 @@ const handlers = {
       https://docs.google.com/spreadsheets/d/1zmJVEZtdJ_6cwmdyWYR7dXMGYFKp_TGiyRV9zQgGbXE/edit?usp=sharing
    */
   onopentag: function (name, attribs) {
-    tagStack.push(name)
+    tagStack.push({name, attribs})
     if (attribs.level === 'file') {
       if (dataMap.size > 0) {
         // This map encloses another map, so do not display on line by itself.
@@ -60,6 +66,10 @@ const handlers = {
     }
   },
   ontext: function (text) {
+    const thisTag = tagStack[tagStack.length - 1]
+    if (thisTag) {
+      if (thisTag.name === 'unitid' && thisTag.attribs.label === 'Collection number') { collectionNumber = text.trim().replace(/\s+/g, '') }
+    }
     if (fileLevelTagStack.length === 0) { return }
     const trimmedText = text.trim().replace(/\s+/g, ' ')
     if (trimmedText.length > 0) {
@@ -68,20 +78,20 @@ const handlers = {
       }
 
       tagStack.forEach((tag, index) => {
-        const soFar = dataMap.get(tagStack[index])
+        const soFar = dataMap.get(tagStack[index].name)
         if (soFar === undefined) {
-          return dataMap.set(tag, trimmedText)
+          return dataMap.set(tag.name, trimmedText)
         }
         if (/[A-Za-z0-9]$/.test(soFar)) {
-          return dataMap.set(tag, `${soFar} ${trimmedText}`)
+          return dataMap.set(tag.name, `${soFar} ${trimmedText}`)
         }
-        return dataMap.set(tag, `${soFar}${trimmedText}`)
+        return dataMap.set(tag.name, `${soFar}${trimmedText}`)
       })
     }
   },
   onclosetag: function (tagname) {
     const expectedTag = tagStack.pop()
-    if (expectedTag !== tagname) { throw new Error(`Invalid XML: Expected closing tag ${expectedTag} but saw ${tagname}`) }
+    if (expectedTag.name !== tagname) { throw new Error(`Invalid XML: Expected closing tag ${expectedTag.name} but saw ${tagname}`) }
     if (tagname === fileLevelTagStack[fileLevelTagStack.length - 1]) {
       fileLevelTagStack.pop()
 
