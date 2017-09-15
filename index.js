@@ -39,7 +39,7 @@ const displayData = (data) => {
   // Local identifier
   // Should look like mss96-33_1_2_bctv
   // <unitid>_ <c#><did><container type="box">_<c#><did><container type="folder">_titleabbreviation
-  output.push(`${collectionNumber}_`)
+  output.push(`${collectionNumber}_`.toLowerCase())
 
   console.log(output.join(`\t`))
 }
