@@ -27,6 +27,7 @@ const displayData = (data) => {
     (rv, value) => rv + `${value.get('unittitle')}: `,
     ''
   )
+
   output.push(`${unittitlePrefix}${data.get('unittitle')}`)
   // output.push(data.get('unittitle'));
 
@@ -39,7 +40,11 @@ const displayData = (data) => {
   // Local identifier
   // Should look like mss96-33_1_2_bctv
   // <unitid>_ <c#><did><container type="box">_<c#><did><container type="folder">_titleabbreviation
-  output.push(`${collectionNumber}_`.toLowerCase())
+  const container = data.get('container').replace(':', '_')
+  if (!container) {
+    throw new Error('no container found')
+  }
+  output.push(`${collectionNumber}_${container}_`.toLowerCase())
 
   console.log(output.join(`\t`))
 }
