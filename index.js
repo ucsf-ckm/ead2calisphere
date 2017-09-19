@@ -29,7 +29,6 @@ const displayData = (data) => {
   )
 
   output.push(`${unittitlePrefix}${data.get('unittitle')}`)
-  // output.push(data.get('unittitle'));
 
   // Alternative title: leave blank
   output.push('')
