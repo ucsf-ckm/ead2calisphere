@@ -38,13 +38,13 @@ const displayData = (data) => {
   output.push('')
 
   // Local identifier
-  // Should look like mss96-33_1_2_bctv
-  // <unitid>_ <c#><did><container type="box">_<c#><did><container type="folder">_titleabbreviation
+  // Should look like mss96-33_1_2
+  // <unitid>_ <c#><did><container type="box">_<c#><did><container type="folder">
   const container = data.get('container').replace(':', '_')
   if (!container) {
     throw new Error('no container found')
   }
-  output.push(`${collectionNumber}_${container}_`.toLowerCase())
+  output.push(`${collectionNumber}_${container}`.toLowerCase())
 
   console.log(output.join(`\t`))
 }
