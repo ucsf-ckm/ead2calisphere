@@ -37,13 +37,35 @@ const displayData = (data) => {
   output.push('')
 
   // Local identifier
-  // Should look like mss96-33_1_2
-  // <unitid>_ <c#><did><container type="box">_<c#><did><container type="folder">
   const container = data.get('container').replace(':', '_')
   if (!container) {
     throw new Error('no container found')
   }
   output.push(`${collectionNumber}_${container}`.toLowerCase())
+
+  // Type: leave blank
+  output.push('')
+
+  // Campus/unit: leave blank
+  output.push('')
+
+  // Date
+  output.push(data.get('unitdate'))
+
+  // Date type: always "created"
+  output.push('created')
+
+  // Single: leave blank
+  output.push('')
+
+  // Inclusive Start: leave blank
+  output.push('')
+
+  // Inclusive End: leave blank
+  output.push('')
+
+  // Publication/origin: leave blank
+  output.push('')
 
   console.log(output.join(`\t`))
 }
