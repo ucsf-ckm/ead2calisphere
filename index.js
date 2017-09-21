@@ -10,6 +10,7 @@ let fileLevelTagStack = []
 let dataMapStack = []
 let dataMap = new Map()
 let collectionNumber = ''
+let creator = ''
 
 const displayData = (data) => {
   if (data.get('DONOTDISPLAY')) { return }
@@ -67,6 +68,10 @@ const displayData = (data) => {
   // Publication/origin: leave blank
   output.push('')
 
+  // Creator 1 Name
+  // Our finding aids only seem to have one creator.
+  output.push(creator)
+
   console.log(output.join(`\t`))
 }
 
@@ -95,6 +100,9 @@ const handlers = {
     const thisTag = tagStack[tagStack.length - 1]
     if (thisTag) {
       if (thisTag.name === 'unitid' && thisTag.attribs.label === 'Collection number') { collectionNumber = text.trim().replace(/\s+/g, '') }
+    }
+    if (tagStack.filter((tag) => { return tag.name === 'origination' && tag.attribs.label === 'Creator' }).length > 0) {
+      creator += text.trim()
     }
     if (fileLevelTagStack.length === 0) { return }
     const trimmedText = text.trim().replace(/\s+/g, ' ')
