@@ -74,18 +74,24 @@ const displayData = (data) => {
   // Our finding aids only seem to have one creator.
   output.push(creator)
 
-  // Creator Name Type
+  // Creator 1 Name Type
   output.push(creatorType)
 
-  // Creator Role: leave blank
+  // Creator 1 Role: leave blank
   output.push('')
 
-  // Creator Source
-  // local (default), lcnaf->naf ulan
+  // Creator 1 Source
   output.push(creatorSource)
 
-  // Creator Authority ID: leave blank (for now at least)
+  // Creator 1 Authority ID: leave blank (for now at least)
   output.push('')
+
+  // Leave Creator 2 * blank
+  output.push('') // name
+  output.push('') // name type
+  output.push('') // role
+  output.push('') // source
+  output.push('') // authority id
 
   console.log(output.join(`\t`))
 }
