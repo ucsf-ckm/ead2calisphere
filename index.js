@@ -13,6 +13,8 @@ let collectionNumber = ''
 let creator = ''
 let creatorType = ''
 let creatorSource = 'local'
+let language = {}
+let languageStack = []
 
 const displayData = (data) => {
   if (data.get('DONOTDISPLAY')) { return }
@@ -27,7 +29,12 @@ const displayData = (data) => {
 
   // Title
   const unittitlePrefix = dataMapStack.reduce(
-    (rv, value) => rv + `${value.get('unittitle')}: `,
+    (rv, value) => {
+      if (value.get('unittitle')) {
+        return rv + `${value.get('unittitle')}: `
+      }
+      return rv
+    },
     ''
   )
 
@@ -114,6 +121,12 @@ const displayData = (data) => {
   // Extent
   output.push(data.get('extent'))
 
+  // Language
+  output.push(language.text)
+
+  // Language code
+  output.push(language.attribs.langcode)
+
   console.log(output.join(`\t`))
 }
 
@@ -128,6 +141,10 @@ const handlers = {
    */
   onopentag: function (name, attribs) {
     tagStack.push({name, attribs})
+    if (name === 'language') {
+      language = {name, attribs, text: ''}
+      languageStack.push(language)
+    }
     if (attribs.level === 'file') {
       if (dataMap.size > 0) {
         // This map encloses another map, so do not display on line by itself.
@@ -141,7 +158,12 @@ const handlers = {
   ontext: function (text) {
     const thisTag = tagStack[tagStack.length - 1]
     if (thisTag) {
-      if (thisTag.name === 'unitid' && thisTag.attribs.label === 'Collection number') { collectionNumber = text.trim().replace(/\s+/g, '') }
+      if (thisTag.name === 'unitid' && thisTag.attribs.label === 'Collection number') {
+        collectionNumber = text.trim().replace(/\s+/g, '')
+      }
+      if (thisTag.name === 'language') {
+        language.text += text
+      }
     }
     if (tagStack.filter((tag) => { return tag.name === 'origination' && tag.attribs.label === 'Creator' }).length > 0) {
       creator += text.trim()
@@ -179,6 +201,9 @@ const handlers = {
 
       displayData(dataMap)
       dataMap = dataMapStack.pop() || new Map()
+    }
+    if (tagname === 'language') {
+      language = languageStack.pop()
     }
   }
 }
