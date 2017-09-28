@@ -93,6 +93,13 @@ const displayData = (data) => {
   output.push('') // source
   output.push('') // authority id
 
+  // Leave Contributor * blank
+  output.push('') // name
+  output.push('') // name type
+  output.push('') // role
+  output.push('') // source
+  output.push('') // authority id
+
   console.log(output.join(`\t`))
 }
 
