@@ -127,6 +127,15 @@ const displayData = (data) => {
   // Language code
   output.push(language.attribs.langcode)
 
+  // Temporary restrictions: leave blank
+  output.push('')
+
+  // Transcription: leave blank
+  output.push('')
+
+  // Access restriction: leave blank
+  output.push('')
+
   console.log(output.join(`\t`))
 }
 
