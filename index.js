@@ -100,6 +100,17 @@ const displayData = (data) => {
   output.push('') // source
   output.push('') // authority id
 
+  // Leave format/physical description blank; needs to be filled out manually
+  output.push('')
+
+  // Leave description notes and types blank
+  output.push('') // Description 1 Note
+  output.push('') // Description 1 Type
+  output.push('') // Description 2 Note
+  output.push('') // Description 2 Type
+  output.push('') // Description 3 Note
+  output.push('') // Description 3 Type
+
   console.log(output.join(`\t`))
 }
 
