@@ -111,6 +111,9 @@ const displayData = (data) => {
   output.push('') // Description 3 Note
   output.push('') // Description 3 Type
 
+  // Extent
+  output.push(data.get('extent'))
+
   console.log(output.join(`\t`))
 }
 
