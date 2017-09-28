@@ -11,6 +11,8 @@ let dataMapStack = []
 let dataMap = new Map()
 let collectionNumber = ''
 let creator = ''
+let creatorType = ''
+let creatorSource = 'local'
 
 const displayData = (data) => {
   if (data.get('DONOTDISPLAY')) { return }
@@ -72,6 +74,19 @@ const displayData = (data) => {
   // Our finding aids only seem to have one creator.
   output.push(creator)
 
+  // Creator Name Type
+  output.push(creatorType)
+
+  // Creator Role: leave blank
+  output.push('')
+
+  // Creator Source
+  // local (default), lcnaf->naf ulan
+  output.push(creatorSource)
+
+  // Creator Authority ID: leave blank (for now at least)
+  output.push('')
+
   console.log(output.join(`\t`))
 }
 
@@ -103,6 +118,12 @@ const handlers = {
     }
     if (tagStack.filter((tag) => { return tag.name === 'origination' && tag.attribs.label === 'Creator' }).length > 0) {
       creator += text.trim()
+      if (['corpname', 'famname', 'persname'].includes(thisTag.name)) {
+        creatorType = thisTag.name
+        if (thisTag.attribs.source === 'lcnaf') {
+          creatorSource = 'naf'
+        }
+      }
     }
     if (fileLevelTagStack.length === 0) { return }
     const trimmedText = text.trim().replace(/\s+/g, ' ')
