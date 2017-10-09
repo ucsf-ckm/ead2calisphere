@@ -136,6 +136,46 @@ const displayData = (data) => {
   // Access restriction: leave blank
   output.push('')
 
+  // Copyright Status: leave blank
+  output.push('')
+
+  // Copyright Statement: leave blank
+  output.push('')
+  // Copyright Holder Name Type: leave blank
+  output.push('')
+  // Copyright Holder Name: leave blank
+  output.push('')
+  // Copyright Holder Source: leave blank
+  output.push('')
+  // Copyright Holder Authority ID: leave blank
+  output.push('')
+  // Copyright Contact: leave blank
+  output.push('')
+  // Copyright Notice: leave blank
+  output.push('')
+  // Copyright Determination Date: leave blank
+  output.push('')
+  // Copyright Start Date: leave blank
+  output.push('')
+  // Copyright End Date: leave blank
+  output.push('')
+  // Copyright Jurisdiction: leave blank
+  output.push('')
+  // Copyright Note: leave blank
+  output.push('')
+
+  // Collection 1: leave blank
+  output.push('')
+
+  // Collection 2: leave blank
+  output.push('')
+
+  // Related Resource: leave blank
+  output.push('')
+
+  // Source: leave blank
+  output.push('')
+
   console.log(output.join(`\t`))
 }
 
