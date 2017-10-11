@@ -16,6 +16,12 @@ let creatorSource = 'local'
 let language = {}
 let languageStack = []
 
+const subjectName = [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+let subjectNameIndex = 0
+
+const subjectTopic = [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+let subjectTopicIndex = 0
+
 const displayData = (data) => {
   if (data.get('DONOTDISPLAY')) { return }
 
@@ -176,6 +182,37 @@ const displayData = (data) => {
   // Source: leave blank
   output.push('')
 
+  subjectName.forEach((val) => {
+    output.push(val.name || '')
+    output.push(val.type || '')
+    output.push(val.role || '')
+    output.push(val.source || '')
+    output.push(val.authorityId || '')
+  })
+
+  // We think places are all blank
+  for (let i = 0; i < 12; i++) {
+    output.push('')
+  }
+
+  subjectTopic.forEach((val) => {
+    output.push(val.heading || '')
+    output.push(val.headingType || '')
+    output.push(val.source || '')
+    output.push(val.authorityId || '')
+  })
+
+  // We think form/genre are all blank
+  for (let i = 0; i < 9; i++) {
+    output.push('')
+  }
+
+  // Provenance: leave blank
+  output.push('')
+
+  // Physical location: leave blank
+  output.push('')
+
   console.log(output.join(`\t`))
 }
 
@@ -221,6 +258,31 @@ const handlers = {
         if (thisTag.attribs.source === 'lcnaf') {
           creatorSource = 'naf'
         }
+      }
+    }
+    if (tagStack.filter((tag) => tag.name === 'controlaccess').length > 0) {
+      if (['corpname', 'famname', 'persname'].includes(thisTag.name)) {
+        if (subjectNameIndex === subjectName.length) {
+          throw new Error(`Too many Names! Max: ${subjectName.length}`)
+        }
+        const mine = subjectName[subjectNameIndex]
+        subjectNameIndex++
+        mine.name = text.trim() // This assumes no nested tags in the names
+        mine.type = thisTag.name
+        mine.role = ''
+        mine.source = thisTag.attribs.source === 'lcnaf' ? 'naf' : 'local'
+        mine.authrityId = ''
+      }
+      if (['subject'].includes(thisTag.name)) {
+        if (subjectTopicIndex === subjectTopic.length) {
+          throw new Error(`Too many Topics! Max: ${subjectTopic.length}`)
+        }
+        const mine = subjectTopic[subjectTopicIndex]
+        subjectTopicIndex++
+        mine.heading = text.trim() // This assumes no nested tags in topics
+        mine.headingType = 'topic'
+        mine.source = thisTag.attribs.source === 'lcsh' ? 'lcsh' : 'local'
+        mine.authorityId = ''
       }
     }
     if (fileLevelTagStack.length === 0) { return }
