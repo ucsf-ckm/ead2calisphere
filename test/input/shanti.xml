@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="us" identifier="ark:/13030/kt8t1nd1gg" mainagencycode="CU-M">shanti.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Guide to the Shanti Project Records</titleproper>
+<titleproper type="filing">Shanti Project Records</titleproper>
+<author>Julia Bazar</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCSF Library &amp; CKM</publisher>
+<address>
+<addressline>Archives and Special Collections</addressline>
+<addressline>530 Parnassus Ave.</addressline>
+<addressline>San Francisco, CA 94143-0840</addressline>
+<addressline>Phone: (415) 476-8112</addressline>
+<addressline>Fax:   (415) 476-4653</addressline>
+<addressline>Email: http://www.library.ucsf.edu/collections/archives/contact</addressline>
+<addressline>URL:   http://www.library.ucsf.edu/collections/archives</addressline>
+</address>
+<date>© 2006</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid created by UCSC OAC Unit. Machine-readable finding aid derived from MS Word. Date of source: <date normal="20060720">July 20, 2006.</date></creation>
+<langusage>Finding aid written in: 
+<language langcode="eng" scriptcode="latn">English</language>
+</langusage>
+<descrules>Finding aid prepared using 
+<title render="italic">Describing Archives: a Content Standard</title>
+</descrules>
+</profiledesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>Guide to the Shanti Project Records</titleproper>
+<num>Collection number: MSS 98-48</num>
+<publisher>UCSF Library &amp; CKM
+<lb/>Archives and Special Collections
+<lb/>University of California, San Francisco</publisher>
+
+<list type="deflist">
+<defitem>
+<label>Processed by:</label>
+<item>Julia Bazar</item>
+</defitem>
+<defitem>
+<label>Date Completed:</label>
+<item>September 2005</item>
+</defitem>
+<defitem>
+<label>Encoded by:</label>
+<item>UCSC OAC Unit</item>
+</defitem>
+</list>
+<p>© 2006 The Regents of the University of California. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Shanti Project records</unittitle>
+<unitdate type="inclusive" normal="1982/1994" label="Dates">1982-1994</unitdate>
+<unitid label="Collection number" repositorycode="CU-M" countrycode="US">MSS 98-48</unitid>
+<origination label="Creator">
+<corpname source="lcnaf" rules="aacr2">Shanti Project</corpname>
+</origination>
+<physdesc label="Collection Size">
+<extent>1 carton</extent><lb/>
+<extent>1.25 linear ft</extent>
+</physdesc>
+<repository label="Repository">
+<corpname>University of California, San Francisco. Library. 
+<subarea>Archives and Special Collections.</subarea></corpname>
+<address>
+<addressline>San Francisco, California 94143-0840</addressline>
+</address>
+</repository>
+<abstract label="Abstract">This collection contains records relating to the management of the Shanti Project  and its programs.  This includes materials dating from both before and after the Shanti Project changed its focus from life-threatening illness in general to AIDS exclusively in 1984.  Materials range from monthly reports from the program managers to several versions of the Shanti Volunteer Training Manual, showing the programs evolution.  There is one folder of information concerning the resignation of Executive Director Jim Geary in 1988.</abstract>
+<physloc label="Physical location">Archives</physloc>
+<langmaterial label="Languages">
+Languages represented in the collection: 
+<language langcode="eng">English</language>
+</langmaterial>
+</did>
+<accessrestrict>
+<head>Access</head>
+<p>Collection is open for research.  Some individual items are restricted.</p>
+</accessrestrict>
+<userestrict>
+<head>Publication Rights</head>
+<p>Copyright has not been assigned to the Library &amp; Center for Knowledge Management.  All requests for permission to publish or quote from manuscripts must be submitted in writing to the Head of Archives &amp; Special Collections.  Permission for publication is given on behalf of the Library &amp; Center for Knowledge Management as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained by the reader.</p>
+</userestrict>
+<prefercite>
+<head>Preferred Citation</head>
+<p>Shanti Project records. MSS 98-48, Archives &amp; Special Collections, UCSF Library &amp; CKM.</p>
+</prefercite>
+<acqinfo>
+<head>Acquisition Information</head>
+<p>The Shanti Project Records were given to the University by Executive Director of the Shanti project in 1998.</p>
+</acqinfo>
+<bioghist>
+<head>Organizational History</head>
+<p>The Shanti Project was founded in 1974 by Dr. Charles Garfield, to provide emotional support for people with life-threatening illnesses in the San Francisco Bay Area.  The project's focus on one-to-one peer support provided by trained volunteers became a new standard in the care of the terminally ill. The method gained first national and then international attention.  In 1979, after a talk in Milan, Italy, Shanti began an international training effort; soon nearly 300 organizations around the world began to employ the Shanti peer support model.  The name Shanti was taken from the Sanskrit word for "inner peace" or the "peace that passeth understanding".</p>
+<p>In 1981, when the first cases of disease that became known as AIDS first appeared in San Francisco, Shanti added them to their caseload.  In 1982 Shanti's board dissolved and reconstituted itself.  Jim Geary was elected as their Executive Director, Sam Mills was elected president of the board, and the first paid staff was hired. In this year, Shanti also provided the first ever international trainings on AIDS care (Italy, France &amp; Holland).  In 1984 Shanti, recognizing the exponential growth of the AIDS epidemic, changed its mission from serving individuals with any terminal illness to providing services solely for those with AIDS and their loved ones.  Shanti quickly became a leader and key component in San Francisco's community-based response to AIDS.  New programs were created and existing programs were changed to fit the needs expressed by people with AIDS (PWAs): to assist them with leading productive and independent lives, out of hospitals and in their communities, and reducing their cost for care.  Besides the peer counseling and practical assistance (housecleaning, childcare, shopping, cooking, and errands), Shanti services expanded over the following years to provide transportation, recreational and social activities, and caregiver support.  Shanti also developed the first non-hospital residence facilities for displaced people with AIDS; by 1988 there are 12 residences housing 47 PWAs.</p>
+<p>1988 brought crisis to the Shanti Project with the San Francisco Human Rights Commission investigating charges against executive director Jim Geary who was forced to resign. After a nationwide search, Eric Rofes was hired as the new executive director and reorganized the agency. Shanti project was cleared of all charges in 1989. </p>
+<p>1989 also brought a widening of focus.  Shanti opened its first AIDS residence for families with children and began a two-year agency-wide Multicultural Plan.  The first practical support training for the deaf and hard of hearing was held in 1990.  That same year, in collaboration with the Visiting Nurses Association and Hospice, Shanti opened a home for PWAs who need 24 hour care.  1991 brought the influx of federal monies from the Ryan White CARE Bill and the Crossings program, which focused on the "historically underserved" in the Tenderloin, Mission, and South of Market areas of the city - reaching out to women, children, people of color, poor, homeless, injection and other drug users, transvestites and transgender people. </p>
+<p>1993 brought another leadership and public relations crisis when an annual review found discrepancies in the use of government funds in the housing program.  Executive director Eric Rofes and deputy director Melinda Paras resign.  Paul Lambros served as interim executive director until August. At that time Dough Holloway and Tim Wolfred assumed the direction of day to day activities until Gloria Sanodval was appointed Shanti executive director.  After being barred for a year from receiving direct federal funding, their January 1994 audit showed no misuse of funds and their federal status was reinstated.  The housing program was transferred to another agency, but all other contracts were extended.  In 1994 Shanti joined with the AIDS Health Project and the San Francisco AIDS Foundation in a new formal collaboration, streamlining intake and access to services provided by all three agencies.  </p>
+<p>Between 1974 and 1994 Shanti trained over 7000 volunteers who provided over 2 million hours of peer counseling and practical assistance.  Dr. Garfield remained active with Shanti and, in 1994, presented the Shanti model to 1,400 executive directors and training coordinators of AIDS agencies at the "Skills Building" conference in New Orleans, the largest such conference ever held. </p>
+<p>Shanti Project remains committed to functioning as a multicultural organization by providing services for people of all racial, ethnic, sexual orientation, and cultural backgrounds affected by HIV disease, with sensitivity to preserving the rights and dignity of its clients and the HIV-affected community at large.</p>
+<p>As of 1994, they also ran an Activities Program, which included social, recreational and cultural opportunities for men, women, and children with symptomatic HIV in San Francisco.  Events provided a space for participants to make friends with others who are dealing with similar issues, to enjoy activities they might not normally be able to afford, and to discover and explore new interests.  It included: free tickets to arts, sports performance and educational events; social events such as parties, picnics, bus trips, classes, outings; a newsletter listing events; and volunteers - mostly HIV positive who help make the programs work; and a telephone events line.</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Content of Collection</head>
+<p>This collection contains records relating to the management of the Shanti Project and its programs.  This includes materials dating from both before and after the Shanti Project changed its focus from life-threatening illness in general to AIDS exclusively, in 1984.  Materials range from monthly reports from the program managers to several versions of the Shanti Volunteer Training Manual, showing the program's evolution. Most of the materials cover the post 1984 period, though there are a few earlier items.  Of particular note is the volunteer training manual from the early 1980's that does not include AIDS terminology, and the first addenda material which introduces AIDS terminology.  There is one open folder of information concerning the resignation of Executive Director Jim Geary in 1988, consisting mainly of letters of support.  One folder (1:29) of mixed Personnel information is Restricted.  The 1989 financial report that cleared the institution can be found immediately following the monthly report files.  Flyers, brochures and unidentified slides are also included in the collection.</p>
+<p>A large number of Shanti related videotapes - produced by and/or about Shanti, can be found in MSS2000-32, AIDS History Project Audio/Video Collection.</p>
+</scopecontent>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in
+the library's online public access catalog.</p>
+<subject source="lcsh">AIDS (Disease)</subject>
+<subject source="lcsh">AIDS (Disease) Social Aspects California San Francisco Bay Area</subject>
+<subject source="lcsh">AIDS (Disease) Patients Services for Terminal Care</subject>
+<subject source="lcsh">Shanti Project (San Francisco, Calif.)</subject>
+<persname source="gmgpc" role="subject">Garfield, Charles A.</persname>
+<persname source="lcnaf" role="subject">Geary, James</persname>
+</controlaccess>
+
+<dsc type="in-depth">
+<head>Collection Contents</head>
+<c01 level="file"><did><container type="box:folder">1:1</container>
+<unittitle>Representatives on Boards, Committees and Task Forces </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1990</unitdate>
+</did></c01>
+
+<c01 level="file"><did><container type="box:folder">1:2-1:9</container>
+<unittitle>Monthly Reports </unittitle></did>
+	<c02 level="file"><did>
+<container type="box:folder">1:2</container>
+<unittitle><unitdate type="inclusive">April-August 1989</unitdate></unittitle></did></c02>
+	<c02 level="file"><did>
+<container type="box:folder">1:3</container>
+<unittitle><unitdate type="inclusive">September-December 1989</unitdate></unittitle></did></c02>
+	<c02 level="file"><did>
+<container type="box:folder">1:4</container>
+<unittitle><unitdate type="inclusive">January-April 1990</unitdate></unittitle></did></c02>
+	<c02 level="file"><did>
+<container type="box:folder">1:5</container>
+<unittitle><unitdate type="inclusive">May-November 1990</unitdate></unittitle></did></c02>
+	<c02 level="file"><did>
+<container type="box:folder">1:6</container>
+<unittitle><unitdate type="inclusive">July-December 1991</unitdate></unittitle></did></c02>
+	<c02 level="file"><did>
+<container type="box:folder">1:7</container>
+<unittitle><unitdate type="inclusive">January-June 1992</unitdate></unittitle></did></c02>
+	<c02 level="file"><did>
+<container type="box:folder">1:8</container>
+<unittitle><unitdate type="inclusive">July-December 1992</unitdate></unittitle></did></c02>
+	<c02 level="file"><did>
+<container type="box:folder">1:9</container>
+<unittitle><unitdate type="inclusive">January-February 1993</unitdate></unittitle></did></c02></c01>
+
+<c01 level="file"><did>
+<container type="box:folder">1:10</container>
+<unittitle>Financial Statements and Supplementary Information for 1989 &amp; 1988 [Exhibit C] </unittitle>
+<unitdate type="inclusive">1989</unitdate></did></c01>
+
+<c01 level="file"><did>
+<container type="box:folder">1:11</container>
+<unittitle>Funding Proposal for Housing Service </unittitle>
+<unitdate type="inclusive">May 1991-April 1992</unitdate></did></c01>
+
+<c01 level="file"><did>
+<container type="box:folder">1:12</container>
+<unittitle>Latino Training and other materials </unittitle>
+<unitdate type="inclusive">1988</unitdate></did></c01>
+
+<c01 level="file"><did>
+<container type="box:folder">1:13</container>
+<unittitle>Multicultural Plan	</unittitle>
+<unitdate type="inclusive">1990-1991</unitdate></did></c01>
+
+<c01 level="file"><did>
+<container type="box:folder">1:14-19</container>
+<unittitle>Volunteer Training</unittitle></did>
+	<c02 level="file"><did>
+<container type="box:folder">1:14</container>
+<unittitle>Pre-AIDS Training Manual </unittitle>
+<unitdate type="inclusive">ca. 1982</unitdate></did></c02>
+	<c02 level="file"><did>
+<container type="box:folder">1:15</container>
+<unittitle>Additional Handouts from Volunteer Trainings </unittitle>
+<unitdate type="inclusive">1983-1984</unitdate></did></c02>
+	<c02 level="file"><did>
+<container type="box:folder">1:16</container>
+<unittitle>Shanti Project Volunteer Counselor Training Manual	</unittitle>
+<unitdate type="inclusive">ca. 1985</unitdate></did></c02>
+	<c02 level="file"><did>
+<container type="box:folder">1:17</container>
+<unittitle>Emotional Support Volunteer Manual </unittitle>
+<unitdate type="inclusive">1991</unitdate></did></c02>
+	<c02 level="file"><did>
+<container type="box:folder">1:18</container>
+<unittitle>Practical Support Volunteer Manual	 </unittitle>
+<unitdate type="inclusive">1991</unitdate></did></c02>
+	<c02 level="file"><did>
+<container type="box:folder">1:19</container>
+<unittitle>Miscellaneous Training Material </unittitle>
+<unitdate type="inclusive">1984-1989</unitdate></did></c02></c01>
+
+<c01 level="file"><did>
+<container type="box:folder">1:20</container>
+<unittitle>Physicians Inservice - Ukiah ["Master Copy Do Not Distribute"]	</unittitle>
+<unitdate type="inclusive">n.d.</unitdate></did></c01>
+
+<c01 level="file"><did>
+<container type="box:folder">1:21-22</container>
+<unittitle>Shanti AIDS Residence Program</unittitle></did>
+	<c02 level="file"><did>
+<container type="box:folder">1:21</container>
+<unittitle>Policies and Procedures </unittitle>
+<unitdate type="inclusive">1986</unitdate></did></c02>
+	<c02 level="file"><did>
+<container type="box:folder">1:22</container>
+<unittitle>Resident's Manual </unittitle>
+<unitdate type="inclusive">1986</unitdate></did></c02></c01>
+
+<c01 level="file"><did>
+<container type="box:folder">1:23</container>
+<unittitle>Jim Geary Controversy - Responses </unittitle>
+<unitdate type="inclusive">1988</unitdate></did></c01>
+
+<c01 level="file"><did>
+<container type="box:folder">1:24</container>
+<unittitle>Information Packet </unittitle>
+<unitdate type="inclusive">1987</unitdate></did></c01>
+
+<c01 level="file"><did>
+<container type="box:folder">1:25</container>
+<unittitle>Shanti Pamphlets </unittitle>
+<unitdate type="inclusive">1983-1987</unitdate></did></c01>
+
+<c01 level="file"><did>
+<container type="box:folder">1:26</container>
+<unittitle>AIDS Interfaith Network Pamphlets </unittitle>
+<unitdate type="inclusive">n.d.</unitdate></did></c01>
+
+<c01 level="file"><did>
+<container type="box:folder">1:27</container>
+<unittitle>Newsletters, flyers, and other materials </unittitle>
+<unitdate type="inclusive">1982-1991 </unitdate>
+<unitdate type="inclusive">n.d.</unitdate></did></c01>
+
+<c01 level="file"><did>
+<container type="box:folder">1:28</container>
+<unittitle>Slides and Negatives </unittitle>
+<unitdate type="inclusive">1983</unitdate></did></c01>
+
+<c01 level="file"><did>
+<container type="box:folder">1:29</container>
+<unittitle>RESTRICED - Personnel-Related Item - RESTRICTED </unittitle>
+<unitdate type="inclusive">1988</unitdate></did></c01>
+
+</dsc>
+</archdesc>
+</ead>

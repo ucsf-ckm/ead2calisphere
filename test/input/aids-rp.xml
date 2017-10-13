@@ -1,0 +1,2420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+	<eadid countrycode="us" identifier="ark:/13030/kt6p3028nv" mainagencycode="CU-M">aids-rp.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Guide to the Institute for Health Policy Studies - AIDS Resource Program Records</titleproper>
+<titleproper type="filing">Institute for Health Policy Studies - AIDS Resource Program Records</titleproper>
+<author>Julia Bazar</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UCSF Library &amp; CKM</publisher>
+<address>
+<addressline>Archives and Special Collections</addressline>
+<addressline>530 Parnassus Ave.</addressline>
+<addressline>San Francisco, CA 94143-0840</addressline>
+<addressline>Phone: (415) 476-8112</addressline>
+<addressline>Fax:   (415) 476-4653</addressline>
+<addressline>Email: archives-info@library.ucsf.edu</addressline>
+<addressline>URL:   http://www.library.ucsf.edu/collections/archives</addressline>
+</address>
+<date>© 2006</date>
+<p>The Regents of the University of California. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid created by UCSC OAC Unit. Machine-readable finding aid derived from MS Word. Date of source: <date normal="20060721">July 21, 2006.</date></creation>
+<langusage>Finding aid written in: 
+<language langcode="eng" scriptcode="latn">English</language>
+</langusage>
+<descrules>Finding aid prepared using 
+<title render="italic">Describing Archives: a Content Standard</title>
+</descrules>
+</profiledesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>Guide to the Institute for Health Policy Studies - AIDS Resource Program Records</titleproper>
+<num>Collection number: AR 92-20</num>
+<publisher>UCSF Library &amp; CKM
+<lb/>Archives and Special Collections
+<lb/>University of California, San Francisco</publisher>
+
+<list type="deflist">
+<defitem>
+<label>Processed by:</label>
+<item>Julia Bazar</item>
+</defitem>
+<defitem>
+<label>Date Completed:</label>
+<item>July 2005</item>
+</defitem>
+<defitem>
+<label>Encoded by:</label>
+<item>UCSC OAC Unit</item>
+</defitem>
+</list>
+<p>© 2006 The Regents of the University of California. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Institute for Health Policy Studies - AIDS Resource Program records</unittitle>
+<unitdate type="inclusive" normal="1986/1988" label="Dates">1986-1988</unitdate>
+<unitid label="Collection number" repositorycode="CU-M" countrycode="US">AR 92-20</unitid>
+<origination label="Creator">
+<corpname source="lcnaf" rules="aacr2">Institute for Health Policy Studies - AIDS Resource Program</corpname>
+</origination>
+<physdesc label="Collection Size">
+<extent>13 cartons, 2 boxes</extent><lb/>
+<extent>17.25 linear ft.</extent>
+</physdesc>
+<repository label="Repository">
+<corpname>University of California, San Francisco. Library. 
+<subarea>Archives and Special Collections.</subarea></corpname>
+<address>
+<addressline>San Francisco, California 94143-0840</addressline>
+</address>
+</repository>
+<abstract label="Abstract">This collection contains the materials collected by the AIDS Resource Program of UCSF's Institute for Health Policy Studies to use as reference materials to meet their goal of providing information and education on the San Francisco Model of HIV/AIDS services and to assist in their analysis of other HIV/AIDS  health and social services policies and programs.  A large majority of the material in the collection consists of newspaper clippings, magazine and scholarly articles, government publications, grant information.  Correspondence, handwritten notes, drafts, and other original materials are scattered throughout the collection.</abstract>
+<physloc label="Physical location">Archives</physloc>
+<langmaterial label="Languages">
+Languages represented in the collection: 
+<language langcode="eng">English</language>
+</langmaterial>
+</did>
+<accessrestrict>
+<head>Access</head>
+<p>Collection open for research.</p>
+</accessrestrict>
+<userestrict>
+<head>Publication Rights</head>
+<p>Copyright has not been assigned to the Library &amp; Center for Knowledge Management.  All requests for permission to publish or quote from manuscripts must be submitted in writing to the Head of Archives &amp; Special Collections.  Permission for publication is given on behalf of the Library &amp; Center for Knowledge Management as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained by the reader.</p>
+</userestrict>
+<prefercite>
+<head>Preferred Citation</head>
+<p>Institute for Health Policy Studies - AIDS Resource Program records. AR 92-20, Archives &amp; Special Collections, UCSF Library &amp; CKM.</p>
+</prefercite>
+<acqinfo>
+<head>Acquisition Information</head>
+<p>The AIDS Resource Program Records were transferred to the Archives and Special Collections by the Institute for Health Policy Studies, a unit of the University of California, San Francisco</p>
+</acqinfo>
+<bioghist>
+<head>Organizational History</head>
+<p>Institute of Health Policy Studies
+The Institute of Health Policy Studies was founded by University of California, San Francisco professor of social medicine and former University Chancellor, Philip R. Lee, M.D., in 1972. It was established as the Health Policy Program with support from the Robert Wood Johnson Foundation, and the University of California.  In 1977 the Institute was awarded a five-year grant from the National Center for Health Services Research, Department of Health, Education, and Welfare, as the only national Health Services Policy Analysis Center.  In February 1981 the University of California Board of Regents designated the Institute as a UCSF campus-wide organized research unit within the University.  As of 1985 the Institute's budget was over $3.5 million and has received grants and contracts from over 30 public and private funding agencies for the support of research, teaching, technical assistance, and dissemination activities.  The institute expanded from a small group of faculty members focused on federal health policy to a diverse group of faculty, fellows, and professional research staff who represent a broad range of clinical and social science disciplines and methods.  In 2005 IHPS faculty have appointments in all four schools at UCSF (medicine, pharmacy, nursing, and dentistry).  The primary goals of the IHPS are: to conduct policy-oriented research and analysis on a wide range of health issues; to apply research findings to health policy issues at the national, state, and local levels; and to provide education and training opportunities in health policy and health services research.</p>
+<p>Lee, the founder and original director of IHPS, also served as the first president of the seven-person Health Commission for the City and County of San Francisco, established in January 1985. The commission is the governing body for the Department of Public Health of the City and County of San Francisco, and must approve all public health related budget requests submitted to the Mayor and Board of Supervisors.</p>
+<p>AIDS Resource Program
+Responding to a growing number of visits and requests for information on San Francisco's successful, comprehensive, coordinated AIDS services system, the IHPS submitted a grant of $600,000 to The Robert Wood Johnson Foundation to create the AIDS Resource Program of the Institute for Health Policy Studies, University of California, San Francisco.  The grant which funded the ARP ran from January 1, 1986 - December 31, 1988.</p>
+<p>Previous to the 1985 grant request the Institute had conducted a series of policy-relevant studies relating to the AIDS epidemic, particularly studies relating to costs and to the organization, management and financing of community-based services.  The Institute also initiated several studies on community-based services to help clarify the nature of the community response to the AIDS epidemic.  Peter Arno (economics) and Robert Hughes (organizational behavior/sociology) compared  New York City and San Francisco's local policy responses to HIV and AIDS.  Peter Arno also studied the contributions of the voluntary non-profit sector in San Francisco.  Jane Zones (sociology) also produced a study on the responses of individuals that they were informed about the results of their HTLV-III antibody tests.</p>
+<p>The project was under the direction of Philip R. Lee, M.D., Director of the IHPS, and Patricia E. Franks was the Project Coordinator.  Three members of the Department of Public Health were directly involved in the program: Dr. David Werdegar, Director of Health; Jeffery Amory, Coordinator of the AIDS Activity Office; and Dean Echenberg, Director of Communicable Disease Control. The faculty of the UCSF AIDS Clinical Research Center, directed by Dr. John Ziegler, Professor of Medicine and Director of Education at the VA Medical Center in San Francisco, also played a key role in the project.  </p>
+<p>The objectives of the AIDS Resource Program were:</p>
+<p><emph render="bold">(1)</emph>to provide information and education about the comprehensive HIV service system in San Francisco to individuals and groups from communities throughout the country to enable them to apply lessons learned in San Francisco to their own institutions, agencies, and communities;</p>
+<p><emph render="bold">(2)</emph>to enhance the capacity of service agencies in the community including the San Francisco AIDS Foundation, VNA/Hospice of San Francisco, and the Shanti Project, the San Francisco Department of Public Health, and UCSF to meet the needs of individuals and groups seeking information about HIV programs in San Francisco.</p>
+<p>To meet these objectives the AIDS Resource Program preformed five Project activities:</p>
+<p><emph render="bold">(1)</emph>development of educational materials describing San Francisco's HIV programs for use in self- or small-group instruction and for distribution;</p>
+<p><emph render="bold">(2)</emph>development of seminars, training sessions, and continuing education programs for physicians, nurses, dentists, and public health administrators on the organization, financing, and delivery of health and social services for persons with HIV, using San Francisco as a model, but including information on other service programs;</p>
+<p><emph render="bold">(3)</emph>coordination of visits and technical assistance for health professionals, health care administrators, social service agency directors, health policymakers, and community leaders;</p>
+<p><emph render="bold">(4)</emph>detailed analysis of HIV health and social services policies and programs, including cost studies; and</p>
+<p><emph render="bold">(5)</emph>dissemination of information and analyses to public officials, nonprofit agency providers, health professionals, and community leaders throughout the country.</p>
+<p>When the AIDS Resource Program ended on December 31, 1988, information about the HIV epidemic had grown to a point where it was no longer practical to clip and catalogue newspaper, journal and magazine articles. Also other non-profit or for-profit groups were producing newsletters and weekly and monthly compendia of information.</p>
+<p>In addition, many of the community-based organizations to which AIDS Resource Program staff had provided technical assistance and information had become established with their own staff and special service areas.</p>
+<p>However, research into cost and policy issues related to the HIV epidemic remains one of 12 areas of emphasis listed on the IHPS web-site in 2005 with two of the Institute's faculty listing HIV/AIDS as a current research area.</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Content of Collection</head>
+<p>This materials in this collection were organized into two general categories: government files and subject files.  The government files have been further broken down into four series: SERIES 1:  STATE OF CALIFORNIA; SERIES 2:  SAN FRANCISCO CITY AND COUNTY; SERIES 3:  STATES AND COUNTRIES; and SERIES 4:  UNITED STATES (FEDERAL GOVERNMENT).</p>
+<p>The government files contain information about government policies, legislation, and other information concerning the HIV epidemic as it related to federal state and local government, as well to the international community.  These documents were used for general reference by AIDS Resource Program staff and for analyses of health and social programs, legislation, and policies to provide information and technical assistance to health professionals and community organizations around the country.  Several grant proposals for Robert Wood Johnson Foundation (RWJ Foundation) monies, particularly their AIDS Health Services grant programs are found in Series II: San Francisco City and County, Series III: States and Countries, and elsewhere in the collection.  The RWJ Foundation (founded by the founder of the Johnson &amp; Johnson company) with its emphases on: assuring that all Americans have access to quality health care at reasonable cost; improving the quality of care and support for people with chronic health conditions; promoting healthy communities an lifestyles; and reducing the personal, social and economic harm caused by substance abuse (tobacco, alcohol and illicit drugs), funded not only the IHPS AIDS Research Project, but many of the other state and local projects represented in this collection.</p>
+<p>SERIES 5: SUBJECT FILES contain newspaper clippings, magazine and journal articles, and various written materials on specific topics related to the HIV epidemic.  These files were used for general reference and in the production of the AIDS weekly Reader, a compendium of federal, state and local HIV statistics; journal, magazine and newspapers articles, which provided up-to-date information on the HIV epidemic to 70 selected policymakers, researchers, and program managers throughout the nation. This series is arranged alphabetically.</p>
+<p>The subject files make up the majority of the collection and, within both the subject and governmental files, a significant portion of the items in the collection consist of newspaper clippings.  Another significant percentage of the collection consists of academic papers and reprints from a variety of publications or in typed draft form.  Some folders also contain whole periodicals, often newsletters but sometime magazines, proceedings or even books. There are also a significant number of grant proposals and some requests for proposals (RFP's) within the collection.  Correspondence between IHPS staff and others, or copies of correspondence between third parties can be found in some folders, as can be a variety of government budgetary, statistical and legislative materials.  Publicity materials from various agencies: flyers, pamphlets, press releases, and conference announcements also appear throughout the collection.  Handwritten meeting notes and other materials appear periodically and some files contain official organizational minutes or other administrative records. There are also 3 oversize posters, one audiotape, and some slides.  </p>
+<p>Some of the materials were organized chronologically or reverse chronologically within a given folder, but most had no clear discernable order.  For preservation purposes, an attempt was made to isolate the clippings still on newsprint to the front of the file, though some may still be found interspersed among other items.  This means that the more original or unique items will usually be found towards the back of the folder, though some folders consist completely of newspaper clippings.</p>
+</scopecontent>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in
+the library's online public access catalog.</p>
+<subject source="lcsh">AIDS (Disease) California</subject>
+<subject source="lcsh">AIDS (Disease) San Francisco History</subject>
+<subject source="lcsh">AIDS (Disease) Government Policy United States</subject>
+<subject source="lcsh">AIDS (Disease) Social Aspects</subject>
+<subject source="lcsh">AIDS (Disease) Research Government Policy</subject>
+<subject source="lcsh">California. Dept. of Health Services. Office of AIDS</subject>
+<subject source="lcsh">Robert Wood Johnson Foundation</subject>
+<subject source="lcsh">University of California San Francisco. Institute for Health Policy Studies</subject>
+</controlaccess>
+<relatedmaterial>
+<head>Related Material</head>
+<list>
+<item>MSS 94-69	San Francisco AIDS Foundation (SFAF) Records</item>
+<item>MSS 97-03	Richard Bolen Papers</item>
+<item>MSS 2000-06	Nancy (Shaw) Stoller Papers</item>
+<item>MSS 94-01	Women's AIDS Network (WAN) Records</item>
+<item>MSS 96-31	Angie Lewis Papers</item>
+<item>MSS 94-18	John Ziegler Papers</item>
+<item>MSS 91-1	Philip R. Woods Papers</item>
+<item>IHPS-Tobacco Records (unprocessed?)</item>
+</list>
+</relatedmaterial>
+
+<dsc type="combined"><head>Collection Contents</head>
+<c01 level="series"><did><unitid>Series 1 </unitid>
+<unittitle>State of California </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1983-1989</unitdate>
+<physdesc><extent>1 carton, 41 folders </extent></physdesc></did>
+<scopecontent>
+<p>This series consists of files pertaining to AIDS Services within and across California, funded by the State of California and/or effecting the state as a whole, and materials on specific counties, the state college and university systems, and various health and governmental organizations.  This includes legislative bills and statewide budgeting, California ballot initiatives (bills qualified for the ballot by voter signatures instead of legislative acts), Actions by other state organizations and by counties within California. Contents include newspaper clippings, reports, budget materials, legislation and responses, reports and scientific articles.</p>
+
+<p>The majority of statewide materials fall into four subject areas: California Ballot Initiatives (especially Proposition 64 - La Rouche Initiative); the Department of Health Services (DHS), Office of AIDS files; California Legislature files; and State Services Delivery System/Advocacy Groups.  The DHS files include a contractor's address list, requests for proposals (RFPs), correspondence, AIDS planning, programs and budget folders, information on alternative tests sites, Medi-Cal costs, and task forces and advisory committees.  Also see the "Monthly Field Activities Reports" and the "Quantitative Analysis of AIDS in California."  The Legislative files deal the state AIDS budget and AIDS legislation including hearings on various bills.  The state delivery system and advocacy group files include files on various local governmental and local health official cooperative associations, the Health Policy and Research Foundation of California, and Lobby for Individual Freedom and Equality (LIFE), as well as the Hemophilia AIDS Project.  Of special interest are the index &amp; price list found in the Office of Statewide Health Planning and Development folder and the URSA Institute's "Evaluation of California's AIDS Commission Education Project"</p>
+
+<p>The majority of statewide materials are followed by the county material which is arranged alphabetically by county from Alameda to Sonoma.  Not all counties in the state are represented. There is a single folder of material for each of the counties covered, and a folder for the East Bay AIDS Project following the Alameda and Contra Costa County files, since this group covers both of these counties.  The county files are followed by files on several California State Medical organizations (such as the California Association of AIDS Agencies (CAAA), the California Medical Association (CMA) and the California Nurses Association (CNA)) and the University of California (Davis, Berkeley, UCLA) [that are not found in Series II:  San Francisco City and County].</p>
+</scopecontent>
+	<c02 level="file"><did><container type="Box:folder">1:1</container>
+		<unittitle>California State Budget </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1989</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">1:2</container>
+		<unittitle>Federal AIDS Contracts and Grants </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">1:3</container>
+		<unittitle>Epidemiology - Clippings </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">1:4</container>
+		<unittitle>Counties - Clippings</unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">1:5</container>
+		<unittitle>Office of the Governor - Clippings &amp; Documents </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1987</unitdate></did></c02>
+			
+	<c02 level="file"><did><container type="Box:folder">1:6</container>
+		<unittitle>State AIDS Budget - Clippings &amp; documents </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1989</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">1:7</container>
+		<unittitle>State Policies/Response to AIDS - Clippings &amp; documents </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">1:8</container>
+		<unittitle>California State Universities - Clippings &amp; documents </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">1:9-15</container>
+		<unittitle>California Ballot Initiatives </unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">1:9</container>
+			<unittitle>AIDS Initiatives </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">1:10</container>
+			<unittitle>Proposition 103 </unittitle>
+			<unitdate calendar="gregorian" era="ce">September 1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">1:11-15</container>
+			<unittitle>Proposition 64 - La Rouche Initiative </unittitle></did>	
+			
+			<c04 level="file"><did><container type="Box:folder">1:11</container>
+			<unittitle>Conference - "Public Forum on Prop 64" - October 29,1986 at UCSF Sponsored by IHPS-ARC </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c04>	
+			
+			<c04 level="file"><did><container type="Box:folder">1:12</container>
+			<unittitle>Background </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c04>	
+			
+			<c04 level="file"><did><container type="Box:folder">1:13</container>
+			<unittitle>UC &amp; State Reports on Prop 64 </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c04>	
+			
+			<c04 level="file"><did><container type="Box:folder">1:14-15</container>
+			<unittitle>Clippings </unittitle>			
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c04></c03></c02>
+		
+	<c02 level="file"><did><container type="Box:folder">1:16</container>
+		<unittitle>Department of Education </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1987</unitdate></did></c02>
+			
+	<c02 level="file"><did><container type="Box:folder">1:17-33</container>
+		<unittitle>Department of Health Services, Office of AIDS </unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">1:17</container>
+			<unittitle>Contractors (Address List) </unittitle>
+			<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">1:18-20</container>
+			<unittitle>Requests for Proposals </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">1:21</container>
+			<unittitle>Correspondence/Announcements </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">1:22</container>
+			<unittitle>AIDS Plan </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">1:23</container>
+			<unittitle>AIDS Programs &amp; Activities </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">1:24</container>
+			<unittitle>AIDS Budget Recommendations </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">1:25-26</container>
+			<unittitle>Alternative Tests Sites </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987-1988 </unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">1:27-28</container>
+			<unittitle>Monthly Field Activities Reports </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did>
+			</c03>	
+		<c03 level="file"><did><container type="Box:folder">1:29-30</container>
+			<unittitle>Medi-Cal Costs</unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did>
+			</c03>	
+		<c03 level="file"><did><container type="Box:folder">1:31</container>
+			<unittitle>California Health Facilities Commission </unittitle>
+			<unitdate calendar="gregorian" era="ce">ca. 1983</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">1:32</container>
+			<unittitle>Task Forces/Advisory Committees </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">1:33</container>
+			<unittitle>Quantitative Analysis of AIDS in California </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03></c02>
+			
+	<c02 level="file"><did><container type="Box:folder">1:34-2:8</container>
+			<unittitle>California Legislature </unittitle></did>
+		<c03 level="file"><did><container type="Box:folder">1:34-36</container>
+			<unittitle>AIDS Budget Task Force </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">1:37</container>
+			<unittitle>Assembly Ways and Means Task Force </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:1-7</container>
+			<unittitle>AIDS Legislation </unittitle></did>
+		
+			<c04 level="file"><did><container type="Box:folder">2:1</container>
+				<unittitle>Assembly Bills </unittitle>			
+				<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c04>	
+			
+			<c04 level="file"><did><container type="Box:folder">2:2</container>
+				<unittitle>Senate Bills </unittitle>
+				<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c04>	
+		
+			<c04 level="file"><did><container type="Box:folder">2:3</container>
+				<unittitle>Legislative Analyst's Office </unittitle>
+				<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04>	
+		
+			<c04 level="file"><did><container type="Box:folder">2:4</container>
+				<unittitle>AIDS Hearings - Senate </unittitle>			
+				<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c04>	
+			
+			<c04 level="file"><did><container type="Box:folder">2:5</container>
+				<unittitle>Senate Office of Research </unittitle>
+				<unitdate calendar="gregorian" era="ce">1989 </unitdate>	
+				<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c04>	
+		
+			<c04 level="file"><did><container type="Box:folder">2:6</container>
+				<unittitle>AIDS Hearings - Assembly </unittitle>
+				<unitdate calendar="gregorian" era="ce">1984 </unitdate>
+				<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04>
+			
+			<c04 level="file"><did><container type="Box:folder">2:7</container>
+				<unittitle>General Legislation </unittitle>
+				<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c04></c03>
+						
+		<c03 level="file"><did><container type="Box:folder">2:8</container>
+			<unittitle>Senate Select Committee on AIDS </unittitle>
+			<unitdate calendar="gregorian" era="ce">1989</unitdate></did></c03></c02>
+	
+	<c02 level="file"><did><container type="Box:folder">2:9-17</container>
+		<unittitle>State Services Delivery/System/Advocacy Groups </unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">2:9</container>
+			<unittitle>Association of Bay Area Governments </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:10</container>
+			<unittitle>California Association of AIDS Agencies </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1987</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:11</container>
+			<unittitle>California Conference of Local Health Officers </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:12</container>
+			<unittitle>Health Officers Association of California </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:13</container>
+			<unittitle>Health Policy and Research Foundation of California </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:14</container>
+			<unittitle>Hemophilia AIDS Project </unittitle>
+			<unitdate calendar="gregorian" era="ce">undated</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:15</container>
+			<unittitle>LIFE - Lobby for Individual Freedom and Equality </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:16</container>
+			<unittitle>Office of Statewide Health Planning and Development - Index &amp; Price List </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:17</container>
+			<unittitle>URSA Institute: Evaluation of California's AIDS Commission Education Project</unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03></c02>
+			
+	<c02 level="file"><did><container type="Box:folder">2:18-32</container>
+		<unittitle>California Counties </unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">2:18</container>
+		<unittitle>Alameda </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1989</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:19</container>
+		<unittitle>Contra Costa </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:20</container>
+		<unittitle>East Bay AIDS Project </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:21</container>
+		<unittitle>Kern </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:22</container>
+		<unittitle>Los Angeles </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:23</container>
+		<unittitle>Marin </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:24</container>
+		<unittitle>Monterey </unittitle>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:25</container>
+		<unittitle>Riverside </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:26</container>
+		<unittitle>Sacramento </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:27</container>
+		<unittitle>San Diego </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:28</container>
+		<unittitle>San Joaquin </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:29</container>
+		<unittitle>San Jose </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:30</container>
+		<unittitle>San Mateo </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988 </unitdate>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:31</container>
+		<unittitle>Santa Cruz </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988 </unitdate>	
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">2:32</container>
+		<unittitle>Sonoma </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03></c02>	
+	
+	<c02 level="file"><did><container type="Box:folder">2:33</container>
+		<unittitle>California Association of AIDS Agencies (CAAA) </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">2:34</container>
+		<unittitle>California Area Health Education Center (AHEC) System </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">2:35</container>
+		<unittitle>California Medical Association </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">2:36</container>
+		<unittitle>California Nurses Association </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>		
+	<c02 level="file"><did><container type="Box:folder">2:37</container>
+		<unittitle>California Public-Private Partnership Commission </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c02>		
+	<c02 level="file"><did><container type="Box:folder">2:38-41</container>
+		<unittitle>University of California </unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">2:38</container>
+			<unittitle>General AIDS Activities </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">2:39</container>
+			<unittitle>UC Berkeley AIDS Activities </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">2:40</container>
+			<unittitle>UC Davis AIDS Activities </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">2:41</container>
+			<unittitle>UCLA AIDS Activities </unittitle>
+			<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c03></c02></c01>
+		
+<c01 level="series"><did><unitid>Series 2 </unitid>
+<unittitle>San Francisco City and County </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1983-1989 </unitdate><unitdate calendar="gregorian" era="ce" type="inclusive">1993</unitdate>
+<physdesc><extent>1 carton </extent><extent>46 folders</extent></physdesc></did>
+<scopecontent>
+<p>This series consists of materials related to AIDS services, policy, and information within the city and county of San Francisco.  These include both city and county government agencies and community organizations, and the interface between them.  Materials include newspaper clippings, scientific articles, correspondence, reports, budgets, statistics, publicity materials, and publications.  </p>
+<p>Organized roughly alphabetically, the series starts with AIDS Reported Cases (consisting of monthly reports from the San Francisco Department of Public Health) and ends with University of California San Francisco (UCSF) AIDS Activities. The two largest categories in this series are AIDS Service Delivery System and the City and County Agencies and Commissions.  </p>
+<p>The AIDS Service Delivery System folders are arranged alphabetically by community organizations, and include AIDS/ARC Vigil, Castro Lions Club, Haight Ashbury Free Medical Clinic, Latino AIDS Project, Operation Concern, Project Inform, Project Open Hand, and the Shanti Project, among others. The three largest sets of folders are for the San Francisco AIDS Foundation (SFAF), the Stop AIDS Project, and the Women's AIDS Network (WAN).  Three oversize posters have been remove from the Multicultural Prevention Resource Center folder and place in a portfolio folder (P/1) housed with the collection. </p>
+<p> The City and County Agencies and Commissions files, which are also arranged roughly alphabetically, include multiple folders covering the San Francisco Health Commission, the Department of Public Health and San Francisco General Hospital, as well as folders on Health Resources and Services Administration AIDS Proposal,  HIV Antibody Testing - Alternative Test Sites, Human Rights Commission, and the Public Health Services Hospital.  Please note the History of AIDS Service Delivery System and the Epidemiology of AIDS which has subfolders on Intravenous (IV) Drug Use and on Sexually Transmitted Diseases (STDs).  One folder of San Francisco General Hospital materials "Utilization Review" has been restricted.  The Ward 5A/5B and Ward 86 folders contain press releases, manuals, short reports and newspaper articles.</p>
+<p>Other files include AIDS Advisory Groups and Task Forces (includes a folder on the Mayor's Task Force), AIDS Minority Issues, AIDS Perinatal Guidelines, AIDS Planning Activities, and AIDS Research Projects (information on the Association for Women's AIDS Research and Education (AWARE), AIDS School Guidelines and Clinical Study).</p>
+</scopecontent>
+	<c02 level="file"><did><container type="Box:folder">2:42-43</container>
+		<unittitle>AIDS Reported Cases (Monthly DPH Reports) </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c02>
+	<c02 level="file"><did><container type="Box:folder">2:44-45</container>
+		<unittitle>AIDS Advisory Groups and Task Forces </unittitle></did>			
+		<c03 level="file"><did><container type="Box:folder">2:44</container>
+		<unittitle>Mayor's Task Force </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">2:45</container>
+		<unittitle>Other </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03></c02>
+	<c02 level="file"><did><container type="Box:folder">2:46</container>
+		<unittitle>AIDS Minority Issues </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>			
+	<c02 level="file"><did><container type="Box:folder">2:47</container>
+		<unittitle>AIDS Perinatal Guidelines </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c02>		
+	<c02 level="file"><did><container type="Box:folder">2:48</container>
+		<unittitle>Positive Action Healthcare Press Conference </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>
+	<c02 level="file"><did><container type="Box:folder">2:49-50</container>
+		<unittitle>AIDS Planning Activities</unittitle></did>		
+		<c03 level="file"><did><container type="Box:folder">2:49</container>
+		<unittitle>Preliminary Report </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">2:50</container>
+		<unittitle>Revised Report </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03></c02>	
+	<c02 level="file"><did><container type="Box:folder">2:51</container>
+		<unittitle>AIDS Politics (Clippings, New Yorker Articles) </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983 </unitdate>	
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>			
+	<c02 level="file"><did><container type="Box:folder">2:52-54</container>
+		<unittitle>AIDS Research Projects </unittitle></did>		
+		<c03 level="file"><did><container type="Box:folder">2:53</container>
+		<unittitle>AWARE (Association for Women's AIDS Research and Education) </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">2:54</container>
+		<unittitle>AIDS School Guidelines </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>			
+		<c03 level="file"><did><container type="Box:folder">2:55</container>
+		<unittitle>Clinic Study </unittitle>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03></c02>		
+	<c02 level="file"><did><container type="Box:folder">2:55-3:9</container>
+		<unittitle>AIDS Service Delivery System </unittitle></did>
+		<c03 level="file"><did><container type="Box:folder">2:55</container>
+		<unittitle>AIDS/ARC Vigil </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>			
+		<c03 level="file"><did><container type="Box:folder">2:56</container>
+		<unittitle>AIDS Emergency Fund </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">2:57</container>
+		<unittitle>AIDS Healing Alliance </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">2:58</container>
+		<unittitle>AIDS Health Project </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1986</unitdate></did></c03>			
+		<c03 level="file"><did><container type="Box:folder">2:59</container>
+		<unittitle>AIDS Homecare and Hospice Program/VNA (Visiting Nurses Association) </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">2:60</container>
+		<unittitle>Asian AIDS Project </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">2:61</container>
+		<unittitle>AVERI (AIDS Virus Education and Research Institute) </unittitle>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>			
+		<c03 level="file"><did><container type="Box:folder">2:62</container>
+		<unittitle>Castro Lions Club </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">2:63</container>
+		<unittitle>Catholic Social Services </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">2:64</container>
+		<unittitle>Coming Home </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">2:65</container>
+		<unittitle>Haight Ashbury Free Medical Clinic </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">2:66</container>
+		<unittitle>Hunters Point Project </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">2:67</container>
+		<unittitle>Jewish Family and Children's Services</unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">2:68</container>
+		<unittitle>Kara </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">2:69</container>
+		<unittitle>KWIC-FAN (Kapuna West Inter-City Child and Family AIDS Network) </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">2:70</container>
+		<unittitle>Latino AIDS Project </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">2:71</container>
+		<unittitle>Living/Dying Project </unittitle>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">2:72-P:1</container>
+		<unittitle>Multicultural Prevention Resource Center </unittitle></did>			
+			<c04 level="file"><did><container type="Box:folder">2:72</container>
+			<unittitle>Folder </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04>		
+			<c04 level="file"><did><container type="Box:folder">P:1</container>
+			<unittitle>3 Oversize Posters </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04></c03>			
+		<c03 level="file"><did><container type="Box:folder">2:73</container>
+			<unittitle>Operation Concern </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">2:74</container>
+			<unittitle>Our Place at Trinity </unittitle>
+			<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">2:75</container>
+			<unittitle>Peter Claver Community </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">2:76</container>
+			<unittitle>Project Inform </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>			
+		<c03 level="file"><did><container type="Box:folder">2:77</container>
+			<unittitle>Project Open Hand </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">2:78</container>
+			<unittitle>Rest Stop </unittitle>
+			<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">3:1-3:2</container>
+			<unittitle>San Francisco AIDS Foundation </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1989 </unitdate>
+			<unitdate calendar="gregorian" era="ce">1993</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">3:3</container>
+			<unittitle>Shanti Project </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1989</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">3:4-3:5</container>
+			<unittitle>Stop AIDS Project </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">3:6-3:9</container>
+			<unittitle>Women's AIDS Network </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1989</unitdate></did></c03></c02>
+			
+	<c02 level="file"><did><container type="Box:folder">3:10-3:43</container>
+		<unittitle>City and County Agencies/Commissions</unittitle></did>		
+		<c03 level="file"><did><container type="Box:folder">3:10</container>
+			<unittitle>City AIDS Budget </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">3:11</container>
+			<unittitle>County AIDS Budget </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987 </unitdate>
+			<unitdate calendar="gregorian" era="ce">1989</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">3:12</container>
+			<unittitle>Health Care Services </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986 </unitdate>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">3:13-3:21</container>
+			<unittitle>Health Commission </unittitle></did>		
+			<c04 level="file"><did><container type="Box:folder">3:13-3:14</container>
+				<unittitle>Calendars </unittitle>
+				<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c04>		
+			<c04 level="file"><did><container type="Box:folder">3:15-3:20</container>
+				<unittitle>Minutes </unittitle></did>		
+				<c05 level="file"><did><container type="Box:folder">3:15</container>
+				<unittitle>	
+				<unitdate calendar="gregorian" era="ce">March-December 1987</unitdate></unittitle></did></c05>		
+				<c05 level="file"><did><container type="Box:folder">3:16</container>
+				<unittitle>
+				<unitdate calendar="gregorian" era="ce">April 1986-January 1987</unitdate></unittitle></did></c05>		
+				<c05 level="file"><did><container type="Box:folder">3:17</container>
+				<unittitle>
+				<unitdate calendar="gregorian" era="ce">1988</unitdate></unittitle></did></c05>		
+				<c05 level="file"><did><container type="Box:folder">3:18</container>
+				<unittitle>
+				<unitdate calendar="gregorian" era="ce">August-December 1989</unitdate></unittitle></did></c05>
+				<c05 level="file"><did><container type="Box:folder">3:19</container>
+				<unittitle>
+				<unitdate calendar="gregorian" era="ce">January-July 1989</unitdate></unittitle></did></c05>
+				<c05 level="file"><did><container type="Box:folder">3:20</container>
+				<unittitle>
+				<unitdate calendar="gregorian" era="ce">1990</unitdate></unittitle></did></c05></c04>			
+		<c04 level="file"><did><container type="Box:folder">3:21</container>
+			<unittitle>Hearings on AIDS</unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c04></c03>
+					
+		<c03 level="file"><did><container type="Box:folder">3:22</container>
+			<unittitle>Health Resources and Services Administration AIDS Proposal </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">3:23</container>
+			<unittitle>History of AIDS Service Delivery System </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">3:24</container>
+			<unittitle>HIV Antibody Testing - Alternative Test Sites </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>			
+		<c03 level="file"><did><container type="Box:folder">3:25</container>
+			<unittitle>Human Rights Commission </unittitle>
+			<unitdate calendar="gregorian" era="ce">1989 </unitdate>
+			<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">3:26</container>
+			<unittitle>Public Health Services Hospital </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">3:27</container>
+			<unittitle>RWJ (Robert Woods Johnson) AIDS Health Services Proposal </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">3:28-3:33</container>
+			<unittitle>Department of Public Health </unittitle></did>			
+			<c04 level="file"><did><container type="Box:folder">3:28</container>
+				<unittitle>General Information </unittitle>
+				<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c04>		
+			<c04 level="file"><did><container type="Box:folder">3:29</container>
+			<unittitle>AIDS Activity Office </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c04>			
+			<c04 level="file"><did><container type="Box:folder">3:30</container>
+			<unittitle>AIDS Grand Rounds </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987-1989</unitdate></did></c04>
+			<c04 level="file"><did><container type="Box:folder">3:31</container>
+			<unittitle>Bureau of Communicable Disease Control </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">3:32</container>
+			<unittitle>Community Substance Abuse Services - Overview </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04>
+			<c04 level="file"><did><container type="Box:folder">3:33</container>
+			<unittitle>Health Resources and Services Administration (HRSA) San Francisco AIDS/ARC Demonstration Project </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04></c03>
+				
+		<c03 level="file"><did><container type="Box:folder">3:35-37</container>
+			<unittitle>Epidemiology of AIDS </unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">3:35</container>
+				<unittitle>Intravenous (IV) Drug Abuse </unittitle>
+				<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c04>		
+			<c04 level="file"><did><container type="Box:folder">3:36-37</container>
+				<unittitle>Sexually Transmitted Diseases </unittitle>
+				<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c04></c03>				
+			<c03 level="file"><did><container type="Box:folder">3:38-43</container>
+				<unittitle>San Francisco General Hospital</unittitle></did>				
+				<c04 level="file"><did><container type="Box:folder">3:38</container>
+				<unittitle>General Information </unittitle>
+				<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c04>			
+				<c04 level="file"><did><container type="Box:folder">3:39</container>
+				<unittitle>AIDS Census </unittitle>
+				<unitdate calendar="gregorian" era="ce">1984</unitdate></did></c04>				
+				<c04 level="file"><did><container type="Box:folder">3:40</container>
+				<unittitle>Division of AIDS Activities </unittitle>
+				<unitdate calendar="gregorian" era="ce">1985-1987</unitdate></did></c04>				
+				<c04 level="file"><did><container type="Box:folder">*15:5</container>
+				<unittitle>Utilization Review (Challenges to MediCal denials) </unittitle>
+				<unitdate calendar="gregorian" era="ce">1985-1986</unitdate><note><p><emph render="bold">RESTRICTED</emph></p>
+				</note></did></c04>				
+				<c04 level="file"><did><container type="Box:folder">3:41</container>
+				<unittitle>County-Community Physicians Consortium </unittitle>
+				<unitdate calendar="gregorian" era="ce">1985-1986</unitdate></did></c04>				
+				<c04 level="file"><did><container type="Box:folder">3:42</container>
+				<unittitle>Ward 5A/5B </unittitle>
+				<unitdate calendar="gregorian" era="ce">1984-1986</unitdate></did></c04>				
+				<c04 level="file"><did><container type="Box:folder">3:43</container>
+				<unittitle>Ward 86 </unittitle>
+				<unitdate calendar="gregorian" era="ce">1985-1986</unitdate></did></c04>				 	
+				</c03>
+			<c03 level="file"><did><container type="Box:folder">4:1-9</container>
+				<unittitle>UCSF AIDS Activities</unittitle></did>					
+				<c04 level="file"><did><container type="Box:folder">4:1</container>
+					<unittitle>General</unittitle>
+					<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c04>	
+				<c04 level="file"><did><container type="Box:folder">4:2-3</container>
+					<unittitle>AIDS Clinical Research Center</unittitle></did>	
+					<c05 level="file"><did><container type="Box:folder">4:2</container>
+						<unittitle>Grant Proposal/Renewal </unittitle>
+						<unitdate calendar="gregorian" era="ce">1985-1986</unitdate>
+						</did></c05>
+					<c05 level="file"><did><container type="Box:folder">4:3</container>
+						<unittitle>General </unittitle>
+						<unitdate calendar="gregorian" era="ce">1985 </unitdate>
+						<unitdate calendar="gregorian" era="ce">1988</unitdate>
+						</did></c05></c04>
+				<c04 level="file"><did><container type="Box:folder">4:4</container>
+					<unittitle>Division of AIDS Activities </unittitle>
+					<unitdate calendar="gregorian" era="ce">1987 </unitdate>
+					<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c04>
+				<c04 level="file"><did><container type="Box:folder">4:5</container>
+					<unittitle>AIDS Resource Directory </unittitle>
+					<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c04>
+				<c04 level="file"><did><container type="Box:folder">4:6</container>
+					<unittitle>AIDS History (Archives) Project </unittitle>
+					<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04>
+				<c04 level="file"><did><container type="Box:folder">4:7</container>
+					<unittitle>School of Dentistry </unittitle>
+					<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04>				
+				<c04 level="file"><did><container type="Box:folder">4:8</container>
+					<unittitle>School of Nursing </unittitle>
+					<unitdate calendar="gregorian" era="ce">[1984]-1986</unitdate></did></c04>
+				<c04 level="file"><did><container type="Box:folder">4:9</container>
+					<unittitle>University-wide Task Force on AIDS </unittitle>
+					<unitdate calendar="gregorian" era="ce">1983-1987</unitdate></did></c04></c03></c02></c01>				
+
+		
+<c01 level="series"><did><unitid>Series 3 </unitid>
+<unittitle>States and Countries </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1983-1989</unitdate>
+<physdesc><extent>1 carton </extent><extent>37 folders</extent></physdesc></did>
+<scopecontent>
+<p>This series consists of files about AIDS programs in a number of states within the United States and in several other countries.  It includes newspapers clippings, grant requests, correspondence, reports, statistics, publicity materials, and publications.</p>
+<p>Many of the State folders include grant proposals to the Robert Wood Johnson Foundation's (RJW) AIDS Health Services Program (AHSP).  Most of these are full proposals with attachments, in some cases only the narrative part of the grant is included.  Also included in this series are reports and other items such as the "Report to the County Commissioners, Mayor and the City Council" from the East Metro AIDS Task Force of St. Paul, Minnesota. Correspondence includes letters soliciting materials, thanking agencies for materials, arranging visits to the IHPS, reviews of grant proposals, and more.  The California files are from southern California and consist primarily of RJW grant proposals.  As might be expected the largest number of folders are for New York State, covering a number of different cities, organizations, and subjects. Kentucky, Louisiana, Maine, New Hampshire, and Utah are some of the single folder states.</p>
+<p>The Country files section begins with folders for Africa and Asia, though many individual countries from these two continents are also represented.  Another multi-country regional designation used was Scandinavia, which includes materials on Sweden and Finland; the Netherlands has a separate folder.  The Puerto Rico folder, though included with the other Countries files, contains RWJ AHSP proposal the same as many of the State folders.  Many of the Country files consist solely of newspaper clippings and several contain only a single sheet of material.  The Australia folder contains several issues of an Australian AIDS publication.</p>
+<p>Most of the states and countries are represented by a single file.  States with multiple folders are subdivided by city and/or organization or project.  The first folder of the series contains information from the United States Conference of Mayors, followed by states in alphabetical order and then by Countries in alphabetical order.  </p>
+</scopecontent>
+	<c02 level="file"><did><container type="Box:folder">4:10</container>
+		<unittitle>U.S. Conference of Mayors </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">4:11</container>
+		<unittitle>Arizona </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>
+	<c02 level="file"><did><container type="Box:folder">4:12-16</container>
+		<unittitle>California </unittitle></did>
+		<c03 level="file"><did><container type="Box:folder">4:12</container>
+		<unittitle>Anaheim - RJW Grant Proposal </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">4:13-16</container>
+		<unittitle>Los Angeles</unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">4:13</container>
+		<unittitle>AIDS Project Los Angeles </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">4:14</container>
+		<unittitle>Epidemiology of AIDS </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">4:15</container>
+		<unittitle>A Proposal for the Support and Development of AIDS Services in Los Angeles by AIDS Project Los Angeles </unittitle>
+		<unitdate calendar="gregorian" era="ce">June 16, 1986</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">4:16</container>
+		<unittitle>Los Angeles County Department of Health Services </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04></c03></c02>	
+	<c02 level="file"><did><container type="Box:folder">4:17-19</container>
+		<unittitle>Colorado</unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">4:17</container>
+		<unittitle>Boulder County Health Department - AIDS Prevention Program </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">4:18</container>
+		<unittitle>Denver, RWJ AIDS Health Services Program Proposal </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">4:19</container>
+		<unittitle>Law re: Seropositivity Disclosure </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03></c02>	
+	<c02 level="file"><did><container type="Box:folder">4:20-22</container>
+		<unittitle>Florida</unittitle></did>	
+			<c03 level="file"><did><container type="Box:folder">4:20</container>
+		<unittitle>Epidemiology of AIDS </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03>	
+			<c03 level="file"><did><container type="Box:folder">4:21</container>
+		<unittitle>Miami and Sarasota </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+			<c03 level="file"><did><container type="Box:folder">4:22</container>
+		<unittitle>West Palm Beach RWJ AIDS Health Services Program Proposal </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03></c02>
+			
+	<c02 level="file"><did><container type="Box:folder">4:23</container>
+		<unittitle>Georgia/Atlanta includes RWJ AIDS Health Services Program Proposal </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c02>
+			
+	<c02 level="file"><did><container type="Box:folder">4:24-28</container>
+		<unittitle>Illinois </unittitle></did>		
+			<c03 level="file"><did><container type="Box:folder">4:24</container>
+		<unittitle>AIDS Legislation </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>	
+			<c03 level="file"><did><container type="Box:folder">4:25</container>
+		<unittitle>AIDS Service Delivery System </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987 </unitdate>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>	
+			<c03 level="file"><did><container type="Box:folder">4:26</container>
+		<unittitle>Alcoholism and Drug Dependence Association </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+			<c03 level="file"><did><container type="Box:folder">4:27-28</container>
+			<unittitle>Chicago </unittitle></did>	
+				<c04 level="file"><did><container type="Box:folder">4:27</container>
+			<unittitle>General </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c04>	
+				<c04 level="file"><did><container type="Box:folder">4:28</container>
+			<unittitle>RWJ AIDS Health Services Program/Chicago AIDS Project </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c04></c03></c02>	
+	<c02 level="file"><did><container type="Box:folder">4:29</container>
+		<unittitle>Kentucky</unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">4:30</container>
+		<unittitle>Louisiana / New Orleans RWJ AIDS Health Services Program Proposal </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986 </unitdate>	
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">4:31</container>
+		<unittitle>Maine </unittitle>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">4:32</container>
+		<unittitle>Maryland / Baltimore 2RWJ AIDS Health Services Program Proposals </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">4:33-35</container>
+		<unittitle>Massachusetts </unittitle></did>	
+			<c03 level="file"><did><container type="Box:folder">4:33</container>
+		<unittitle>General Statewide (IVDU, AIDS Library, Policies) </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>	
+			<c03 level="file"><did><container type="Box:folder">4:34-35</container>
+		<unittitle>Boston</unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">4:34</container>
+		<unittitle>Boston AIDS Consortium </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">4:35</container>
+		<unittitle>RWJ AIDS Program "AIDS Link" Proposal </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c04></c03></c02>
+			
+	<c02 level="file"><did><container type="Box:folder">4:36-37</container>
+		<unittitle>Michigan </unittitle></did>			
+			<c03 level="file"><did><container type="Box:folder">4:36</container>
+		<unittitle>Detroit - includes RWJ AIDS Health Services Proposal [cover letter and appendices only] </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">4:37</container>
+		<unittitle>Wayne County </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03></c02>
+					
+	<c02 level="file"><did><container type="Box:folder">4:38-40</container>
+		<unittitle>Minnesota </unittitle></did>			
+		<c03 level="file"><did><container type="Box:folder">4:38</container>
+		<unittitle>Department of Public Health </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988 </unitdate>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>			
+		<c03 level="file"><did><container type="Box:folder">4:39-40</container>
+		<unittitle>St. Paul - East Metro AIDS Task Force </unittitle></did>			
+			<c04 level="file"><did><container type="Box:folder">4:39</container>
+			<unittitle>Report to the County Commissioners, Mayor and City Council - Draft and Final </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c04>			
+			<c04 level="file"><did><container type="Box:folder">4:40</container>
+			<unittitle>AIDS Services and AIDS Education In Dakota, Ramsey, and Washington County </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04></c03></c02>
+						
+	<c02 level="file"><did><container type="Box:folder">4:41</container>
+		<unittitle>New Hampshire [clippings]</unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>
+					
+	<c02 level="file"><did><container type="Box:folder">4:42-45</container>
+		<unittitle>New Jersey </unittitle></did>			
+		<c03 level="file"><did><container type="Box:folder">4:42</container>
+		<unittitle>Newark (Department of Health) </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>			
+		<c03 level="file"><did><container type="Box:folder">4:43-44</container>
+		<unittitle>State Department of Health </unittitle></did>			
+			<c04 level="file"><did><container type="Box:folder">4:43</container>
+			<unittitle>AIDS in New Jersey </unittitle>
+			<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c04>			
+			<c04 level="file"><did><container type="Box:folder">4:44</container>
+			<unittitle>RWJ AIDS Health Services Proposal: Newark and Jersey City </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c04></c03>			
+		<c03 level="file"><did><container type="Box:folder">4:45</container>
+		<unittitle>RWJ AIDS Health Services Proposal - Project Caring </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03></c02>			
+	<c02 level="file"><did><container type="Box:folder">4:46-47, 5:1-13</container>
+		<unittitle>New York</unittitle></did>			
+			<c03 level="file"><did><container type="Box:folder">4:46-47, 5:1</container>
+			<unittitle>State Department of Health</unittitle></did>			
+				<c04 level="file"><did><container type="Box:folder">4:46</container>
+				<unittitle>General </unittitle>
+				<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c04>			
+				<c04 level="file"><did><container type="Box:folder">4:47</container>
+				<unittitle>Visit to San Francisco Department of Health </unittitle>
+				<unitdate calendar="gregorian" era="ce">1985</unitdate></did></c04>			
+				<c04 level="file"><did><container type="Box:folder">5:1</container>
+				<unittitle>Request for Applications/Request for Proposals </unittitle>
+				<unitdate calendar="gregorian" era="ce">1985-1986</unitdate></did></c04></c03>
+							
+			<c03 level="file"><did><container type="Box:folder">5:2</container>
+			<unittitle>General </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">5:3</container>
+			<unittitle>Training Institute Narcotic and Drug Research - CARE (Comprehensive AIDS Risk-Reduction Effort </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986?</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">5:4</container>
+			<unittitle>Rochester and Finger Lakes Region AIDS Action Plan	</unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1986</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">5:5</container>
+			<unittitle>Nassau County - RWJ AID Health Services Application </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">5:6-5:13</container>
+			<unittitle>New York City </unittitle></did>			
+				<c04 level="file"><did><container type="Box:folder">5:6</container>
+				<unittitle>AIDS Prevention and Education </unittitle>
+				<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c04>			
+				<c04 level="file"><did><container type="Box:folder">5:7</container>
+				<unittitle>AIDS Service Delivery Program </unittitle>
+				<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c04>			
+				<c04 level="file"><did><container type="Box:folder">5:8</container>
+				<unittitle>Epidemiology of AIDS </unittitle>
+				<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c04>			
+				<c04 level="file"><did><container type="Box:folder">5:9</container>
+				<unittitle>Hospitals Response to AIDS </unittitle>
+				<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c04>			
+				<c04 level="file"><did><container type="Box:folder">5:10</container>
+				<unittitle>IV Drug Use </unittitle>
+				<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c04>		
+				<c04 level="file"><did><container type="Box:folder">5:11-5:13</container>
+				<unittitle>RWJ AIDS Health Services Proposals</unittitle></did>	
+					<c05 level="file"><did><container type="Box:folder">5:11</container>
+					<unittitle>AIDS Services Delivery Consortium for New York City	 </unittitle>
+					<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c05>	
+					<c05 level="file"><did><container type="Box:folder">5:12</container>
+					<unittitle>Lower Manhattan AIDS Consortium Comprehensive AIDS Program </unittitle>
+					<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c05>		
+					<c05 level="file"><did><container type="Box:folder">5:13</container>
+					<unittitle>New York City Interagency Community-based AIDS Services Project </unittitle>
+					<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c05></c04></c03></c02>
+		
+	<c02 level="file"><did><container type="Box:folder">5:14</container>
+		<unittitle>North Dakota </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>		
+	
+	<c02 level="file"><did><container type="Box:folder">5:15</container>
+		<unittitle>Oklahoma </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>
+			
+	<c02 level="file"><did><container type="Box:folder">5:16</container>
+		<unittitle>Oregon </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>
+	<c02 level="file"><did><container type="Box:folder">5:17-18</container>
+		<unittitle>Pennsylvania </unittitle></did>
+			<c03 level="file"><did><container type="Box:folder">5:17</container>
+			<unittitle>General </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988-1989</unitdate></did></c03>
+			<c03 level="file"><did><container type="Box:folder">5:18</container>
+			<unittitle>Philadelphia - includes RWJ AIDS Health Services Proposal  </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986 </unitdate>
+			<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03></c02>
+		
+		<c02 level="file"><did><container type="Box:folder">5:19</container>
+		<unittitle>Tennessee </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>
+		<c02 level="file"><did><container type="Box:folder">5:20-22</container>
+		<unittitle>Texas</unittitle></did>
+			<c03 level="file"><did><container type="Box:folder">5:20</container>
+			<unittitle>Funding Report </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>
+			<c03 level="file"><did><container type="Box:folder">5:21</container>
+			<unittitle>Dallas - includes RWJ AIDS Health Services Proposal </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986 </unitdate>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>
+			<c03 level="file"><did><container type="Box:folder">5:22</container>
+			<unittitle>Houston - includes RWJ AIDS Health Services Proposal </unittitle>
+			<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03></c02>
+		<c02 level="file"><did><container type="Box:folder">5:23</container>
+		<unittitle>Utah</unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c02>
+		<c02 level="file"><did><container type="Box:folder">5:24</container>
+		<unittitle>Virginia</unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>
+		<c02 level="file"><did><container type="Box:folder">5:25</container>
+		<unittitle>Washington, D.C. - includes RWJ AIDS Health Services Proposal	  </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c02>
+		<c02 level="file"><did><container type="Box:folder">5:26</container>
+		<unittitle>Washington / Seattle-King County  - includes RWJ AIDS Health Services Proposal </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>
+		<c02 level="file"><did><container type="Box:folder">5:27</container>
+		<unittitle>Africa [see also individual countries] </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>
+		<c02 level="file"><did><container type="Box:folder">5:28</container>
+		<unittitle>Asia [see also individual countries] </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c02>
+		<c02 level="file"><did><container type="Box:folder">5:29</container>
+		<unittitle>Australia </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c02>
+		<c02 level="file"><did><container type="Box:folder">5:30</container>
+		<unittitle>Brazil </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>
+		<c02 level="file"><did><container type="Box:folder">5:31</container>
+		<unittitle>Canada </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>
+		<c02 level="file"><did><container type="Box:folder">5:32</container>
+		<unittitle>Czechoslovakia </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>
+		<c02 level="file"><did><container type="Box:folder">5:33</container>
+		<unittitle>China </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>
+		<c02 level="file"><did><container type="Box:folder">5:34</container>
+		<unittitle>Cuba </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1989</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:35</container>
+		<unittitle>Egypt </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:36</container>
+		<unittitle>France </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:37</container>
+		<unittitle>Gabon </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:38</container>
+		<unittitle>Great Britain </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:39</container>
+		<unittitle>Greece </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:40</container>
+		<unittitle>Haiti </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:41</container>
+		<unittitle>Honduras </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:42</container>
+		<unittitle>Hungary </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:43</container>
+		<unittitle>Italy </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:44</container>
+		<unittitle>Ivory Coast </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:45</container>
+		<unittitle>Japan </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:46</container>
+		<unittitle>Kenya </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:47</container>
+		<unittitle>Korea </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:48</container>
+		<unittitle>Mexico </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>
+		<c02 level="file"><did><container type="Box:folder">5:49</container>
+		<unittitle>Middle East </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:50</container>
+		<unittitle>The Netherlands </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:51</container>
+		<unittitle>Nicaragua </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:52</container>
+		<unittitle>Niger </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:53</container>
+		<unittitle>Nigeria </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:54</container>
+		<unittitle>Philippines </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:55</container>
+		<unittitle>Poland	</unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:56</container>
+		<unittitle>Puerto Rico - San Juan - includes RWJ AIDS Health Services Proposal </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:57</container>
+		<unittitle>Rwanda </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:58</container>
+		<unittitle>Scandinavia [Sweden and Finland] </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:59</container>
+		<unittitle>South Africa </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:60</container>
+		<unittitle>Switzerland </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>			
+		<c02 level="file"><did><container type="Box:folder">5:61</container>
+		<unittitle>Tahiti </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:62</container>
+		<unittitle>Tanzania </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:63</container>
+		<unittitle>Thailand </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:64</container>
+		<unittitle>Uganda </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:65</container>
+		<unittitle>Uruguay </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:66</container>
+		<unittitle>U.S.S.R. </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:67</container>
+		<unittitle>West Germany </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:68</container>
+		<unittitle>Yugoslavia </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:69</container>
+		<unittitle>Zaire </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:70</container>
+		<unittitle>Zambia</unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>		
+		<c02 level="file"><did><container type="Box:folder">5:71</container>
+		<unittitle>Zimbabwe</unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did>		
+		</c02></c01>
+		
+				
+<c01 level="series"><did><unitid>Series 4 </unitid>
+<unittitle>United States (Federal Government) </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1976 </unitdate><unitdate calendar="gregorian" era="ce" type="inclusive">1983-1990</unitdate>
+<physdesc><extent>1 carton </extent><extent>30 folders</extent></physdesc></did>
+<scopecontent>
+<p>This series contains materials by or about different federal government level AIDS and/or AIDS-related programs.  These consist of items concerning legislation, budgeting, hearings, publications, correspondence, and news reports from both the legislative and executive branches of the United States government, as well as various administrative departments. </p>
+<p>The U.S. Department of Health and Human Services (DHHS) files, which include materials on the U.S. Public Health Service and the Surgeon General, make up the largest portion of this series.  The Congressional files make up the next largest subset.  At the beginning of the series are two are runs of two different informational publications:  The National Health Policy Forum's weekly Issue Briefs which were issued by George Washington University and the CDC Weekly Surveillance Reports on AIDS.  The Administration files contain folders on the Attorney General and the Office of the President. Information on the President's Commission on AIDS can be found in the Federal Policies/Responses to AIDS files along with information from the General Accounting Department (GAO) on the Federal AIDS Budget.  The Department of Education folder contains newspaper clippings about Secretary of Education, William Bennett.  There are also single folders on the Social Security Administration, the Department of State - Agency for International Development (consists RFP's), Federal Health Budget, Health Status in United States, United States Health Care System (clippings) and the Epidemiology of AIDS (see also Series V: Subject Files).</p>
+<p>Of special interest are the DHHS files which include testimony from Secretary Heckler, materials from the "America Responds to AIDS" campaign, and a "Testing File" which includes correspondence.   Also included in this category is information on the Health Resources and Services Administration (HRSA) AIDS Services demonstration programs in New York, San Francisco, Los Angeles, &amp; Miami - including correspondence, notes, grant applications, the original RFP and a blank Grant application.  The U.S. Public Health Service (PHS) files are included with the DHHS files (the Budget folder includes information on testimony to the PHS), as are folders on the National Institute on Drug Abuse, the National Institute of Health, the National Institute of Mental Health, National Center for Health Service Research, and the Task Force on AIDS.</p>
+<p>The United States Congress files include folders on both Senate and House hearings.  These files contain copies of testimony as well as clippings and other items.  Other Congressional files contain correspondence, notes, text of bills and other items, as well as numerous newspaper clippings.  </p>
+
+<p>Also of interest is the Feb.1986 publication Disability Evaluation Under Social Security within the Social Security Administration files.  The Federal Policies/Responses to AIDS folder includes the Institute of Medicine of the National Academy of Science's "Recommendations to President-Elect George Bush., President's Commission on AIDS."  The final folder in the series contains information on the 1988 Presidential candidates and AIDS.  Materials from or about the Congressional Office of Technology Assessment (OTA) within the Senate files and the  OTA section within this series.  OTA material can also be found in the Series V: Subject Files.</p>
+</scopecontent>
+	<c02 level="file"><did><container type="Box:folder">6:1-3</container>
+		<unittitle>National Health Policy Forum - Issue Briefs - all runs incomplete</unittitle></did>
+		<c03 level="file"><did><container type="Box:folder">6:1</container>
+		<unittitle>Briefs #449-#473 </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">6:2</container>
+		<unittitle>Briefs #474-#518 </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1989</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">6:3</container>
+		<unittitle>Briefs #520-#550 </unittitle>
+		<unitdate calendar="gregorian" era="ce">1989-1990</unitdate></did></c03></c02>
+				
+	<c02 level="file"><did><container type="Box:folder">6:4-8</container>
+	<unittitle>CDC - AIDS Weekly Surveillance Report</unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">6:4</container>
+		<unittitle><unitdate calendar="gregorian" era="ce">July 30,1984 - December 29,1986</unitdate></unittitle></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">6:5</container>
+		<unittitle><unitdate calendar="gregorian" era="ce">January 5 - May 25,1987</unitdate></unittitle></did></c03>
+		<c03 level="file"><did><container type="Box:folder">6:6</container>
+		<unittitle><unitdate calendar="gregorian" era="ce">June 1 - December 28,1987</unitdate></unittitle></did></c03>
+		<c03 level="file"><did><container type="Box:folder">6:7</container>
+		<unittitle><unitdate calendar="gregorian" era="ce">January 4 - July 25,1988</unitdate></unittitle></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">6:8</container>
+		<unittitle><unitdate calendar="gregorian" era="ce">August 8,1988 - January 23,1989</unitdate></unittitle></did></c03></c02>
+		
+	<c02 level="file"><did><container type="Box:folder">6:9-11</container>
+	<unittitle>Administration</unittitle></did>
+		<c03 level="file"><did><container type="Box:folder">6:9</container>
+		<unittitle>Attorney General </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">6:10</container>
+		<unittitle>Domestic Policy Council </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">6:11</container>
+		<unittitle>Office of the President </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03></c02>
+	<c02 level="file"><did><container type="Box:folder">6:12-22</container>
+		<unittitle>US Congress</unittitle></did>
+		<c03 level="file"><did><container type="Box:folder">6:12</container>
+		<unittitle>Federal Budget - Ad Hoc Task Force on AIDS </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">6:13</container>
+		<unittitle>AIDS Budget Recommendations </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">6:14</container>
+		<unittitle>Correspondence </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">6:15</container>
+		<unittitle>Senate AIDS Hearings </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">6:16-17</container>
+		<unittitle>AIDS Hearings - House of Representatives </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">6:18-19</container>
+		<unittitle>AIDS Legislation</unittitle></did>
+			<c04 level="file"><did><container type="Box:folder">6:18</container>
+			<unittitle>Senate Bills </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c04>
+			<c04 level="file"><did><container type="Box:folder">6:19</container>
+			<unittitle>House of Representatives Bills </unittitle>
+			<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c04></c03>
+		<c03 level="file"><did><container type="Box:folder">6:20</container>
+		<unittitle>Nancy Pelosi and the AIDS Health Care Financing Act of 1988 </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">6:21</container>
+		<unittitle>Individual Legislators </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">6:22</container>
+		<unittitle>Library of Congress - Congressional Research Service - Issue Brief # IB83162 </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983</unitdate></did></c03></c02>
+				
+	<c02 level="file"><did><container type="Box:folder">6:23</container>
+	<unittitle>Department of Education [Bennett]</unittitle></did></c02>		
+	<c02 level="file"><did><container type="Box:folder">6:24-37, 7:1-15</container>
+	<unittitle>Department of Health &amp; Human Services</unittitle></did>		
+		<c03 level="file"><did><container type="Box:folder">6:24</container>
+		<unittitle>Office of the Secretary </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">6:25</container>
+		<unittitle>National Institute on Drug Abuse </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">6:26-27</container>
+		<unittitle>Center for Disease Control</unittitle></did>		
+			<c04 level="file"><did><container type="Box:folder">6:26</container>
+			<unittitle>America Responds to AIDS Campaign </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04>		
+			<c04 level="file"><did><container type="Box:folder">6:27</container>
+			<unittitle>Testing, Policies, etc. </unittitle>
+			<unitdate calendar="gregorian" era="ce">1976 </unitdate>
+			<unitdate calendar="gregorian" era="ce">1985-1987</unitdate></did></c04></c03>		
+		<c03 level="file"><did><container type="Box:folder">6:28</container>
+		<unittitle>Food and Drug Administration </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">6:29-30</container>
+		<unittitle>Health Care Financing Administration </unittitle></did>		
+			<c04 level="file"><did><container type="Box:folder">6:29</container>
+			<unittitle>Medicaid </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c04>		
+			<c04 level="file"><did><container type="Box:folder">6:30</container>
+			<unittitle>Medicare </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c04></c03>		
+		<c03 level="file"><did><container type="Box:folder">6:31-7:1</container>
+		<unittitle>Health Resources and Services Administration</unittitle></did>		
+			<c04 level="file"><did><container type="Box:folder">6:31-35</container>
+			<unittitle>AIDS Service Demonstration Programs</unittitle></did>		
+				<c05 level="file"><did><container type="Box:folder">6:31</container>
+				<unittitle>New York </unittitle>
+				<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c05>		
+				<c05 level="file"><did><container type="Box:folder">6:32</container>
+				<unittitle>San Francisco </unittitle>
+				<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c05>		
+				<c05 level="file"><did><container type="Box:folder">6:33</container>
+				<unittitle>Los Angeles </unittitle>
+				<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c05>		
+				<c05 level="file"><did><container type="Box:folder">6:34</container>
+				<unittitle>Miami </unittitle>
+				<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c05></c04>		
+			<c04 level="file"><did><container type="Box:folder">6:35</container>
+			<unittitle>General Information </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c04>				
+			<c04 level="file"><did><container type="Box:folder">6:36-37, 7:1</container>
+			<unittitle>AIDS Regional Education and Training Center Grants </unittitle></did>		
+				<c05 level="file"><did><container type="Box:folder">6:36</container>
+				<unittitle>Request for Proposals and Administration Information </unittitle>
+				<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c05>		
+				<c05 level="file"><did><container type="Box:folder">6:37</container>
+				<unittitle>Grant Application and Supplementary Materials </unittitle>
+				<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c05>		
+				<c05 level="file"><did><container type="Box:folder">7:1</container>
+				<unittitle>San Francisco Cooperative Grant Preparation </unittitle>
+				<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c05></c04></c03>		
+		<c03 level="file"><did><container type="Box:folder">7:2</container>
+		<unittitle>National Institute on Drug Abuse </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986 </unitdate>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">7:3</container>
+		<unittitle>National Institute of Health </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">7:4</container>
+		<unittitle>National Institute of Mental Health </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">7:5</container>
+		<unittitle>National Center for Health Statistics - <title>Health Promotion and Disease Prevention</title> </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">7:6</container>
+		<unittitle>National Center for Health Service Research </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988-1989</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">7:7-11</container>
+		<unittitle>Public Health Service </unittitle></did>
+			<c04 level="file"><did><container type="Box:folder">7:7</container>
+			<unittitle><title>AIDS: A Public Health Challenge</title> Vol. 2 (Chapters 6-10) </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c04>		
+			<c04 level="file"><did><container type="Box:folder">7:8</container>
+			<unittitle>AIDS Budget Recommendations, Criticism </unittitle>
+			<unitdate calendar="gregorian" era="ce">1984-1987</unitdate></did></c04>
+			<c04 level="file"><did><container type="Box:folder">7:9</container>
+			<unittitle>Testimony by Alan Harris, Regional Coordinator Region IX </unittitle>
+			<unitdate calendar="gregorian" era="ce">January/February 1988</unitdate></did></c04>
+			<c04 level="file"><did><container type="Box:folder">7:10</container>
+			<unittitle>Reports - <title>Review of the Public Health Services Response to AIDS</title> </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c04>
+			<c04 level="file"><did><container type="Box:folder">7:11</container>
+			<unittitle><title>Prevention Report</title> </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c04></c03>		
+		<c03 level="file"><did><container type="Box:folder">7:12-13</container>
+		<unittitle>Surgeon General </unittitle></did>
+			<c04 level="file"><did><container type="Box:folder">7:12</container>
+			<unittitle>Clippings </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c04>		
+			<c04 level="file"><did><container type="Box:folder">7:13</container>
+			<unittitle>Reports/Pamphlets </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c04></c03>
+		<c03 level="file"><did><container type="Box:folder">7:14</container>
+		<unittitle>Task Force on AIDS	</unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03></c02>		
+	<c02 level="file"><did><container type="Box:folder">7:15</container>
+	<unittitle>Social Security Administration </unittitle>
+	<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">7:16</container>
+	<unittitle>Department of State - Agency for International Development - RFPs </unittitle>
+	<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">7:17</container>
+	<unittitle>Epidemiology of AIDS </unittitle>
+	<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">7:18-22</container>
+	<unittitle>Federal Policies</unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">7:18</container>
+		<unittitle>Federal Policies/Responses to AIDS </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">7:19-21</container>
+		<unittitle>President's Commission on AIDS / Watkins Commission </unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">7:19-20</container>
+			<unittitle>Clippings </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988 </unitdate>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04>
+			<c04 level="file"><did><container type="Box:folder">7:21</container>
+			<unittitle>Reports </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c04></c03>	
+		<c03 level="file"><did><container type="Box:folder">7:22</container>
+		<unittitle>GAO (General Accounting Office) Views on Administration AIDS Budget Proposals </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03></c02>	
+	<c02 level="file"><did><container type="Box:folder">7:23</container>
+	<unittitle>Federal Health Budget </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">7:24</container>
+	<unittitle>U.S. Health Care System - Clippings </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">7:25</container>
+	<unittitle>Health Status in U.S. </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">7:26-29</container>
+	<unittitle>Office of Technology Assessment</unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">7:26</container>
+		<unittitle>"The Costs of AIDS and other HIV Infections" </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">7:27</container>
+		<unittitle>AIDS-Related Issues - Staff Paper 2 and Paper 4 </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">7:28</container>
+		<unittitle>"How Effective is AIDS Education" - Staff Paper 3 </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">7:29</container>
+		<unittitle><title>Medical Testing and Health Insurance</title></unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03></c02>	
+	<c02 level="file"><did><container type="Box:folder">7:30</container>
+	<unittitle>1988 Presidential Candidates and AIDS </unittitle>
+	<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02></c01>		
+		
+		
+<c01 level="series"><did><unitid>Series 5 </unitid>
+<unittitle>Subject Files </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1979-1989</unitdate>
+<physdesc>
+<extent>5 cartons </extent>
+<extent>1 box </extent>
+<extent>12 folders </extent></physdesc></did>
+<scopecontent>
+<p>By far the largest series in the collection, the "Subject Files" include everything from newspapers clippings to correspondence and published works to working documents and handwritten notes.  Arranged alphabetically by "Subject" these files represent the breadth of materials, topics of interest and research done by the IHPS-ARP.  Many of the topics of these folders overlap with each other and with other parts of the collection.  Some of these materials are exact duplicates of materials found elsewhere, but were left where they were to illustrate that the IHPS-ARP classified them under multiple categories. Some subjects are also covered more than once within the "subject" classifications.  For example: materials on IV drug users are filed  under the IV Drug Use and under Risk Groups - IV Drug Users, as well as related terms such as Substance Abuse and Needle exchange.  Related materials may also be found in other series as well.  Individual topics can be represented by everything from a couple of newspaper clippings in a single folder to multiple folders including original materials.  For preservation reasons, newspaper clippings have been segregated to the front of each folder in which they appear, with original items being found further back in the folders.</p>
+
+<p>The only real condensing of folders was done with the Conferences section of this series.  Originally individual folders had been created for each of these conferences even though a large number of the folders contained only a one or two pieces of paper.  These folders were combined to create the date runs found in the finding guide.  Note: Like most of the other folders in this collection much of the materials in the folders were arranged reverse chronologically and some randomly within the file.  A few of the conferences covered are 1988: Caring for the AIDS Patient (SF), Skills Building Conference (New Orleans) - mentioned in the Nancy Stoller and other Collections; 2nd Annual International Lesbian and Gay Health Conference &amp; AIDS Forum (Boston) - includes the Summer 1988 issue of Sexual Health Reports; AIDS &amp; Mental Health: Beyond the Basics (Berkeley); American Hospitals &amp; Human Values (Tampa); Humane &amp; Dignified Death (SF) - sponsored by the National Hemlock Society, and the California Association of AIDS Agencies Annual Conference (Sacramento) - which Pat Franks attended. 1987: Homosexuality Beyond Disease (Amsterdam); Ethical Issues of Rationing Healthcare (Chicago); AIDS: Fact Versus Fiction (SF); AIDS Business Update (NYC); Media Coverage of AIDS Seminar (DC) - Franks, Curran, etc involved; Life, Death &amp; the Challenge of AIDS (St. Paul) - a Residential Workshop for People with AIDS; AIDS/ARC Update '87 (SF) - draft program, planning committee included Angie Lewis and Barry Day of UCSF;, Conference on AIDS &amp; IV Drug Use (DC) - put on by the Red Cross; AIDS is Everybody's Business (SF) - Union sponsored workshops; AIDS and Ethnic Minorities (SF); and Talks on Natural Therapies for Chronic Viral Diseases (SF).</p>
+
+<p>Of special interest are the URSA Institute files at the end of the series, which include the AIDS Community  Education Effectiveness Study Grant application, as well as correspondence and handwritten notes. AIDS or "AIDS and" subjects take up the equivalent of a full carton.  The Annenberg Teleconference folder includes both slides and an audio cassette tape.  One of the folders under "Risk Groups - Women" contains the complete Women &amp; AIDS Clinical Resource Guide prepared by the SF AIDS Coalition while, "Risk Groups - Lesbians" contains a clipping and a single pamphlet.  Under "Immunity" is a book Mind and Immunity: Behavioral Immunology an annotated bibliography from 1983.  Cost of AIDS Care is one of the larger groups of folders.  The Funding/Foundation files also contain a wide range of materials including clippings, reports, correspondence, and information on a conference on AIDS funding (in which Philip R. Lee was a participant/organizer).  The Healthcare Professionals folders deal with both protecting the professional from the patient and the patient from the professional. </p>
+</scopecontent>
+	<c02 level="file"><did><container type="Box:folder">7:31-38, 8:1-38</container>
+	<unittitle>AIDS </unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">7:31-32</container>
+		<unittitle>AIDS and Adolescents </unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">7:31</container>
+			<unittitle>Clippings </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">7:32</container>
+			<unittitle>AIDS Education Project: A Curriculum for Teens - Final Report </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04></c03>	
+		<c03 level="file"><did><container type="Box:folder">7:33</container>
+		<unittitle>AIDS and Arts </unittitle>
+		<unitdate calendar="gregorian" era="ce">1989</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">7:34-36</container>
+		<unittitle>Basic Reference Articles/Clippings </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">7:37</container>
+		<unittitle>Clinical Definition </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">7:38</container>
+		<unittitle>Data Gathering Form </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>
+			
+		<c03 level="file"><did><container type="Box:folder">8:1-4</container>
+		<unittitle>Education </unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">8:1</container>
+			<unittitle>Analysis </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:2</container>
+			<unittitle>Policy </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:3-4</container>
+			<unittitle>Events/Updates </unittitle></did>	
+				<c05 level="file"><did><container type="Box:folder">8:3</container>
+				<unittitle>Clippings </unittitle>
+				<unitdate calendar="gregorian" era="ce">1988 </unitdate>
+				<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c05>	
+				<c05 level="file"><did><container type="Box:folder">8:4</container>
+				<unittitle>San Francisco AIDS Foundation Monthly Listings </unittitle>
+				<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c05></c04></c03>	
+		<c03 level="file"><did><container type="Box:folder">8:5</container>
+		<unittitle>AIDS and Kaposi's Sarcoma </unittitle>
+		<unitdate calendar="gregorian" era="ce">1982-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">8:6</container>
+		<unittitle>AIDS and Malignancies </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">8:7</container>
+		<unittitle>AIDS and Neurological Manifestation </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">8:8</container>
+		<unittitle>AIDS and Opportunistic Infections </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">8:9</container>
+		<unittitle>AIDS and Pediatrics </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">8:10</container>
+		<unittitle>AIDS and "Plagues" of the Past </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">8:11</container>
+		<unittitle>AIDS and Pneumocystis Carinii Pneumonia </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">8:12</container>
+		<unittitle>Reading Material </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1989</unitdate></did></c03>
+			
+		<c03 level="file"><did><container type="Box:folder">8:13-22</container>
+		<unittitle>Research</unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">8:13</container>
+			<unittitle>Organizations </unittitle>
+			<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:14</container>
+			<unittitle>Researchers </unittitle>
+			<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:15</container>
+			<unittitle>Funding Sources </unittitle>
+			<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:16</container>
+			<unittitle>University of California, San Francisco	 </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:17</container>
+			<unittitle>Center for AIDS Prevention Studies - CAPS (formerly SAMHA) Bibliographies </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988-1989</unitdate></did></c04></c03>	
+		<c03 level="file"><did><container type="Box:folder">8:18-22</container>
+		<unittitle>Substance Abuse and Mental Health in AIDS (SAMHA) Center</unittitle></did>
+			<c04 level="file"><did><container type="Box:folder">8:18</container>
+			<unittitle>Correspondence </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:19</container>
+			<unittitle>National Institute on Drug Abuse </unittitle>
+			<unitdate calendar="gregorian" era="ce">1982-1987</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:20</container>
+			<unittitle>Other Federal Programs </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987 </unitdate>
+			<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:21</container>
+			<unittitle>National Institute on Mental Health </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:22</container>
+			<unittitle>AIDS Clinical Research Center </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985 </unitdate>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c04></c03>	
+		<c03 level="file"><did><container type="Box:folder">8:23</container>
+		<unittitle>Serology Testing </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">8:24-33</container>
+		<unittitle>Therapies</unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">8:24-25</container>
+			<unittitle>Alternative Therapies </unittitle>
+			<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:26-30</container>
+			<unittitle>Drug Therapies </unittitle></did>	
+				<c05 level="file"><did><container type="Box:folder">15:6</container>
+				<unittitle>Correspondence </unittitle>
+				<unitdate calendar="gregorian" era="ce">1983-1984</unitdate>
+				<note><p><emph render="bold">RESTRICTED</emph></p></note></did></c05>	
+				<c05 level="file"><did><container type="Box:folder">8:26</container>
+				<unittitle>Clippings </unittitle>
+				<unitdate calendar="gregorian" era="ce">1985-1987</unitdate></did></c05>	
+				<c05 level="file"><did><container type="Box:folder">8:27</container>
+				<unittitle>Correspondence, Articles and Directory of Clinical Trials </unittitle>
+				<unitdate calendar="gregorian" era="ce">1985-1986</unitdate></did></c05>	
+				<c05 level="file"><did><container type="Box:folder">8:28</container>
+				<unittitle>Clinical Trials - mostly clippings and articles </unittitle>
+				<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c05>	
+				<c05 level="file"><did><container type="Box:folder">8:29</container>
+				<unittitle>AZT </unittitle>
+				<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c05>	
+				<c05 level="file"><did><container type="Box:folder">8:30</container>
+				<unittitle>AZT Funding </unittitle>
+				<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c05></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:31</container>
+			<unittitle>Drug Development and Marketing </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:32</container>
+			<unittitle>Fraud/Quackery </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:33</container>
+			<unittitle>General </unittitle>
+			<unitdate calendar="gregorian" era="ce">1984-1987</unitdate></did></c04></c03>	
+		<c03 level="file"><did><container type="Box:folder">8:34-35</container>
+		<unittitle>Treatment [Alternative] </unittitle>
+		<unitdate calendar="gregorian" era="ce">1982-1987</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">8:36-38</container>
+		<unittitle>Vaccine</unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">8:36</container>
+			<unittitle>Production </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c04>
+			<c04 level="file"><did><container type="Box:folder">8:37</container>
+			<unittitle>Research </unittitle>
+			<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">8:38</container>
+			<unittitle>Testing</unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c04></c03></c02>
+				
+	<c02 level="file"><did><container type="Box:folder">8:39</container>
+	<unittitle>American Foundation for AIDS Research (AMFAR) </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">8:40</container>
+	<unittitle>American Hospital Association (AHA) </unittitle>
+	<unitdate calendar="gregorian" era="ce">1983 </unitdate>
+	<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">8:41</container>
+	<unittitle>American Medical Association (AMA) - includes 1987 Policy Statement </unittitle>
+	<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">8:42</container>
+	<unittitle>American Public Health Association (APHA) </unittitle>
+	<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">8:43-44</container>
+	<unittitle>Annenberg Center for Health Sciences</unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">8:43</container>
+		<unittitle>Publicity/Background Information </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1987</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">8:44</container>
+		<unittitle>Teleconference - Diagnosis and Pharmacotherapy of Depression in Cancer Patients - includes Audio Cassette and Slides </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03></c02>
+		
+	<c02 level="file"><did><container type="Box:folder">9:1</container>
+	<unittitle>AIDS-related Complex/AIDS-related Conditions (ARC) </unittitle>
+	<unitdate calendar="gregorian" era="ce">1985-1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">9:2</container>
+	<unittitle>Association of American Medical Colleges (AAMC) </unittitle>
+	<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">9:3</container>
+	<unittitle>Association of State and Territorial Health Officials</unittitle>
+	<unitdate calendar="gregorian" era="ce">1986 </unitdate>
+	<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">9:4</container>
+	<unittitle>Bathhouses, Gay	</unittitle>
+	<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">9:5-9</container>
+	<unittitle>Blood Supply </unittitle></did>		
+		<c03 level="file"><did><container type="Box:folder">9:5</container>
+		<unittitle>American Red Cross </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">9:6</container>
+		<unittitle>Blood Products </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">9:7</container>
+		<unittitle>Irwin Memorial Blood Bank </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">9:8</container>
+		<unittitle>Other Community Blood Banks </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">9:9</container>
+		<unittitle>Private - includes handwritten notes </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988 </unitdate>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03></c02>
+			
+	<c02 level="file"><did><container type="Box:folder">9:10</container>
+	<unittitle>Censorship and AIDS Educational Materials </unittitle>
+	<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">9:11</container>
+	<unittitle>Columbia University - Center for Population and Family Health (CPFH) </unittitle>
+	<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">9:12</container>
+	<unittitle>Community College, S.F. District - AIDS Info Packet </unittitle>
+	<unitdate calendar="gregorian" era="ce">1988-1989</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">9:13</container>
+	<unittitle>Communication Technologies - Report on 4th Probability Sample </unittitle>
+	<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">9:14-35</container>
+	<unittitle>Conferences</unittitle></did>		
+		<c03 level="file"><did><container type="Box:folder">9:14-19</container>
+		<unittitle>International</unittitle></did>		
+			<c04 level="file"><did><container type="Box:folder">9:14</container>
+			<unittitle>6th International Conference on  AIDS - San Francisco, CA </unittitle>
+			<unitdate calendar="gregorian" era="ce">1990</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">9:15</container>
+			<unittitle>4th International Conference on AIDS - Stockholm, Sweden </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">9:16-17</container>
+			<unittitle>3rd International Conference on AIDS - Washington, D.C. </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">9:18</container>
+			<unittitle>[2nd ] International Conference on AIDS - Paris, France </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">9:19</container>
+			<unittitle>[1st] International Conference on AIDS (CDC) - Atlanta, GA </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985</unitdate></did></c04></c03>	
+		<c03 level="file"><did><container type="Box:folder">9:20-22</container>
+		<unittitle><unitdate calendar="gregorian" era="ce">1988</unitdate></unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">9:20</container>
+			<unittitle>July - August</unittitle></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">9:21</container>
+			<unittitle>April - June</unittitle></did></c04>
+			<c04 level="file"><did><container type="Box:folder">9:22</container>
+			<unittitle>January - March</unittitle></did></c04></c03>	
+		<c03 level="file"><did><container type="Box:folder">9:23-24</container>
+		<unittitle><unitdate calendar="gregorian" era="ce">1987</unitdate></unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">9:23</container>
+			<unittitle>August - December</unittitle></did></c04>
+			<c04 level="file"><did><container type="Box:folder">9:24</container>
+			<unittitle>January - July</unittitle></did></c04></c03>	
+		<c03 level="file"><did><container type="Box:folder">9:25-32</container>
+		<unittitle><unitdate calendar="gregorian" era="ce">1986</unitdate></unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">9:25</container>
+			<unittitle>April - December </unittitle></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">9:26</container>
+			<unittitle>AIDS/ARC Update '86 - UCSF </unittitle>
+			<unitdate calendar="gregorian" era="ce">July 25-26, 1986</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">9:27</container>
+			<unittitle>AIDS &amp; the Medical Humanities - UCSF </unittitle>
+			<unitdate calendar="gregorian" era="ce">April 10-11, 1986</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">9:28</container>
+			<unittitle>AIDS Research, Health Care and Public Health Strategies - SF </unittitle>
+			<unitdate calendar="gregorian" era="ce">April 8, 1986</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">9:29</container>
+			<unittitle>AIDS in the Drug Abuse Community &amp; Heterosexual Transmission - Newark, NJ </unittitle>
+			<unitdate calendar="gregorian" era="ce">March 31- April, 1986</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">9:30</container>
+			<unittitle>AIDS Hope Help: National Episcopal Church Conference on AIDS Crisis - SF </unittitle>
+			<unitdate calendar="gregorian" era="ce">March 4-7, 1986</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">9:31</container>
+			<unittitle>AIDS: A Community Response, Information &amp; Options for Grantmakers - SF  </unittitle>
+			<unitdate calendar="gregorian" era="ce">January 30, 1986</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">9:32</container>
+			<unittitle>AIDS Public Policy Dimensions - New York City </unittitle>
+			<unitdate calendar="gregorian" era="ce">January 16-17, 1986</unitdate></did></c04></c03>	
+		<c03 level="file"><did><container type="Box:folder">9:33</container>
+		<unittitle>
+		<unitdate calendar="gregorian" era="ce">1985</unitdate></unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">9:33</container>
+			<unittitle>IV Drug Use and AIDS - UCSF  [Speaker's notes]</unittitle>
+			<unitdate calendar="gregorian" era="ce">November 15, 1985</unitdate></did></c04></c03>	
+		<c03 level="file"><did><container type="Box:folder">9:34-35</container>
+		<unittitle>
+		<unitdate calendar="gregorian" era="ce">1984</unitdate></unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">9:34</container>
+			<unittitle>Psychosocial Aspects of AIDS, Glen Cove, NY [CV's] </unittitle>
+			<unitdate calendar="gregorian" era="ce">December 7-9, 1984</unitdate></did></c04>	
+			<c04 level="file"><did><container type="Box:folder">9:35</container>
+			<unittitle>The AIDS Epidemic: Development of Intervention Strategies - San Francisco </unittitle>
+			<unitdate calendar="gregorian" era="ce">May 4-5, 1984</unitdate></did></c04></c03></c02>	
+		<c02 level="file"><did><container type="Box:folder">9:36-38</container>
+		<unittitle>Confidentiality</unittitle></did>	
+			<c03 level="file"><did><container type="Box:folder">9:36</container>
+			<unittitle>HIV Antibody Testing/Test Results </unittitle>
+			<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c03>	
+			<c03 level="file"><did><container type="Box:folder">9:37</container>
+			<unittitle>Contact Tracing/ Medical History </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>	
+			<c03 level="file"><did><container type="Box:folder">9:38</container>
+			<unittitle>Research </unittitle>
+			<unitdate calendar="gregorian" era="ce">1984-1985</unitdate></did></c03></c02>	
+		<c02 level="file"><did><container type="Box:folder">9:39-41</container>
+		<unittitle>Corporate/Business Response to AIDS</unittitle></did>	
+			<c03 level="file"><did><container type="Box:folder">9:39</container>
+			<unittitle><title>AIDS: Corporate America Responds</title>, Allstate Insurance</unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>
+			<c03 level="file"><did><container type="Box:folder">9:40</container>
+			<unittitle>Employee Policies and Programs </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>	
+			<c03 level="file"><did><container type="Box:folder">9:41</container>
+			<unittitle>New Products and Services </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03></c02>	
+		<c02 level="file"><did><container type="Box:folder">9:42</container>
+		<unittitle>Cost of Care - Literature Reviews </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>	
+		<c02 level="file"><did><container type="Box:folder">9:43-50, 10:1-16</container>
+		<unittitle>Cost of AIDS Care </unittitle></did>	
+			<c03 level="file"><did><container type="Box:folder">9:43</container>
+			<unittitle>AIDS Care </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">9:44-46</container>
+			<unittitle>AIDS Cost of Care Study </unittitle></did>			
+				<c04 level="file"><did><container type="Box:folder">9:44-45</container>
+				<unittitle>Interim Reports to California Department of Health Services</unittitle></did>			
+					<c05 level="file"><did><container type="Box:folder">9:44</container>
+					<unittitle>
+					<unitdate calendar="gregorian" era="ce">December 1986 - June 1987</unitdate></unittitle></did></c05>			
+					<c05 level="file"><did><container type="Box:folder">9:45</container>
+					<unittitle>
+					<unitdate calendar="gregorian" era="ce">February 1988</unitdate></unittitle></did></c05></c04>			
+				<c04 level="file"><did><container type="Box:folder">9:46</container>
+				<unittitle>Preliminary Final Report </unittitle>
+				<unitdate calendar="gregorian" era="ce">July 30, 1988</unitdate></did></c04></c03>			
+			<c03 level="file"><did><container type="Box:folder">9:47</container>
+			<unittitle>AIDS Cost of Care "Reader" [includes P.R. Lee testimony to Presidential Commission] </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">9:48</container>
+			<unittitle><title>AIDS ALERT</title> - Special Issues  v. 2:11-12 </unittitle>
+			<unitdate calendar="gregorian" era="ce">November-December 1987</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">9:49</container>
+			<unittitle>Economic Impact </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">9:50</container>
+			<unittitle>Estimating The Direct and Indirect Economic Costs of AIDS - Scitovsky, Rice, Showstack &amp; Lee </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>
+					
+			<c03 level="file"><did><container type="Box:folder">10:1</container>
+			<unittitle>Financing Care, Democratic Study Group, US House of Representatives Special Report </unittitle>
+ 			<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:2</container>
+			<unittitle><title>The Costs of Treating AIDS Under Medicaid: 1986-1991</title> - Rand Institute </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:3</container>
+			<unittitle>Boston University Study (Mary C. Reardon) </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:4</container>
+			<unittitle>AIDS Inpatient Care in the West Bay </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988?</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:5</container>
+			<unittitle>St. Luke's/Roosevelt (NYC) Study </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:6</container>
+			<unittitle>Boston Department of Health/Boston University Study (Seage et al. - includes draft) </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:7</container>
+			<unittitle>Blue Cross Study - Medical Costs of AIDS in California - preliminary draft </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:8</container>
+			<unittitle>Harlem - NYC [HIV infected Children] </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:9</container>
+			<unittitle>Harvard University Study [2 Progress reports] </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:10</container>
+			<unittitle>University of Southern California Proposal for AIDS Cost of Care Study (CDPH) </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>	
+			<c03 level="file"><did><container type="Box:folder">10:11</container>
+			<unittitle>University wide Task Force, Prospective Costs Study, UC San Francisco </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1987</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:12</container>
+			<unittitle>General </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:13</container>
+			<unittitle>San Francisco General Hospital </unittitle>
+			<unitdate calendar="gregorian" era="ce">1984-1986</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:14</container>
+			<unittitle>Institute of Medicine Paper - "Confronting AIDS" - cost of care section </unittitle>
+			<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:15</container>
+			<unittitle>Office of Technology Assessment, US Congress - "The Costs of AIDS: Review of the Estimates" </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:16</container>
+			<unittitle>Office of Technology Assessment - The Impact of AIDS on the Kaiser Permanente Medical Care Program (Northern California Region </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03></c02>			
+		<c02 level="file"><did><container type="Box:folder">10:17</container>
+		<unittitle>Eisenhower Medical Center </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>
+		<c02 level="file"><did><container type="Box:folder">10:18</container>
+		<unittitle>Entertainment Industry and AIDS </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>	
+		<c02 level="file"><did><container type="Box:folder">10:19-21</container>
+		<unittitle>Epidemiology of AIDS</unittitle></did>	
+			<c03 level="file"><did><container type="Box:folder">10:19</container>
+			<unittitle>Europe </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>	
+			<c03 level="file"><did><container type="Box:folder">10:20</container>
+			<unittitle>Research Studies </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>	
+			<c03 level="file"><did><container type="Box:folder">10:21</container>
+			<unittitle>Worldwide </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03></c02>	
+		<c02 level="file"><did><container type="Box:folder">10:22</container>
+		<unittitle>Ethical Issues </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c02>	
+		<c02 level="file"><did><container type="Box:folder">10:23-24</container>
+		<unittitle>ETR Associates </unittitle></did>	
+			<c03 level="file"><did><container type="Box:folder">10:23</container>
+			<unittitle>Latino Issues </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986 </unitdate>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+			<c03 level="file"><did><container type="Box:folder">10:24</container>
+			<unittitle>AIDS Clearinghouse &amp; Network Publications </unittitle>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03></c02>	
+		<c02 level="file"><did><container type="Box:folder">10:25</container>
+		<unittitle>Family Planning - Title X AIDS Protocols </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>	
+		<c02 level="file"><did><container type="Box:folder">10:26</container>
+		<unittitle>Fashion Industry </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c02>	
+		<c02 level="file"><did><container type="Box:folder">10:27-36</container>
+		<unittitle>Foundations, Role of </unittitle></did>	
+			<c03 level="file"><did><container type="Box:folder">10:27</container>
+			<unittitle>Council on Foundations </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>
+			<c03 level="file"><did><container type="Box:folder">10:28</container>
+			<unittitle>General Information [includes Correspondence] </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>
+			<c03 level="file"><did><container type="Box:folder">10:29</container>
+			<unittitle>Northern California Grantmakers Conference </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1986 </unitdate>
+			<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+			<c03 level="file"><did><container type="Box:folder">10:30</container>
+			<unittitle>NY Regional Association of Grantmakers </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:31-32</container>
+			<unittitle>S. H. Cowell Foundation - [2 folders] </unittitle>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:33</container>
+			<unittitle>Henry J. Kaiser Family Foundation </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:34</container>
+			<unittitle>William Penn Foundation </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:35</container>
+			<unittitle>Pew Memorial Trusts </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985 </unitdate>
+			<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>			
+			<c03 level="file"><did><container type="Box:folder">10:36</container>
+			<unittitle>Robert Wood Johnson Foundation </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1989</unitdate></did></c03></c02>			
+				
+	<c02 level="file"><did><container type="Box:folder">10:37</container>
+	<unittitle>Funding - Public Health Funding Directory for the City and County of San Francisco </unittitle>
+	<unitdate calendar="gregorian" era="ce">1981</unitdate></did></c02>
+	<c02 level="file"><did><container type="Box:folder">10:38</container>
+	<unittitle>Gay and Lesbian Adolescent Social Services, Inc. (GLASS) </unittitle>
+	<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">10:39-43</container>
+	<unittitle>Health Care Providers and AIDS</unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">10:39</container>
+		<unittitle>Nurses </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985 </unitdate>	
+		<unitdate calendar="gregorian" era="ce">1987 </unitdate>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">10:40</container>
+		<unittitle>Social Workers/Therapists </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">10:41</container>
+		<unittitle>Physicians </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">10:42</container>
+		<unittitle>Dental Workers </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">10:43</container>
+		<unittitle>General </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c03></c02>
+		
+	<c02 level="file"><did><container type="Box:folder">11:1-2</container>
+	<unittitle>Health Maintenance Organizations</unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">11:1</container>
+		<unittitle>General </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">11:2</container>
+		<unittitle>Kaiser Foundation Health Plan/Kaiser Permanente </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03></c02>
+			
+	<c02 level="file"><did><container type="Box:folder">11:3</container>
+	<unittitle>Health Planning and Administration </unittitle>
+	<unitdate calendar="gregorian" era="ce">1982</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">11:4</container>
+	<unittitle>Hemophilia - Northern California Hemophilia Foundation (NCHF) </unittitle>
+	<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">11:5</container>
+	<unittitle>Hispanic Community and AIDS </unittitle>
+	<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">11:6-7</container>
+	<unittitle>Home Care</unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">11:6</container>
+		<unittitle>Industry materials </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986 </unitdate>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">11:7</container>
+		<unittitle>Clippings and Papers </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03></c02>	
+	<c02 level="file"><did><container type="Box:folder">11:8</container>
+	<unittitle>H.O.M. Group, Inc (Innovators in Healthcare, Organization and Management </unittitle>
+	<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">11:9</container>
+	<unittitle>Homosexuality </unittitle>
+	<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">11:10</container>
+	<unittitle>Homosexual Rights </unittitle>
+	<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">11:11</container>
+	<unittitle>Hospice Care </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">11:12</container>
+	<unittitle>Hospital Associations West Bay Hospital Conference </unittitle>
+	<unitdate calendar="gregorian" era="ce">1985-1987</unitdate></did></c02>
+	<c02 level="file"><did><container type="Box:folder">11:13-19</container>
+	<unittitle>Hospital Care</unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">11:13</container>
+		<unittitle>Desert Hospital </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">11:14</container>
+		<unittitle>Inpatient Care </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">11:15</container>
+		<unittitle>Kaiser Permanente Medical Facilities </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">11:16</container>
+		<unittitle>National Association of Public Hospitals Survey </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">11:17</container>
+		<unittitle>Outpatient Care </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">11:18</container>
+		<unittitle>Private Hospitals - (AIDS Hospital in Houston) </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">11:19</container>
+		<unittitle>Public Hospitals </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03></c02>
+	<c02 level="file"><did><container type="Box:folder">11:20</container>
+	<unittitle>Housing </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>
+	<c02 level="file"><did><container type="Box:folder">11:21-27</container>
+	<unittitle>Human Immunodeficiency Virus (HIV)</unittitle></did>		
+		<c03 level="file"><did><container type="Box:folder">11:21</container>
+		<unittitle>HIV and Other Deficiencies </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">11:22</container>
+		<unittitle>Genetic Susceptibility </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">11:23</container>
+		<unittitle>HIV-like Viruses </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">11:24</container>
+		<unittitle>Nature	</unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">11:25</container>
+		<unittitle>Infection in Parturients </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">11:26</container>
+		<unittitle>Other Viral Diseases </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">11:27</container>
+		<unittitle>Transmission </unittitle>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03></c02>	
+	<c02 level="file"><did><container type="Box:folder">11:28-35</container>
+	<unittitle>HIV Antibody Testing </unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">11:28</container>
+		<unittitle>Military </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">11:29</container>
+		<unittitle>Test Development and Marketing </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">11:30</container>
+		<unittitle>Blood Banks </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1986</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">11:31</container>
+		<unittitle>General Information on Test </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">11:32</container>
+		<unittitle>Employment/Testing in the Workplace </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">11:33</container>
+		<unittitle>Testing in Other Population Groups </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">11:34</container>
+		<unittitle>Insurance </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">11:35</container>
+		<unittitle>Antigen Testing </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03></c02>		
+	<c02 level="file"><did><container type="Box:folder">11:36</container>
+	<unittitle>HIV Disease </unittitle>
+	<unitdate calendar="gregorian" era="ce">1984 </unitdate>
+	<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c02>		
+	<c02 level="file"><did><container type="Box:folder">11:37</container>
+	<unittitle>HIV equals AIDS Debate </unittitle>
+	<unitdate calendar="gregorian" era="ce">1983 </unitdate>
+	<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>
+	<c02 level="file"><did><container type="Box:folder">11:38-42</container>
+	<unittitle>Human Rights/Civil Rights</unittitle></did>		
+		<c03 level="file"><did><container type="Box:folder">11:38</container>
+		<unittitle>General </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">11:39</container>
+		<unittitle>Federal Policies </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">11:40</container>
+		<unittitle>Local Policies </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">11:41</container>
+		<unittitle>Private Sector Policies </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">11:42</container>
+		<unittitle>State Policies </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03></c02>		
+	<c02 level="file"><did><container type="Box:folder">11:43-44</container>
+	<unittitle>Immune System</unittitle></did>
+		<c03 level="file"><did><container type="Box:folder">11:43</container>
+		<unittitle>Clippings, Articles, etc. </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">11:44</container>
+		<unittitle>Book - <title>Mind and Immunity: Behavioral Immunology: An Annotated Bibliography 1976-1982</title> </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983</unitdate></did></c03></c02>	
+	<c02 level="file"><did><container type="Box:folder">11:45</container>
+	<unittitle>Infection Control </unittitle>
+	<unitdate calendar="gregorian" era="ce">1983-1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">11:46</container>
+	<unittitle>Information Networks - AIDS Teleforum </unittitle>
+	<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">11:47</container>
+	<unittitle>Institute for Advanced Study of Human Sexuality </unittitle>
+	<unitdate calendar="gregorian" era="ce">1985 </unitdate>
+	<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">11:48</container>
+	<unittitle>Institute for International Research </unittitle>
+	<unitdate calendar="gregorian" era="ce">c. 1986</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:1-4</container>
+	<unittitle>Insurance Companies</unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">12:1</container>
+		<unittitle>Coverage Issues </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">12:2</container>
+		<unittitle>Rates (also includes random notes and cards) </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">12:3</container>
+		<unittitle>Private Health Insurance </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988 </unitdate>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">12:4</container>
+		<unittitle>Information File on AIDS and Insurance </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:5-6</container>
+	<unittitle>Intergovernmental Health Policy Project</unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">12:5</container>
+		<unittitle><unitdate calendar="gregorian" era="ce">1985-1986</unitdate>
+		</unittitle></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">12:6</container>
+		<unittitle><unitdate calendar="gregorian" era="ce">1987-1988</unitdate>
+		</unittitle></did></c03></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:7</container>
+	<unittitle>International Institute of San Francisco </unittitle>
+	<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:8-9</container>
+	<unittitle>Intravenous (IV) Drug Use</unittitle></did>		
+		<c03 level="file"><did><container type="Box:folder">12:8</container>
+		<unittitle>General </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1989</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">12:9</container>
+		<unittitle>Goldberg Study and related articles/correspondence </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03></c02>
+			
+	<c02 level="file"><did><container type="Box:folder">12:10</container>
+	<unittitle>John Hopkins University </unittitle>
+	<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:11</container>
+	<unittitle>Legal Issues re: AIDS </unittitle>
+	<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:12</container>
+	<unittitle>Legal Services </unittitle>
+	<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:13</container>
+	<unittitle>Long Term Care </unittitle>
+	<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c02>
+	<c02 level="file"><did><container type="Box:folder">12:14</container>
+	<unittitle>Media Coverage of AIDS and Sex </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:15</container>
+	<unittitle>Mental Health </unittitle>
+	<unitdate calendar="gregorian" era="ce">1985-1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:16</container>
+	<unittitle>Military	</unittitle>
+	<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:17-33</container>
+	<unittitle>National AIDS and Gay Advocacy Organizations and Groups</unittitle></did>			
+		<c03 level="file"><did><container type="Box:folder">12:17</container>
+		<unittitle>ACT UP </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">12:18</container>
+		<unittitle>AIDS Action Council/AIDS Action Foundation </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">12:19</container>
+		<unittitle>Federation of AIDS-Related Organizations </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984?</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">12:20</container>
+		<unittitle>Gay Rights National Lobby </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">12:21</container>
+		<unittitle>Mobilization Against AIDS </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">12:22</container>
+		<unittitle>Mother Cares </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">12:23</container>
+		<unittitle>Names Project </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">12:24-26</container>
+		<unittitle>National AIDS Network</unittitle></did>		
+			<c04 level="file"><did><container type="Box:folder">12:24</container>
+			<unittitle><unitdate calendar="gregorian" era="ce">1987-1988</unitdate></unittitle></did></c04>		
+			<c04 level="file"><did><container type="Box:folder">12:25</container>
+			<unittitle><unitdate calendar="gregorian" era="ce">1986-1988</unitdate></unittitle></did></c04>		
+			<c04 level="file"><did><container type="Box:folder">12:26</container>
+			<unittitle><unitdate calendar="gregorian" era="ce">1989</unitdate></unittitle></did></c04></c03>		
+		<c03 level="file"><did><container type="Box:folder">12:27</container>
+		<unittitle>National Gay and Lesbian Task Force (NGLTF) </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">12:28</container>
+		<unittitle>National Gay Rights Advocacy </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">12:29</container>
+		<unittitle>National Leadership Coalition on AIDS </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987?</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">12:30</container>
+		<unittitle>National Network of Educators for AIDS Prevention</unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">12:31</container>
+		<unittitle>Parents and Friends of Lesbians and Gays (PFLAG) </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984 </unitdate>	
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">12:32</container>
+		<unittitle>SAGE </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986? </unitdate>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">12:33</container>
+		<unittitle>Stop AIDS Foundation	</unittitle>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03></c02>		
+	<c02 level="file"><did><container type="Box:folder">12:34</container>
+	<unittitle>National Academy of Science - <title>Confronting AIDS</title> </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c02>		
+	<c02 level="file"><did><container type="Box:folder">12:35</container>
+	<unittitle>National Association of Counties - AIDS Task Force </unittitle>
+	<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c02>		
+	<c02 level="file"><did><container type="Box:folder">12:36</container>
+	<unittitle>National Conference of Mayors </unittitle>
+	<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:37</container>
+	<unittitle>National Foundation for Infectious Diseases </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:38</container>
+	<unittitle>Nursing Services </unittitle>
+	<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:39</container>
+	<unittitle>Nutrition </unittitle>
+	<unitdate calendar="gregorian" era="ce">1981-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:40</container>
+	<unittitle>Persons With AIDS - Personal Stories </unittitle>
+	<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">12:41-47</container>
+	<unittitle>Prevention and Control </unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">12:41</container>
+		<unittitle>Condoms </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">12:42</container>
+		<unittitle>Spermacides </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">12:43</container>
+		<unittitle>Evalution of Effecivness </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">12:44</container>
+		<unittitle>Program Evaluation in N.J., N.M. and N.C. - research paper </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">12:45-47</container>
+		<unittitle>Information and Education </unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">12:45-46</container>
+			<unittitle>General Public </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988 </unitdate>
+			<unitdate calendar="gregorian" era="ce">1983-1986</unitdate></did></c04>
+			<c04 level="file"><did><container type="Box:folder">12:47</container>
+			<unittitle>High-risk Group </unittitle>
+			<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c04></c03>	
+		<c03 level="file"><did><container type="Box:folder">12:48</container>
+		<unittitle>Risk Reduction Programs and Services (High Risk Groups) </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">12:49</container>
+		<unittitle>Risk Reduction Practices </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988 </unitdate>		
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03></c02>
+		
+	<c02 level="file"><did><container type="Box:folder">13:1</container>
+	<unittitle>Private Foundations - Funding for AIDS </unittitle>
+	<unitdate calendar="gregorian" era="ce">1987 </unitdate>
+	<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">13:2</container>
+	<unittitle>Prisons </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">13:3</container>
+	<unittitle>Psychological Issues </unittitle>
+	<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">13:4</container>
+	<unittitle>Public/Community Reaction </unittitle>
+	<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">13:5</container>
+	<unittitle>Public Opinion Polls </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>
+	<c02 level="file"><did><container type="Box:folder">13:6-9</container>
+	<unittitle>Public Policy Issues</unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">13:6</container>
+		<unittitle>Women with AIDS/<title>AIDS &amp; Public Policy Journal</title> </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988 </unitdate>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">13:7</container>
+		<unittitle>Federal </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">13:8</container>
+		<unittitle>Local </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:9</container>
+		<unittitle>State </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985</unitdate></did></c03></c02>	
+	<c02 level="file"><did><container type="Box:folder">13:10</container>
+	<unittitle>Public Relations/Benefits for AIDS </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">13:11</container>
+	<unittitle>Religious and Interfaith AIDS Groups </unittitle>
+	<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">13:12</container>
+	<unittitle>Religious Dominations' Policies on AIDS and Homosexuality </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">13:13-30</container>
+	<unittitle>Risk Groups</unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">13:13</container>
+		<unittitle>Asians </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:14</container>
+		<unittitle>Bisexual Men </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:15</container>
+		<unittitle>Blacks </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:16</container>
+		<unittitle>Blood Transfusion Recipients </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:17</container>
+		<unittitle>Children of Persons with AIDS </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:18</container>
+		<unittitle>Haitians </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:19</container>
+		<unittitle>Hemophiliacs </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:20</container>
+		<unittitle>Heterosexuals </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:21</container>
+		<unittitle>Hispanics </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:22</container>
+		<unittitle>Homosexual Men </unittitle>
+		<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:23</container>
+		<unittitle>Intravenous (IV) Drug Users </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:24</container>
+		<unittitle>Lesbians </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:25</container>
+		<unittitle>Minorities </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:26</container>
+		<unittitle>Native Americans </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:27</container>
+		<unittitle>Organ Donation Recipients </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:28</container>
+		<unittitle>Prostitutes </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:29-30</container>
+		<unittitle>Women</unittitle></did>
+			<c04 level="file"><did><container type="Box:folder">13:29</container>
+			<unittitle>General </unittitle>
+			<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c04>
+			<c04 level="file"><did><container type="Box:folder">13:30</container>
+			<unittitle>Women and AIDS Clinical Resources Guide </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986</unitdate></did></c04></c03></c02>
+	<c02 level="file"><did><container type="Box:folder">13:31-37</container>
+	<unittitle>Schools and AIDS</unittitle></did>
+		<c03 level="file"><did><container type="Box:folder">13:31</container>
+		<unittitle>Universities and Colleges </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:32</container>
+		<unittitle>High Schools </unittitle>
+		<unitdate calendar="gregorian" era="ce">1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">13:33</container>
+		<unittitle>Elementary Schools and Day Care </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:34</container>
+		<unittitle>Sex Education/Family Life Education </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988 </unitdate>
+		<unitdate calendar="gregorian" era="ce">n.d.</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">13:35</container>
+		<unittitle>Polices re: Students/Teachers with AIDS </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">13:36-37</container>
+		<unittitle>AIDS Education and Information</unittitle></did>		
+			<c04 level="file"><did><container type="Box:folder">13:36</container>
+			<unittitle>Clippings and Articles </unittitle>
+			<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c04>
+			<c04 level="file"><did><container type="Box:folder">13:37</container>
+			<unittitle>Books, pamphlets, other material </unittitle>
+			<unitdate calendar="gregorian" era="ce">1979 </unitdate>
+			<unitdate calendar="gregorian" era="ce">1983-1988</unitdate></did></c04></c03></c02>		
+	<c02 level="file"><did><container type="Box:folder">13:38</container>
+	<unittitle>Sexually Transmitted Diseases </unittitle>
+	<unitdate calendar="gregorian" era="ce">1982-1988</unitdate></did></c02>
+	<c02 level="file"><did><container type="Box:folder">13:39</container>
+	<unittitle>Social Impact of AIDS </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>
+	<c02 level="file"><did><container type="Box:folder">14:1-3</container>
+	<unittitle>States</unittitle></did>
+		<c03 level="file"><did><container type="Box:folder">14:1</container>
+		<unittitle>AIDS Expenditures </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">14:2</container>
+		<unittitle>AIDS Legislation </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>
+		<c03 level="file"><did><container type="Box:folder">14:3</container>
+		<unittitle>AIDS Program Activities </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985</unitdate></did></c03></c02>
+			
+	<c02 level="file"><did><container type="Box:folder">14:4-8</container>
+	<unittitle>Substance Abuse</unittitle></did>	
+		<c03 level="file"><did><container type="Box:folder">14:4</container>
+		<unittitle>Alcohol </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1986</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">14:5</container>
+		<unittitle>Intravenous (IV) Drugs </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">14:6</container>
+		<unittitle>Other Drugs </unittitle>
+		<unitdate calendar="gregorian" era="ce">1984-1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">14:7</container>
+		<unittitle>Policies </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985 </unitdate>
+		<unitdate calendar="gregorian" era="ce">1987</unitdate></did></c03>		
+		<c03 level="file"><did><container type="Box:folder">14:8</container>
+		<unittitle>Programs </unittitle>
+		<unitdate calendar="gregorian" era="ce">1987-1988</unitdate></did></c03></c02>	
+
+	<c02 level="file"><did><container type="Box:folder">14:9-10</container>
+	<unittitle>URSA Institute </unittitle></did>
+		<c03 level="file"><did><container type="Box:folder">14:9</container>
+		<unittitle>AIDS Community Education Effectiveness </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1987</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">14:10</container>
+		<unittitle>AIDS Supportive Services Assessment </unittitle>
+		<unitdate calendar="gregorian" era="ce">1982-1986</unitdate></did></c03></c02>
+			
+	<c02 level="file"><did><container type="Box:folder">14:11</container>
+	<unittitle>Women and AIDS re: Montreal Conference	</unittitle>
+	<unitdate calendar="gregorian" era="ce">1989</unitdate></did></c02>	
+	<c02 level="file"><did><container type="Box:folder">14:12-13, 15:1-3</container>
+	<unittitle>Workplace</unittitle></did>
+		<c03 level="file"><did><container type="Box:folder">14:12</container>
+		<unittitle>Articles and Clippings </unittitle>
+		<unitdate calendar="gregorian" era="ce">1985-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">14:13</container>
+		<unittitle>Events/Correspondence, etc.	 </unittitle>
+		<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c03>	
+		<c03 level="file"><did><container type="Box:folder">15:1-3</container>
+		<unittitle>Publications </unittitle></did>	
+			<c04 level="file"><did><container type="Box:folder">15:1</container>
+			<unittitle>
+			<unitdate calendar="gregorian" era="ce">1987 </unitdate>
+			<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle></did></c04>
+			<c04 level="file"><did><container type="Box:folder">15:2</container>
+			<unittitle>
+			<unitdate calendar="gregorian" era="ce">1987-1988 </unitdate>
+			<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle></did></c04>
+			<c04 level="file"><did><container type="Box:folder">15:3</container>
+			<unittitle>
+			<unitdate calendar="gregorian" era="ce">1987 </unitdate>
+			<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle></did></c04></c03></c02>
+	<c02 level="file"><did><container type="Box:folder">15:4</container>
+	<unittitle>World Health Organization </unittitle>
+	<unitdate calendar="gregorian" era="ce">1986-1988</unitdate></did></c02>
+		
+	<c02 level="file"><did><container type="Box:folder">15:5</container>
+	<unittitle>SERIES 2:  San Francisco General - Hospital Utilization Review (Challenges to MediCal denials) </unittitle>
+	<unitdate calendar="gregorian" era="ce">1985-1986</unitdate></did>
+	<note><p><emph render="bold">RESTRICTED</emph></p>
+	</note></c02>	
+	<c02 level="file"><did><container type="Box:folder">15:6</container>
+	<unittitle>SERIES 5:  Drug Therapies - Correspondence </unittitle>
+	<unitdate calendar="gregorian" era="ce">1983-1984</unitdate></did>
+	<note><p><emph render="bold">RESTRICTED</emph></p>
+	</note></c02>	
+	</c01>		
+		
+					
+</dsc>
+</archdesc>
+</ead>
