@@ -1,7 +1,13 @@
 'use strict'
 
 const path = require('path')
-const eadRaw = require('fs').readFileSync(path.join(__dirname, '/aids-rp.xml'), 'utf-8')
+
+if (!process.argv[2]) {
+  console.error('Usage: ead2calisphere input.xml')
+  process.exit(1)
+}
+
+const eadRaw = require('fs').readFileSync(path.join(__dirname, process.argv[2]), 'utf-8')
 
 const htmlparser2 = require('htmlparser2')
 
