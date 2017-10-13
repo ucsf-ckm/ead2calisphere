@@ -233,40 +233,40 @@ const handlers = {
    */
   onopentag: function (name, attribs) {
     tagStack.push({name, attribs})
-    if (name === 'language') {
+    if (/^language$/i.test(name)) {
       language = {name, attribs, text: ''}
       languageStack.push(language)
     }
-    if (attribs.level === 'file') {
+    if (/^file$/i.test(attribs.level)) {
       if (dataMap.size > 0) {
         // This map encloses another map, so do not display on line by itself.
         dataMap.set('DONOTDISPLAY', true)
         dataMapStack.push(dataMap)
         dataMap = new Map()
       }
-      fileLevelTagStack.push(name)
+      fileLevelTagStack.push(name.toLowerCase())
     }
   },
   ontext: function (text) {
     const thisTag = tagStack[tagStack.length - 1]
     if (thisTag) {
-      if (thisTag.name === 'unitid' && thisTag.attribs.label === 'Collection number') {
+      if (/^unitid$/i.test(thisTag.name) && /^collection number$/i.test(thisTag.attribs.label)) {
         collectionNumber = text.trim().replace(/\s+/g, '')
       }
-      if (thisTag.name === 'language') {
+      if (/^language$/i.test(thisTag.name)) {
         language.text += text
       }
     }
-    if (tagStack.filter((tag) => { return tag.name === 'origination' && tag.attribs.label === 'Creator' }).length > 0) {
+    if (tagStack.filter((tag) => { return /^origination$/i.test(tag.name) && /^creator$/i.test(tag.attribs.label) }).length > 0) {
       creator += text.trim()
       if (['corpname', 'famname', 'persname'].includes(thisTag.name)) {
         creatorType = thisTag.name
-        if (thisTag.attribs.source === 'lcnaf') {
+        if (/^lcnaf$/i.test(thisTag.attribs.source)) {
           creatorSource = 'naf'
         }
       }
     }
-    if (tagStack.filter((tag) => tag.name === 'controlaccess').length > 0) {
+    if (tagStack.filter((tag) => /^controlaccess$/i.test(tag.name)).length > 0) {
       if (['corpname', 'famname', 'persname'].includes(thisTag.name)) {
         if (subjectNameIndex === subjectName.length) {
           throw new Error(`Too many Names! Max: ${subjectName.length}`)
@@ -276,7 +276,7 @@ const handlers = {
         mine.name = text.trim() // This assumes no nested tags in the names
         mine.type = thisTag.name
         mine.role = ''
-        mine.source = thisTag.attribs.source === 'lcnaf' ? 'naf' : 'local'
+        mine.source = /^lcnaf$/i.test(thisTag.attribs.source) ? 'naf' : 'local'
         mine.authrityId = ''
       }
       if (['subject'].includes(thisTag.name)) {
@@ -287,7 +287,7 @@ const handlers = {
         subjectTopicIndex++
         mine.heading = text.trim() // This assumes no nested tags in topics
         mine.headingType = 'topic'
-        mine.source = thisTag.attribs.source === 'lcsh' ? 'lcsh' : 'local'
+        mine.source = /^lcsh$/i.test(thisTag.attribs.source) ? 'lcsh' : 'local'
         mine.authorityId = ''
       }
     }
@@ -313,13 +313,13 @@ const handlers = {
   onclosetag: function (tagname) {
     const expectedTag = tagStack.pop()
     if (expectedTag.name !== tagname) { throw new Error(`Invalid XML: Expected closing tag ${expectedTag.name} but saw ${tagname}`) }
-    if (tagname === fileLevelTagStack[fileLevelTagStack.length - 1]) {
+    if (tagname.toLowerCase() === fileLevelTagStack[fileLevelTagStack.length - 1]) {
       fileLevelTagStack.pop()
 
       displayData(dataMap)
       dataMap = dataMapStack.pop() || new Map()
     }
-    if (tagname === 'language') {
+    if (/^language$/i.test(tagname)) {
       language = languageStack.pop()
     }
   }
