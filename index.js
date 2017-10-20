@@ -61,11 +61,13 @@ const displayData = (data) => {
   output.push('')
 
   // Local identifier
-  const container = data.get('container').replace(/[: ]/, '_')
+  const container = data.get('container')
   if (!container) {
     throw new Error('no container found')
   }
-  output.push(`${collectionNumber.trim().replace(/\s+/g, '')}_${container}`.toLowerCase())
+  const containers = container.split(/[ :]/)
+  const containersPadded = containers.map((val) => val.padStart(3, '0'))
+  output.push(`${collectionNumber.trim().replace(/\s+/g, '')}_${containersPadded.join('_')}`.toLowerCase())
 
   // Type: leave blank
   output.push('')
@@ -187,6 +189,7 @@ const displayData = (data) => {
   // Related Resource: leave blank
   output.push('')
 
+  // Source
   output.push(`${collectionTitle}, ${collectionNumber}, ${containerDisplay}`)
 
   subjectName.forEach((val) => {
