@@ -21,6 +21,8 @@ let creatorType = ''
 let creatorSource = 'local'
 let language = {}
 let languageStack = []
+let collectionTitle = ''
+let containerDisplay = ''
 
 const subjectName = [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}]
 let subjectNameIndex = 0
@@ -59,11 +61,11 @@ const displayData = (data) => {
   output.push('')
 
   // Local identifier
-  const container = data.get('container').replace(':', '_')
+  const container = data.get('container').replace(/[: ]/, '_')
   if (!container) {
     throw new Error('no container found')
   }
-  output.push(`${collectionNumber}_${container}`.toLowerCase())
+  output.push(`${collectionNumber.trim().replace(/\s+/g, '')}_${container}`.toLowerCase())
 
   // Type: leave blank
   output.push('')
@@ -185,8 +187,7 @@ const displayData = (data) => {
   // Related Resource: leave blank
   output.push('')
 
-  // Source: leave blank
-  output.push('')
+  output.push(`${collectionTitle}, ${collectionNumber}, ${containerDisplay}`)
 
   subjectName.forEach((val) => {
     output.push(val.name || '')
@@ -245,16 +246,28 @@ const handlers = {
         dataMap = new Map()
       }
       fileLevelTagStack.push(name.toLowerCase())
+      containerDisplay = ''
     }
   },
   ontext: function (text) {
     const thisTag = tagStack[tagStack.length - 1]
     if (thisTag) {
+      const prevTag = tagStack[tagStack.length - 2]
+      const prevPrevTag = tagStack[tagStack.length - 3]
+      if (/^unittitle$/i.test(thisTag.name) && /^did$/i.test(prevTag.name) && /^archdesc$/i.test(prevPrevTag.name)) {
+        collectionTitle += text
+      }
       if (/^unitid$/i.test(thisTag.name) && /^collection number$/i.test(thisTag.attribs.label)) {
-        collectionNumber = text.trim().replace(/\s+/g, '')
+        collectionNumber += text
       }
       if (/^language$/i.test(thisTag.name)) {
         language.text += text
+      }
+      if (/^container$/i.test(thisTag.name)) {
+        const types = thisTag.attribs.type.split(':')
+        const texts = text.split(':')
+        const pieces = types.map((type, idx) => `${type} ${texts[idx]}`)
+        containerDisplay += pieces.join(', ')
       }
     }
     if (tagStack.filter((tag) => { return /^origination$/i.test(tag.name) && /^creator$/i.test(tag.attribs.label) }).length > 0) {
