@@ -143,7 +143,7 @@ const displayData = (data) => {
   // Language code
   output.push(language.attribs.langcode)
 
-  // Temporary restrictions: leave blank
+  // Temporal coverage: leave blank
   output.push('')
 
   // Transcription: leave blank
