@@ -260,7 +260,7 @@ const handlers = {
       if (/^unittitle$/i.test(thisTag.name) && /^did$/i.test(prevTag.name) && /^archdesc$/i.test(prevPrevTag.name)) {
         collectionTitle += text
       }
-      if (/^unitid$/i.test(thisTag.name) && /^collection number$/i.test(thisTag.attribs.label)) {
+      if (/^unitid$/i.test(thisTag.name) && /^did$/i.test(prevTag.name) && /^archdesc$/i.test(prevPrevTag.name) && /^collection$/i.test(prevPrevTag.attribs.level)) {
         collectionNumber += text
       }
       if (/^language$/i.test(thisTag.name)) {
