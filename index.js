@@ -37,6 +37,9 @@ const displayData = (data) => {
     throw new Error('no collection number found')
   }
 
+  const container = data.get('container')
+  if (!container) { return }
+
   const output = []
   // File path: leave blank
   output.push('')
@@ -61,10 +64,6 @@ const displayData = (data) => {
   output.push('')
 
   // Local identifier
-  const container = data.get('container')
-  if (!container) {
-    throw new Error('no container found')
-  }
   const containers = container.split(/[ :]/)
   const containersPadded = containers.map((val) => val.padStart(3, '0'))
   output.push(`${collectionNumber.trim().replace(/\s+/g, '')}_${containersPadded.join('_')}_0000`.toLowerCase())

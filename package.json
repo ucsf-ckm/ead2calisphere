@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "standard"
+    "test": "standard && node test/test.js"
   },
   "author": "Rich Trott <rtrott@gmail.com>",
   "license": "MIT",

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+<eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CSf">peoplevsowen.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid to the People vs. Owen Bathhouse Closure Litigation Records, 1984-1987
+                </titleproper>
+                <titleproper type="filing">People vs. Owen Bathhouse Closure Litigation Records</titleproper>
+                <author>Finding aid prepared by Wendy Kramer</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>San Francisco History Center, San Francisco Public Library</publisher>
+                <address>
+                    <addressline>100 Larkin Street</addressline>
+                    <addressline>San Francisco, CA, 94102</addressline>
+                    <addressline>(415) 557-4567</addressline>
+                    <addressline>info@sfpl.org</addressline>
+                </address>
+                <date>2008</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-11-08T16:05-0800</date>
+            </creation>
+<langusage>Finding aid written in: <language langcode="eng" scriptcode="Latn">English.</language></langusage>            
+<descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>People vs. Owen Bathhouse Closure Litigation Records</unittitle>
+            <unitdate normal="1984/1987" type="inclusive">1984-1987</unitdate>
+  	    <unitid label="Collection Identifier" repositorycode="US-CSf" countrycode="US">SFH 31</unitid>            
+            <origination label="Creator">
+                <corpname rules="aacr" source="local">San Francisco (Calif.). Bureau of Communicable Disease Control.</corpname>
+            </origination>
+            <physdesc>
+                <extent>1 carton</extent>
+                <extent>(1.0 cubic feet)</extent>
+            </physdesc>
+            <repository>
+                <corpname>San Francisco History Center, San Francisco Public Library</corpname>
+                <address>
+                    <addressline>100 Larkin Street</addressline>
+                    <addressline>San Francisco, CA, 94102</addressline>
+                    <addressline>(415) 557-4567</addressline>
+                    <addressline>info@sfpl.org</addressline>
+                </address>		
+		</repository>
+            <abstract id="ref48" label="Abstract">Court documents and other records related to the case People of the State of California, ex rel. George Agnost, et al. vs. Ima Jean Owen, et al. (Superior Court No. 830-321), aka People vs. Owen, filed October 10, 1984, by San Francisco City Attorney George Agnost and Director of Public Health Mervyn Silverman, in an effort to close fourteen bathhouses, sex clubs, bookstores, and adult movie theaters by claiming them to be a public nuisance, in response to the burgeoning AIDS epidemic.</abstract>
+            <physloc id="ref6" label="Physical Location">The collection is stored onsite.</physloc>
+	    <langmaterial label="Language of Materials">Collection materials are in <language langcode="eng">English.</language></langmaterial>
+	</did>
+        <accessrestrict id="ref3">
+            <head>Access</head>
+            <p>The collection is open for research. Please call the San Francisco History Center for hours and information at 415-557-4567.</p>
+            <p>Four confidential documents written between City Attorneys and Department of Public Health officials are restricted from public access.</p>
+        </accessrestrict>
+        <userestrict id="ref46">
+            <head>Publication Rights</head>
+            <p>All requests for permission to publish or quote from manuscripts must be submitted in writing to the City Archivist. Permission for publication is given on behalf of the San Francisco Public Library as the owner of the physical items.</p>
+        </userestrict>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], People vs. Owen Bathhouse Closure Litigation Records, 1984-1987 (SFH 31), San Francisco History Center, San Francisco Public Library.</p>
+        </prefercite>
+        <acqinfo id="ref1">
+            <head>Provenance</head>
+            <p>The collection was acquired via an anonymous donation December 18, 1996.</p>
+        </acqinfo>
+        <relatedmaterial id="ref9">
+            <head>Related Archival Materials</head>
+            <p>Researchers are encouraged to see also AIDS Office of the San Francisco Department of Public Health Records, 1982-1994 (SFH 4).</p>
+        </relatedmaterial>
+        <relatedmaterial id="ref8">
+            <head>Related Publications</head>
+            <p>Researchers are encouraged to see also "The San Francisco Bathhouse Battles of 1984: Civil Liberties, AIDS Risk, and Shifts in Health Policy." Disman, Christopher. Co-published simultaneously in 
+                <title render="italic">Journal of Homosexuality</title>, (Harrington Park Press, an imprint of The Haworth Press, Inc.) Vol. 44, Nos. ¾, 2003, pp. 71-129; and 
+                <title render="italic">Gay Bathhouses and Public Health Policy</title>, (ed. William J. Woods and Diane Binson) Harrington Park Press, an imprint of The Haworth Press, Inc., 2003, pp. 71-129.</p>
+        </relatedmaterial>
+        <processinfo id="ref45">
+            <head>Conservation Note</head>
+            <p>During processing, the entire collection was re-foldered and re-housed in acid-free folders and boxes. Some metal staples remain.</p>
+        </processinfo>
+        <bioghist id="ref11">
+            <head>Biographical/Historical note</head>
+            <p>The court case People of the State of California, ex rel. George Agnost, et al. vs. Ima Jean Owen, et al. (Superior Court No. 830-321), aka People vs. Owen, filed Oct. 10, 1984 by San Francisco City Attorney George Agnost and Director of Public Health Mervyn Silverman, documents the efforts of the San Francisco Department of Public Health to close fourteen bathhouses, sex clubs, bookstores, and adult movie theaters by claiming them to be a public nuisance, as a response to the then-new knowledge of sexual methods of AIDS transmission. More broadly, the case positions San Francisco in a local and ultimately national public debate over AIDS–related policies in the 1980s, in which city officials, community activists, and private citizens struggle with the relationship between public health and gay civil rights.</p>
+            <p>Defendant businesses in the original Oct. 10 complaint were: The Academy; The Animals; The Boot Camp; Club Baths of San Francisco; California Baths Corp.; Club San Francisco; Folsom Gulch Books; Gartman Enterprises; Jack's Turkish Baths; Jaguar Book Store; The Savages Theater; San Francisco Health Club; Tea Room Theater; The Slot Hotel; The Baths.</p>
+            <p>Although the provenance of this collection is unknown, based on the organization and original notations on the material, the records appear to be from the files of Dean Echenberg, then-Director of the Bureau of Communicable Disease Control, of the San Francisco Department of Public Health.</p>
+        </bioghist>
+        <scopecontent id="ref12">
+            <head>Scope and Contents</head>
+            <p>The bulk of the material consists of copies of pleadings filed by both plaintiffs and defendants, including declarations of physicians, public health experts, and investigators, upon which the City based its application for a temporary restraining order, preliminary injunction, and permanent injunction to enforce Dr. Silverman's closure order of Oct. 9, 1984; along with subsequent court filings, including writs of supersedeas, a summons, the modified preliminary injunction, depositions, supplemental declarations, exhibits, and a defendants' first set of interrogatories. There is also some case-related correspondence, including letters, memos, articles, and investigative reports, between city officials, law firms, private investigators, and community organizations. Some correspondence concerns proposed legislation to transfer jurisdiction for bathhouses from the Police Code to the Health Code.</p>
+            <p>The declarations in support of the bathhouse closures are of particular interest, as they reflect a representative set of medical and official points of view on businesses that facilitate public gay sex and the relationship of these businesses to the spread of AIDS. Declarants include Mervyn Silverman, Director of Public Health (DPH); Dean Echenberg, Director of the Bureau of Communicable Disease Control at DPH; faculty and administrators at University of California, San Francisco (UCSF), San Francisco General Hospital (SFGH), Mount Zion Hospital, the AIDS Activities Office, San Francisco Veterans Administration Medical Center, California State Department of Health Services, the Center for Disease Control; and several private investigators.</p>
+        </scopecontent>
+        <arrangement id="ref13">
+            <head>Arrangement</head>
+            <p>The collection is arranged in two series: Series 1. Sex clubs/Bathhouses Subject Files, 1984-1986; Series 2. Court documents, 1984-1987. Series 2 is arranged chronologically.</p>
+        </arrangement>
+        <controlaccess>
+            <corpname rules="aacr" source="local" role="subject">San Francisco (Calif.). Bureau of Communicable Disease Control. -- Archives</corpname>
+            <subject source="lcsh">AIDS (Disease)--California--San Francisco--History</subject>
+            <subject source="lcsh">AIDS (Disease)--Epidemiology</subject>
+            <subject source="lcnaf">AIDS (Disease)--Government policy--California--San Francisco</subject>
+            <subject source="lcsh">AIDS (Disease)--Political aspects</subject>
+            <genreform source="aat">Civil court records</genreform>
+            <subject source="lcsh">Gay bathhouses--California--San Francisco.</subject>
+            <subject source="lcnaf">Gay men--Sexual behavior--Government policy--California--San Francisco.  </subject>
+            <persname rules="dacs" source="local">Echenberg, Dean Fredric</persname>        
+	    </controlaccess>
+        <dsc type="combined">
+            <c01 id="ref18" level="series">
+                <did>
+                    <unitid>Series 1</unitid>
+                    <unittitle>Sex Clubs/Bathhouses Subject Files, </unittitle>
+                    <container id="cid214001" type="Box" label="Box">1</container>
+                    <container parent="cid214001" type="Folder">1-2</container>
+                    <unitdate normal="1984/1986" type="inclusive">1984-1986</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref15" level="series">
+                <did>
+                    <unitid>Series 2</unitid>
+                    <unittitle>Court Documents, </unittitle>
+                    <unitdate normal="1984/1987" type="inclusive">1984-1987</unitdate>
+                </did>
+                <scopecontent id="ref17">
+                    <head>Scope and Contents</head>
+                    <p>Copies of court documents from People vs. Owen, with a small amount of interfiled correspondence and filing notes.</p>
+                </scopecontent>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Summons to Jaguar Book Store, </unittitle>
+                        <container id="cid223001" type="Box" label="Box">1</container>
+                        <container parent="cid223001" type="Folder">3</container>
+                        <unitdate normal="1984/1984">October 10, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Complaint for permanent injunction, preliminary injunction and temporary restraining order, </unittitle>
+                        <container id="cid214002" type="Box" label="Box">1</container>
+                        <container parent="cid214002" type="Folder">4</container>
+                        <unitdate normal="1984/1984">October 10, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Declarations in support of application for preliminary injunction and temporary restraining order (Vol. I, Silverman-Conant), </unittitle>
+                        <container id="cid214003" type="Box" label="Box">1</container>
+                        <container parent="cid214003" type="Folder">5</container>
+                        <unitdate normal="1984/1984">October 10, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Declarations in support of application for preliminary injunction and temporary restraining order (Vol. I, Volberding-Goldsmith), </unittitle>
+                        <container id="cid223002" type="Box" label="Box">1</container>
+                        <container parent="cid223002" type="Folder">6</container>
+                        <unitdate normal="1984/1984">October 10, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Declarations in support of application for preliminary injunction and for temporary restraining order (Vol. II), </unittitle>
+                        <container id="cid223004" type="Box" label="Box">1</container>
+                        <container parent="cid223004" type="Folder">7</container>
+                        <unitdate normal="1984/1984">October 10, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Declaration of Dr. Dean Echenberg, </unittitle>
+                        <container id="cid223003" type="Box" label="Box">1</container>
+                        <container parent="cid223003" type="Folder">8</container>
+                        <unitdate normal="1984/1984">October 10, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Order to show cause re preliminary injunction, </unittitle>
+                        <container id="cid223005" type="Box" label="Box">1</container>
+                        <container parent="cid223005" type="Folder">9</container>
+                        <unitdate normal="1984/1984">October 16, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Petition for writ of supersedeas after grant of temporary restraining order, </unittitle>
+                        <container id="cid223006" type="Box" label="Box">1</container>
+                        <container parent="cid223006" type="Folder">10</container>
+                        <unitdate normal="1984/1984">October 16, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Exhibits to petition for writ of supersedeas, </unittitle>
+                        <container id="cid223007" type="Box" label="Box">1</container>
+                        <container parent="cid223007" type="Folder">11</container>
+                        <unitdate normal="1984/1984">October 16, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Notice of taking deposition and request for production of documents, </unittitle>
+                        <container id="cid223008" type="Box" label="Box">1</container>
+                        <container parent="cid223008" type="Folder">12</container>
+                        <unitdate normal="1984/1984">October 24, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Notice of taking deposition records only, </unittitle>
+                        <container id="cid223009" type="Box" label="Box">1</container>
+                        <container parent="cid223009" type="Folder">13</container>
+                        <unitdate normal="1984/1984">October 24, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Deposition of Dean F. Echenberg, M.D., </unittitle>
+                        <container id="cid223010" type="Box" label="Box">1</container>
+                        <container parent="cid223010" type="Folder">14-15</container>
+                        <unitdate normal="1984/1984">October 29, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Declarations in support of opposition to preliminary injunction, </unittitle>
+                        <container id="cid223011" type="Box" label="Box">1</container>
+                        <container parent="cid223011" type="Folder">16</container>
+                        <unitdate normal="1984/1984">November 6, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Supplemental declaration of Dean Echenberg, </unittitle>
+                        <container id="cid223012" type="Box" label="Box">1</container>
+                        <container parent="cid223012" type="Folder">17</container>
+                        <unitdate normal="1984/1984">November 9, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Supplemental declaration of Mervyn Silverman, </unittitle>
+                        <container id="cid223013" type="Box" label="Box">1</container>
+                        <container parent="cid223013" type="Folder">18</container>
+                        <unitdate normal="1984/1984">November 14, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Memorandum of points and authorities in opposition to issuance of preliminary injunction, </unittitle>
+                        <container id="cid223014" type="Box" label="Box">1</container>
+                        <container parent="cid223014" type="Folder">19-21</container>
+                        <unitdate normal="1984/1984">November 14, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Preliminary injunction, </unittitle>
+                        <container id="cid223015" type="Box" label="Box">1</container>
+                        <container parent="cid223015" type="Folder">22</container>
+                        <unitdate normal="1984/1984">November 28, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Modified preliminary injunction, </unittitle>
+                        <container id="cid223016" type="Box" label="Box">1</container>
+                        <container parent="cid223016" type="Folder">23</container>
+                        <unitdate normal="1984/1984">December 21, 1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Petition for a writ of supersedeas after grant of modified preliminary injunction, </unittitle>
+                        <container id="cid223017" type="Box" label="Box">1</container>
+                        <container parent="cid223017" type="Folder">24</container>
+                        <unitdate normal="1985/1985">June 3, 1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Discovery requests from bathhouse operators, with accompanying letter from City Attorney George Agnost and Chief Trial Deputy Philip S. Ward to Dean Echenberg, </unittitle>
+                        <container id="cid223018" type="Box" label="Box">1</container>
+                        <container parent="cid223018" type="Folder">25</container>
+                        <unitdate normal="1985/1985">June 21, 1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Court documents re: motion for further modification of preliminary injunction, </unittitle>
+                        <container id="cid223019" type="Box" label="Box">1</container>
+                        <container parent="cid223019" type="Folder">26</container>
+                        <unitdate normal="1986/1986">March 4, 1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Investigative report and court documents re: order to show cause re: contempt,</unittitle>
+                        <container id="cid223020" type="Box" label="Box">1</container>
+                        <container parent="cid223020" type="Folder">27</container>
+                        <unitdate normal="1987/1987">April 1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Memorandum of points and authorities in support of order to show cause re contempt, with copy of modified preliminary injunction,</unittitle>
+                        <container id="cid223021" type="Box" label="Box">1</container>
+                        <container parent="cid223021" type="Folder">28</container>
+                        <unitdate normal="1987/1987">May 4, 1987</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
