@@ -55,7 +55,11 @@ const displayData = (data) => {
     ''
   )
 
-  output.push(`${unittitlePrefix}${data.get('unittitle')}`)
+  const localUnittitle = data.get('unittitle') || data.get('unitdate')
+  if (!localUnittitle) {
+    throw new Error('unittitle or unitdate required')
+  }
+  output.push(`${unittitlePrefix}${localUnittitle}`)
 
   // Alternative title: leave blank
   output.push('')
@@ -75,7 +79,7 @@ const displayData = (data) => {
   output.push('')
 
   // Date
-  output.push(data.get('unitdate'))
+  output.push(data.get('unitdate') || 'undated')
 
   // Date type: always "created"
   output.push('created')
@@ -134,7 +138,7 @@ const displayData = (data) => {
   output.push('') // Description 3 Type
 
   // Extent
-  output.push(data.get('extent'))
+  output.push(data.get('extent') || '')
 
   // Language
   output.push(language.text)
@@ -222,7 +226,14 @@ const displayData = (data) => {
   // Physical location: leave blank
   output.push('')
 
-  console.log(output.join(`\t`))
+  const badTypes = output.filter((val) => typeof val !== 'string')
+  if (badTypes.length) {
+    console.error(`Non-string found in ${output.join('\t')}`)
+    throw new TypeError(`${typeof badTypes[0]} found at index ${output.indexOf(badTypes[0])}, string expected`)
+  }
+
+  const detabbedOutput = output.map((val) => val.replace('\t', ' '))
+  console.log(detabbedOutput.join(`\t`))
 }
 
 const handlers = {
