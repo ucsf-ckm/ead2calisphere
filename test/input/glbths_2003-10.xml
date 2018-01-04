@@ -1,0 +1,1009 @@
+<ead>
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid countrycode="us" mainagencycode="CSfGLHS">glbths_2003-10.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding aid of the Beowulf Thorne Papers</titleproper>
+<titleproper type="filing">Thorne (Beowulf) Papers</titleproper>
+<author>Josu&#x00E9; Hurtado</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Gay, Lesbian, Bisexual, Transgender Historical Society</publisher>
+<address>
+<addressline>657 Mission Street, Suite 300</addressline>
+<addressline>San Francisco, California 94105</addressline>
+<addressline>Phone: (415) 777-5455</addressline>
+<addressline>Fax: (415) 777-5576</addressline>
+<addressline>Email: info@glbthistory.org</addressline>
+<addressline>URL: http://www.glbthistory.org/</addressline>
+</address>
+<date>&#x00A9; 2006</date>
+<p>The Gay, Lesbian, Bisexual, Transgender Historical Society. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid created by Rebekah Kim. Machine-readable finding aid derived from MS Word. Date of source: <date normal="20061018">October 18, 2006.</date></creation>
+<langusage>Finding aid written in: 
+<language langcode="eng" scriptcode="latn">English</language>
+</langusage>
+<descrules>Finding aid prepared using 
+<title render="italic">Describing Archives: a Content Standard</title>
+</descrules>
+</profiledesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>Finding aid of the Beowulf Thorne Papers</titleproper>
+<num>Collection number: 2003-10</num>
+<publisher>Gay, Lesbian, Bisexual, Transgender Historical Society
+<lb/>San Francisco, California</publisher>
+<list type="deflist">
+<defitem>
+<label>Processed by:</label>
+<item>Josu&#x00E9; Hurtado</item>
+</defitem>
+<defitem>
+<label>Date Completed:</label>
+<item>April 2005</item>
+</defitem>
+<defitem>
+<label>Encoded by:</label>
+<item>Rebekah Kim</item>
+</defitem>
+</list>
+<p>&#x00A9; 2006 The Gay, Lesbian, Bisexual, Transgender Historical Society. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Beowulf Thorne Papers</unittitle>
+<unitdate type="inclusive" normal="1964/1999" label="Dates">1964-1999</unitdate>
+<unitid label="Collection number" repositorycode="CSfGLHS" countrycode="US">2003-10</unitid>
+<origination label="Creator">
+<persname source="lcnaf" rules="aacr2">Thorne, Beowulf</persname>
+</origination>
+<physdesc label="Collection Size">
+<extent>4.0 linear feet</extent>
+<extent>2 manuscript boxes, 2 cartons, 1 oversized box</extent>
+</physdesc>
+<repository label="Repository">
+<corpname>Gay, Lesbian, Bisexual, Transgender Historical Society</corpname>
+<address>
+<addressline>San Francisco, California 94105</addressline>
+</address>
+</repository>
+<abstract label="Abstract">Beowulf Thorne (Jack Henry Foster) was a political activist on issues affecting PWAs (people with AIDS). He was one of the founders, with Tom Shearer, of the humor magazine, Diseased Pariah News (DPN). He used his skills as a writer, editor, and graphic artist on the magazine. The collection documents the operations, both commercial and artistic of DPN, as well as the work of Oakland's Condom Resource Center.</abstract>
+<physloc label="Physical location">Stored at the Archives of the Gay, Lesbian, Bisexual, Transgender Historical Society in San Francisco, California.</physloc>
+<langmaterial label="Languages">
+Languages represented in the collection: 
+<language langcode="eng">English</language>
+</langmaterial>
+</did>
+<accessrestrict>
+<head>Access</head>
+<p>Collection open for research.</p>
+</accessrestrict>
+<userestrict>
+<head>Publication Rights</head>
+<p>Copyright to unpublished manuscript materials has been transferred to the Gay, Lesbian, Bisexual, Transgender Historical Society.</p>
+</userestrict>
+<prefercite>
+<head>Preferred Citation</head>
+<p>[Identification of item], Beowulf Thorne Papers, 2003-10, The Gay, Lesbian, Bisexual, Transgender Historical Society.</p>
+</prefercite>
+<acqinfo>
+<head>Acquisition Information</head>
+<p>Donated to the Library by Daniel Bao on April 3, 2003.</p>
+</acqinfo>
+<bioghist>
+<head>Biography</head>
+<p>Beowulf Thorne (born Jack Henry Foster) was born in San Diego on November 6, 1964. He attended the University of California, Santa Cruz.  A political activist regarding issues affecting PWAs (People with AIDS), he was one of the founders, along with Tom Shearer, of the PWA humor magazine Diseased Pariah News (DPN).  He used both his skills as a writer-editor and as a graphic artist in creating and publishing DPN.  A total of eleven issues of Diseased Pariah News were published from 1990 to 1999.  </p>
+<p>Beowulf Thorne passed away from complications relating to AIDS on May 8, 1999, the second co-founder to pass away from AIDS (Tom Shearer passed away after the second issue of DPN was published).  Thorne was memorialized in the final issue of DPN in an irreverently titled piece of which he would have approved:  "Dang! Our Founder and Guiding Light Died."</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Content of Collection</head>
+<p>Few personal papers are included in this collection. It's primarily focus is on Thorne's experience as a person with AIDS (PWA). This collection mostly consists of the textual and graphic records of Diseased Pariah News. An additional series relates to Oakland's Condom Resource Center, headed by director Daniel Bao, who worked closely with DPN.</p>
+<p>The series is organized into 5 series:</p>
+<list type="simple">
+<item>Series 1. Personal, 1964-1998</item>
+<item>Series 2. Diseased Pariah News, 1990-1999</item>
+<item>Series 3. Zines, 1990-1997</item>
+<item>Series 4. Condom Resource Center, 1990-1998</item>
+<item>Series 5. Photos/Artwork, 1989-1992</item>
+<item>Series 5. Photos/Artwork, 1989-1992</item>
+<item>Series 6. Objects, undated, 1990</item>
+</list>
+<p>Series 1. Personal, 1964-1998</p>
+<p>This series consists of personal documents and other effects of Beowulf Thorne such as his passports, birth certificate, personal notes on his estate, and articles he wrote for POZ Magazine, a magazine for and about people living with HIV.  There are also personal photographs in this series.  </p>
+<p>Series 2. Diseased Pariah News, 1990-1999</p>
+<p>This series contains materials relating to the Thorne's magazine Diseased Pariah News.  All eleven issues of the magazine are included as well as background materials and other items related to publishing the magazine such as drafts of articles, artwork and photographs.  Also found in this series are reviews of the magazine and articles in other publications about DPN.  Finally there are correspondence files containing letter to the editors requesting back issues, subscriptions, or expressing opinions about the magazine.   </p>
+<p>Series 3. Zines, 1990-1997</p>
+<p>This series consists of other zines collected by Thorne.  These publications had a similar irreverent approach to the AIDS crisis  </p>
+<p>Series 4. Condom Resource Center, 1990-1998</p>
+<p>This series contains materials produced by the Condom Resource Center (CRC) in Oakland.  Thorne worked very closely with this organization, helping create artwork and other content for their safe sex campaigns.  Included in this series are examples of some of Thorne's artwork as well as photographs.   There are also several publications put out by the CRC such as several versions of the Condom Educator's Guide.    </p>
+<p>Series 5. Photos/Artwork, 1989-1992</p>
+<p>This series consists of the photographs and other artwork created by Beowulf Thorne.  His skills as a photographer and an artist are illustrated by these items.</p>
+<p>Series 6. Objects, undated, 1990</p>
+<p>This series contains ephemera from Diseased Pariah News and other organizations.</p>
+</scopecontent>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in
+the library's online public access catalog.</p>
+<subject source="lcsh" rules="lcsh">AIDS</subject>
+<geogname role="subject" source="lcsh">San Francisco (Calif.)</geogname>
+<subject source="lcsh" rules="lcsh">Persons With AIDS</subject>
+<subject source="lcsh" rules="lcsh">AIDS Activists</subject>
+<subject source="lcsh" rules="lcsh">Graphic Artists</subject>
+</controlaccess>
+<relatedmaterial>
+<head>Related Material</head>
+<p>Diseased Pariah News(Periodical)</p>
+</relatedmaterial>
+
+<dsc type="in-depth">
+<head>Collection Contents</head>
+<c01 level="series">
+<did>
+<unittitle>Series 1. Personal</unittitle>
+<unitdate type="inclusive" normal="1964/1998">1964-1998</unitdate>
+<physdesc>
+<extent>11 folders</extent>
+</physdesc>
+</did>
+<scopecontent>
+<p>This series consists of personal documents and other effects of Beowulf Thorne such as his passports, birth certificate, personal notes on his estate, and articles he wrote for POZ Magazine, a magazine for and about people living with HIV.  There are also personal photographs in this series.</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<unittitle>Birth Certificate, passport, vaccination record</unittitle>
+<unitdate type="inclusive" normal="1964/1988">1964-1988</unitdate>
+<container type="box-folder" label="Box: Folder">1: 1</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Notes on his estate</unittitle>
+<container type="box-folder" label="Box: Folder">1: 2</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Life insurance</unittitle>
+<unitdate type="inclusive" normal="1996">1996</unitdate>
+<container type="box-folder" label="Box: Folder">1: 3</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Article submitted to POZ on living with Lymphoma</unittitle>
+<unitdate type="inclusive" normal="1988">1988</unitdate>
+<container type="box-folder" label="Box: Folder">1: 4</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Notes for POZ article on Collateral Damage</unittitle>
+<unitdate type="inclusive" normal="1998">1998</unitdate>
+<container type="box-folder" label="Box: Folder">1: 5</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Notes for POZ article on Depression</unittitle>
+<unitdate type="inclusive" normal="1996">1996</unitdate>
+<container type="box-folder" label="Box: Folder">1: 6</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Notes for POZ article on Suicide</unittitle>
+<unitdate type="inclusive" normal="1997">1997</unitdate>
+<container type="box-folder" label="Box: Folder">1: 7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Tienanmen week at Stanford</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">1: 8</container>
+</did>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Photos</unittitle>
+<container type="box-folder" label="Box: Folder">1: 9-11</container>
+</did>
+<c03 level="file">
+<did>
+<unittitle>"Steam"</unittitle>
+<container type="box-folder" label="Box: Folder">1: 9</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Personal</unittitle>
+<container type="box-folder" label="Box: Folder">1: 10</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>"A Certain Undisclosed Location in Long Beach"</unittitle>
+<container type="box-folder" label="Box: Folder">1: 11</container>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Series 2. Diseased Pariah News</unittitle>
+<unitdate type="inclusive" normal="1990/1999">1990-1999</unitdate>
+<physdesc>
+<extent>45 folders</extent>
+</physdesc>
+</did>
+<scopecontent>
+<head>Series Description</head>
+<p>This series contains materials relating to the Thorne's magazine Diseased Pariah News.  All eleven issues of the magazine are included as well as background materials and other items related to publishing the magazine such as drafts of articles, artwork and photographs.  Also found in this series are reviews of the magazine and articles in other publications about DPN.  Finally there are correspondence files containing letter to the editors requesting back issues, subscriptions, or expressing opinions about the magazine.</p>
+</scopecontent>
+<c02 level="subseries">
+<did>
+<unittitle>Magazine</unittitle>
+<container type="box-folder" label="Box: Folder">1: 12-22</container>
+</did>
+<c03 level="file">
+<did>
+<unittitle>#1</unittitle>
+<unitdate type="inclusive" normal="1990">1990</unitdate>
+<container type="box-folder" label="Box: Folder">1: 12</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>#2</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">1: 13</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>#3</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">1: 14</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>#4</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">1: 15</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>#5</unittitle>
+<unitdate type="inclusive" normal="1992">1992</unitdate>
+<container type="box-folder" label="Box: Folder">1: 16</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>#6</unittitle>
+<unitdate type="inclusive" normal="1992">1992</unitdate>
+<container type="box-folder" label="Box: Folder">1: 17</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>#7</unittitle>
+<unitdate type="inclusive" normal="1992">1992</unitdate>
+<container type="box-folder" label="Box: Folder">1: 18</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>#8</unittitle>
+<unitdate type="inclusive" normal="1993">1993</unitdate>
+<container type="box-folder" label="Box: Folder">1: 19</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>#9</unittitle>
+<unitdate type="inclusive" normal="1994">1994</unitdate>
+<container type="box-folder" label="Box: Folder">1: 20</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>#10</unittitle>
+<unitdate type="inclusive" normal="1995">1995</unitdate>
+<container type="box-folder" label="Box: Folder">1: 21</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>#11</unittitle>
+<unitdate type="inclusive" normal="1999">1999</unitdate>
+<container type="box-folder" label="Box: Folder">1: 22</container>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Articles</unittitle>
+<container type="box-folder" label="Box: Folder">1: 23-30</container>
+</did>
+<c03 level="file">
+<did>
+<unittitle>Notes for a story:  "A Brief History of Malaysia"</unittitle>
+<container type="box-folder" label="Box: Folder">1: 23</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>The Art of Ralphing</unittitle>
+<unitdate type="inclusive" normal="1998">1998</unitdate>
+<container type="box-folder" label="Box: Folder">1: 24</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Submitted by Edward Zold</unittitle>
+<unitdate type="inclusive" normal="1997">1997</unitdate>
+<container type="box-folder" label="Box: Folder">1: 25</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Annotated draft of articles for issue #11</unittitle>
+<unitdate type="inclusive" normal="1989">1989</unitdate>
+<container type="box-folder" label="Box: Folder">1: 26</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>"Nutrition and PWAs from AIDS Patient Care"</unittitle>
+<unitdate type="inclusive" normal="1988">1988</unitdate>
+<container type="box-folder" label="Box: Folder">1: 27</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Nutrition and Recipes</unittitle>
+<unitdate type="inclusive" normal="1987/1994">1987-1994</unitdate>
+<container type="box-folder" label="Box: Folder">1: 28</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>"Pseudo Intellectual Stuff from the Halls of Academe"</unittitle>
+<unitdate type="inclusive" normal="1996">1996</unitdate>
+<container type="box-folder" label="Box: Folder">1: 29</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>"Vague Ideas for DPN"</unittitle>
+<unitdate type="inclusive" normal="1992">1992</unitdate>
+<container type="box-folder" label="Box: Folder">1: 30</container>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>DPN Artwork</unittitle>
+<container type="box-folder" label="Box: Folder">1: 31 - 2: 15</container>
+</did>
+<c03 level="file">
+<did>
+<unittitle>DPN # 1</unittitle>
+<unitdate type="inclusive" normal="1990">1990</unitdate>
+<container type="box-folder" label="Box: Folder">1: 31</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>DPN # 2</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">1: 32</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>DPN # 3</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">1: 33</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>DPN # 4</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">1: 34</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>DPN # 10</unittitle>
+<unitdate type="inclusive" normal="1995">1995</unitdate>
+<container type="box-folder" label="Box: Folder">1: 35</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Artwork by Kira</unittitle>
+<container type="box-folder" label="Box: Folder">2: 1</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>"Jesus Came to My House"</unittitle>
+<container type="box-folder" label="Box: Folder">2: 2</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>"History of Malaysia"</unittitle>
+<container type="box-folder" label="Box: Folder">2: 3</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Paper Merit Badges for DPN Buttons</unittitle>
+<container type="box-folder" label="Box: Folder">2: 4</container>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>DPN Photographs</unittitle>
+<container type="box-folder" label="Box: Folder">2: 5-14</container>
+</did>
+<c03 level="file">
+<did>
+<unittitle>DPN # 1</unittitle>
+<unitdate type="inclusive" normal="1990">1990</unitdate>
+<container type="box-folder" label="Box: Folder">2: 5</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>DPN # 2</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">2: 6</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>DPN # 3</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">2: 7</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>DPN # 4</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">2: 8</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>DPN # 5</unittitle>
+<unitdate type="inclusive" normal="1992">1992</unitdate>
+<container type="box-folder" label="Box: Folder">2: 9</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>DPN # 6</unittitle>
+<unitdate type="inclusive" normal="1992">1992</unitdate>
+<container type="box-folder" label="Box: Folder">2: 10</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>DPN # 7</unittitle>
+<unitdate type="inclusive" normal="1992">1992</unitdate>
+<container type="box-folder" label="Box: Folder">2: 11</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>DPN # 8</unittitle>
+<unitdate type="inclusive" normal="1993">1993</unitdate>
+<container type="box-folder" label="Box: Folder">2: 12</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>DPN # 9</unittitle>
+<unitdate type="inclusive" normal="1994">1994</unitdate>
+<container type="box-folder" label="Box: Folder">2: 13</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>DPN # 10</unittitle>
+<unitdate type="inclusive" normal="1995">1995</unitdate>
+<container type="box-folder" label="Box: Folder">2: 14</container>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Press</unittitle>
+<container type="box-folder" label="Box: Folder">2: 15-19</container>
+</did>
+<c03 level="file">
+<did>
+<unittitle>Promotional Material</unittitle>
+<container type="box-folder" label="Box: Folder">2: 15</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Press Kit</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">2: 16</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Articles</unittitle>
+<unitdate type="inclusive" normal="1991/1994">1991-1994</unitdate>
+<container type="box-folder" label="Box: Folder">2: 17</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Reviews</unittitle>
+<unitdate type="inclusive" normal="1991/1995">1991-1995</unitdate>
+<container type="box-folder" label="Box: Folder">2: 18</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Bay Guardian's Best of the Bay Award to DPN</unittitle>
+<unitdate type="inclusive" normal="1996">1996</unitdate>
+<container type="box-folder" label="Box: Folder">2: 19</container>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Correspondence</unittitle>
+<container type="box-folder" label="Box: Folder">2: 20-24</container>
+</did>
+<c03 level="file">
+<did>
+<unittitle>Forms</unittitle>
+<container type="box-folder" label="Box: Folder">2: 20</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Postcards and Christmas Card Printed by DPN</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">2: 21</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Letters from Fans</unittitle>
+<unitdate type="inclusive" normal="1991/1999">1991-1999</unitdate>
+<container type="box-folder" label="Box: Folder">2: 22</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Letters from Prisoners Requesting Free Subscriptions</unittitle>
+<unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate>
+<container type="box-folder" label="Box: Folder">2: 23</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Letters Requesting Back Issues</unittitle>
+<unitdate type="inclusive" normal="1997/1999">1997-1999</unitdate>
+<container type="box-folder" label="Box: Folder">2: 24</container>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Series 3. Zines</unittitle>
+<unitdate type="inclusive" normal="1990/1997">1990-1997</unitdate>
+<physdesc>
+<extent>4 folders</extent>
+</physdesc>
+</did>
+<scopecontent>
+<p>This series consists of other zines collected by Thorne.  These publications had a similar irreverent approach to the AIDS crisis.</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<unittitle>The Daily Plague #6</unittitle>
+<container type="box-folder" label="Box: Folder">2: 26</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Factsheet Five:  Zine Reader</unittitle>
+<unitdate type="inclusive" normal="1997">1997</unitdate>
+<container type="box-folder" label="Box: Folder">2: 27</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>GAWK Newsletter (Gay Artists and Writers Kollective), #4-6</unittitle>
+<unitdate type="inclusive" normal="1990">1990</unitdate>
+<container type="box-folder" label="Box: Folder">2: 28</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>HardWear:  The Art of Prevention, Hugh Rigby and Susan Leibtag</unittitle>
+<unitdate type="inclusive" normal="1990">1994</unitdate>
+<container type="box-folder" label="Box: Folder">3: 1</container>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Series 4. Condom Resource Center</unittitle>
+<unitdate type="inclusive" normal="1990/1998">1990-1998</unitdate>
+<physdesc>
+<extent>14 folders</extent>
+</physdesc>
+</did>
+<scopecontent>
+<p>This series contains materials produced by the Condom Resource Center (CRC) in Oakland.  Thorne worked very closely with this organization, helping create artwork and other content for their safe sex campaigns.  Included in this series are examples of some of Thorne's artwork as well as photographs.   There are also several publications put out by the CRC such as several versions of the Condom Educator's Guide.</p>
+</scopecontent>
+
+<c02 level="file">
+<did>
+<unittitle>Condom Updates</unittitle>
+<unitdate type="inclusive" normal="1990/1994">1990-1994</unitdate>
+<container type="box-folder" label="Box: Folder">3: 2</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Corrected Draft and Layout of Condom Educator's Guide</unittitle>
+<unitdate type="inclusive" normal="1991">ca. 1991</unitdate>
+<container type="box-folder" label="Box: Folder">3: 3</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Condom Educator's Guide</unittitle>
+<unitdate type="inclusive" normal="1991">ca. 1991</unitdate>
+<container type="box-folder" label="Box: Folder">3: 4</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Condom Educator's Guide, Version Two</unittitle>
+<unitdate type="inclusive" normal="1994">ca. 1994</unitdate>
+<container type="box-folder" label="Box: Folder">3: 5</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Artwork Related to Condom Educator's Guide, Version Two</unittitle>
+<unitdate type="inclusive" normal="1994">ca. 1994</unitdate>
+<container type="box-folder" label="Box: Folder">3: 6</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Photos for Condom Educator's Guide, Version 2</unittitle>
+<container type="box-folder" label="Box: Folder">3: 7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Official Condom Tester Catalog</unittitle>
+<unitdate type="inclusive" normal="1990">1990</unitdate>
+<container type="box-folder" label="Box: Folder">3: 8</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>National Condom Week Booklet</unittitle>
+<unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate>
+<container type="box-folder" label="Box: Folder">3: 9</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>ondom Primer. # 1 and 2</unittitle>
+<unitdate type="inclusive" normal="1988/1990">1988-1990</unitdate>
+<container type="box-folder" label="Box: Folder">3: 10</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Party Packs</unittitle>
+<unitdate type="inclusive" normal="1988/1991">1988-1991</unitdate>
+<container type="box-folder" label="Box: Folder">3: 11</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Captain Condom's Original Party Pack Booklet</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">3: 12</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Ephemera</unittitle>
+<unitdate type="inclusive" normal="1990">1990</unitdate>
+<container type="box-folder" label="Box: Folder">3: 13</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Artwork Related to CRC Poster and Handbook</unittitle>
+<unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate>
+<container type="box-folder" label="Box: Folder">3: 14</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Artwork Related to CRC Organizer</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">3: 15</container>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Series 5. Photos/Artwork</unittitle>
+<unitdate type="inclusive" normal="1989/1992">1989-1992</unitdate>
+<physdesc>
+<extent>24 folders</extent>
+</physdesc>
+</did>
+<scopecontent>
+<p>This series consists of the photographs and other artwork created by Beowulf Thorne.  His skills as a photographer and an artist are illustrate by these items.</p>
+</scopecontent>
+<c02 level="subseries">
+<did>
+<unittitle>Photos</unittitle>
+<container type="box-folder" label="Box: Folder">3: 16-30</container>
+</did>
+<c03 level="file">
+<did>
+<unittitle>My Vapid Youth</unittitle>
+<container type="box-folder" label="Box: Folder">3: 16</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Nerd Pictures</unittitle>
+<container type="box-folder" label="Box: Folder">3: 17</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Use Your Head</unittitle>
+<container type="box-folder" label="Box: Folder">3: 18</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Socks for Cocks</unittitle>
+<container type="box-folder" label="Box: Folder">3: 19</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Biffy with Lube Bottles</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">3: 20</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Cranky and Dusty Fellating Unseen Spirits</unittitle>
+<unitdate type="inclusive" normal="1989">1989</unitdate>
+<container type="box-folder" label="Box: Folder">3: 21</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Voyage of Dysfunctionality; Tommy Jo's Last Trip Home</unittitle>
+<unitdate type="inclusive" normal="1990">1990</unitdate>
+<container type="box-folder" label="Box: Folder">3: 22</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Biffy Doing Rain Dance with Proper Prophylaxis</unittitle>
+<container type="box-folder" label="Box: Folder">3: 23</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Biffy's Publicity Pix: Nezz. Fezz,and Lezz</unittitle>
+<unitdate type="inclusive" normal="1990">1990</unitdate>
+<container type="box-folder" label="Box: Folder">3: 24</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Greetings from Greater Slobovia (for GAWK #5)</unittitle>
+<unitdate type="inclusive" normal="1989">1989</unitdate>
+<container type="box-folder" label="Box: Folder">3: 25</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Cranky, Humpy and Sleazy for DPN Xmas Card</unittitle>
+<unitdate type="inclusive" normal="1991">1991</unitdate>
+<container type="box-folder" label="Box: Folder">3: 26</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Use Your Head</unittitle>
+<container type="box-folder" label="Box: Folder">3: 27</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Strange but True; Odd Bits of Tom Shearer</unittitle>
+<container type="box-folder" label="Box: Folder">3: 28</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>What's Wrong with This Picture? (unsolicited snapshots from fans)</unittitle>
+<container type="box-folder" label="Box: Folder">3: 29</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Model Releases</unittitle>
+<unitdate type="inclusive" normal="1992">1992</unitdate>
+<container type="box-folder" label="Box: Folder">3: 30</container>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Artwork (oversized box, 20" x 16" x 3.5")</unittitle>
+<container type="box-folder" label="Box: Folder">4: 1-9</container>
+</did>
+<c03 level="file">
+<did>
+<unittitle>Drawings of People</unittitle>
+<container type="box-folder" label="Box: Folder">4: 1</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Drawings of Dinosaurs / Monsters</unittitle>
+<container type="box-folder" label="Box: Folder">4: 2</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Drawings of Various Subjects</unittitle>
+<container type="box-folder" label="Box: Folder">4: 3</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Typeset Pages</unittitle>
+<container type="box-folder" label="Box: Folder">4: 4</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Source Artwork Related to Conceptual Ideas</unittitle>
+<container type="box-folder" label="Box: Folder">4: 5</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Un-mounted Posters, Covers, Photo, and Miscellaneous</unittitle>
+<container type="box-folder" label="Box: Folder">4: 6</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Mounted DPN Covers (#4, 6, 7, 8,9)</unittitle>
+<container type="box-folder" label="Box: Folder">4: 7</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Mounted Drawings: Panels of Captain Condom, Other Mounted Art</unittitle>
+<container type="box-folder" label="Box: Folder">4: 8</container>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Mounted Drawings: Modes of Transportation</unittitle>
+<container type="box-folder" label="Box: Folder">4: 9</container>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unitid>Series 6</unitid> 
+<unittitle>Objects</unittitle> 
+<unitdate type="inclusive" normal="1990">undated, 1990</unitdate> 
+<physdesc><extent>1 box</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series contains ephemera from Diseased Pariah News and other organizations.</p> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unittitle>9 "T Cell 100 (One Hundred) or Less" buttons, undated</unittitle> 
+<container type="box-folder" label="Box: Folder">6</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>6 "Kiss Me! I'm a Diseased Pariah" buttons, undated</unittitle> 
+
+<container type="box-folder" label="Box: Folder">6</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>2 "Porn Potato likes that!" buttons designed by Beowulf Thorne, 1990</unittitle> 
+
+<container type="box-folder" label="Box: Folder">6</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>21 miscellaneous buttons, undated</unittitle> 
+
+<container type="box-folder" label="Box: Folder">6</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>1 Stanford AIDS Education Project's Fourth Annual Great Condom Rating Contest pamphlet with condoms, 1990</unittitle> 
+
+<container type="box-folder" label="Box: Folder">6</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>1 "Kiss Me! I'm a Diseased Pariah" t-shirt, undated</unittitle> 
+
+<container type="box-folder" label="Box: Folder">6</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>1 Diseased Pariah News t-shirt, 1990</unittitle> 
+
+<container type="box-folder" label="Box: Folder">6</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>1 Captain Condom Fan Club t-shirt, undated</unittitle> 
+
+<container type="box-folder" label="Box: Folder">6</container> 
+</did> 
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
