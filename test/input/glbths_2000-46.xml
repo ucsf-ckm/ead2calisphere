@@ -1,0 +1,865 @@
+<ead>
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid countrycode="us" mainagencycode="CSfGLHS">glbths_2000-46.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding aid of the AIDS Legal Referral Panel Records</titleproper>
+<titleproper type="filing">AIDS Legal Referral Panel Records</titleproper>
+<author>Josue Hurtado</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Gay, Lesbian, Bisexual, Transgender Historical Society</publisher>
+<address>
+<addressline>657 Mission Street, Suite 300</addressline>
+<addressline>San Francisco, California 94105</addressline>
+<addressline>Phone: (415) 777-5455</addressline>
+<addressline>Fax: (415) 777-5576</addressline>
+<addressline>Email: info@glbthistory.org</addressline>
+<addressline>URL: http://www.glbthistory.org/</addressline>
+</address>
+<date>&#x00A9; 2007</date>
+<p>The Gay, Lesbian, Bisexual, Transgender Historical Society. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid created by Rebekah Kim. Machine-readable finding aid derived from MS Word. Date of source: <date normal="20070805">August 5, 2007.</date></creation>
+<langusage>Finding aid written in: 
+<language langcode="eng" scriptcode="latn">English</language>
+</langusage>
+<descrules>Finding aid prepared using 
+<title render="italic">Describing Archives: a Content Standard</title>
+</descrules>
+</profiledesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>Finding aid of the AIDS Legal Referral Panel Records</titleproper>
+<num>Collection number: 2000-46</num>
+<publisher>Gay, Lesbian, Bisexual, Transgender Historical Society
+<lb/>San Francisco, California</publisher>
+
+<list type="deflist">
+<defitem>
+<label>Processed by:</label>
+<item>Josue Hurtado</item>
+</defitem>
+<defitem>
+<label>Date Completed:</label>
+<item>July 2005</item>
+</defitem>
+<defitem>
+<label>Encoded by:</label>
+<item>Rebekah Kim</item>
+</defitem>
+</list>
+<p>&#x00A9; 2007 The Gay, Lesbian, Bisexual, Transgender Historical Society. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">AIDS Legal Referral Panel Records</unittitle>
+<unitdate type="inclusive" normal="1983/1995" label="Dates">1983-1995</unitdate>
+<unitid label="Collection number" repositorycode="CSfGLHS" countrycode="US">2000-46</unitid>
+<origination label="Creator">
+<corpname source="lcnaf" rules="aacr2">AIDS Legal Referral Panel</corpname>
+</origination>
+<physdesc label="Collection Size">
+<extent>4.5 linear feet</extent>
+<extent>9 manuscript boxes</extent>
+</physdesc>
+<repository label="Repository">
+<corpname>Gay, Lesbian, Bisexual, Transgender Historical Society</corpname>
+<address>
+<addressline>San Francisco, California 94105</addressline>
+</address>
+</repository>
+<abstract label="Abstract">Records of the AIDS Legal Referral Panel, an organization that connects people with AIDS (PWA) and volunteer lawyers willing to donate time and expertise in order to assist them. It has been a significant resource for PWA's since its inception.  Also Included in this collection is materials from the Women's AIDS Network.</abstract>
+<physloc label="Physical location">Stored at the Archives of the Gay, Lesbian, Bisexual, Transgender Historical Society in San Francisco, California.</physloc>
+<langmaterial label="Languages">
+Languages represented in the collection: 
+<language langcode="eng">English</language>
+</langmaterial>
+</did>
+<accessrestrict>
+<head>Access</head>
+<p>Collection open for research.</p>
+</accessrestrict>
+<userestrict>
+<head>Publication Rights</head>
+<p>Copyright to unpublished manuscript materials has been transferred to the Gay, Lesbian, Bisexual, Transgender Historical Society.</p>
+</userestrict>
+<prefercite>
+<head>Preferred Citation</head>
+<p>[Identification of item], AIDS Legal Referral Panel Records, 2000-46, The Gay, Lesbian, Bisexual, Transgender Historical Society.</p>
+</prefercite>
+<acqinfo>
+<head>Acquisition Information</head>
+<p>Donated by representatives of the AIDS Legal Referral Panel in 2000.</p>
+</acqinfo>
+<bioghist>
+<head>Organizational History</head>
+<p>The AIDS Legal Referral Panel was founded in 1983 by attorneys Frederick Hertz, Steven Richter, Mark Senick, and Gary James Wood.  It was originally a committee of the LGBT organization Bay Area Lawyers for Individual Freedom (BALIF).  Hertz, Richter, Senick, and Wood understood that many gay men in the Bay Area were near death from complications of AIDS and were without the knowledge or resources to create wills, durable powers of attorney, and other legal paperwork necessary to die with dignity intact and with wishes about health care and disposition of assets in place. The four began by publicizing a phone number where people with AIDS could call to receive legal help and by recruiting other attorneys to join them.</p>
+<p>The legal community leveraged its skills and resources through ALRP to respond to the crisis by providing those dying with AIDS the right to die with peace of mind. As Hertz recounts, "[preparing emergency wills] was wrenching. But if people asked me how I kept my sanity, it was through using my legal skills in a way that really helped people. I was doing something productive and meaningful and focused my grief on making a difference in people's lives." </p>
+<p>The vision and activism of this small group: four founders and ten original Panel members, sustained the organization for several years without any other infrastructure. First led by BALIF co-chair Steve Richter with a list of telephone numbers, then by Gary James Wood when Richter developed AIDS in 1983, the organization operated solely as a volunteer-staffed organization until 1986, at which time ALRP hired attorney Clint Hockenberry. </p>
+<p>With Hockenberry at the helm the ALRP grew from a grassroots community of concerned attorneys to an established lawyer referral service. Fundraising efforts excelled and extensive recruitment, training, and supervision of ALRP's pro bono attorneys began. ALRP also partnered with the Bar Association of San Francisco's Volunteer Legal Services Program, a move which increased the legitimacy and visibility of the organization.  </p>
+<p>Hockenberry expanded outreach to better serve people of color, children, women, injection drug users, non-native English speakers, and the homeless. During his tenure, ALRP hosted the first national AIDS Law Conference and published the first AIDS Law Manual; extended outreach to other counties; garnered Ryan White CARE Act funds; founded ALRP's Public Policy Project; and became an independent organization in 1990, separate from BALIF, with a formal Board of Directors.</p>
+<p>In March 1992, Clint Hockenberry passed away from AIDS, but under his leadership the ALRP had grown from an organization that formed in reaction to a crisis to an agency creatively and proactively responding to and anticipating the ever-changing needs of the HIV/AIDS community. As those with HIV/AIDS began living longer, Kristin Chambers, ALRP's second Executive Director, and her successor, Irwin Keller, continued Hockenberry's model of dynamic client services.</p>
+<p>Under Chambers' and Keller's tenures, the 1990s saw an expansion of services and public policy efforts and an improved client referral system that better served the legal needs of the HIV/AIDS community. Full-time housing attorneys were hired when rising real estate prices left many in the HIV/AIDS community confronting homelessness.</p>
+<p>In addition, "Working in the Cycle of HIV," an educational manual published in conjunction with AIDS Benefits Counselors (now Positive Resource Center) and the Employment Law Center, was created to respond to the large numbers of people with HIV/AIDS wanting to return to the workplace after experiencing positive outcomes from new treatments. On the public policy front, ALRP advocated for national health care reform; continued and improved HIV privacy and confidentiality protections; and argued for Social Security reform to provide expanded, fair, and adequate access to benefits.</p>
+<p>By 2000, when Bill Hirsh became ALRP's fourth Executive Director, ALRP had grown from solely serving patients at San Francisco General Hospital to serving clients in seven Bay Area counties, from preparing emergency wills and powers of attorney to providing legal assistance to clients in all areas of civil law, and from a lawyer referral service to an organization providing both direct legal representation and personalized attorney/client referrals.</p>
+<p>The ALRP is the first organized legal outreach effort for those with HIV/AIDS in the United States, and many original Panelists from 1983 remain active in the organization to this day. Initially formed to draft emergency wills and other necessary documents for terminally ill clients, the ALRP has shifted its focus to issues illustrative of the fact that those with HIV/AIDS are living longer lives than ever before and facing more complex legal needs.</p>
+<p>Today, the AIDS Legal Referral Panel continues to function primarily as a referral service for people with legal problems related to AIDS. Callers are interviewed over the phone by ALRP staff to determine what issues are involved and what kind of help is needed. Clients are then matched with one of the hundreds of ALRP volunteer attorneys, paralegals, or notaries. Services are generally low cost or free. In 1992, 2,900 of the several thousand callers were referred to volunteers. ALRP also has a public policy arm which advocates for change in the legislative arena, in government entitlement programs (such as Social Security), and in other government agencies.  The ALRP has been the sole agency dedicated to providing legal services to the HIV/AIDS community in all areas of civil law. What started in 1983 as a small circle of attorney friends has grown to a full-time staff of ten and a Panel of over 600 volunteer attorneys donating close to $1,000,000 each year in pro bono legal services.</p>
+<p>This collection also includes materials from the Women's AIDS Network.  The Women's AIDS Network (WAN) was informally established in June of 1983 at the second National AIDS Forum in Denver. In March of 1984, women involved in AIDS services in the Bay Area began meeting as a support group. From this initial support group, WAN evolved into an advocacy organization and informational resource, both for women affected by HIV and for the providers who serve them. Since 1984 WAN has held information sharing meetings (referred to loosely as Board Meetings) for Bay Area members and has provided monthly informational mailings to members. It has sponsored three major educational forums and numerous speaking engagements; advocated and organized to support a legislative climate responsive to HIV-affected women's needs; provided informal technical assistance and review to other agencies; distributed information worldwide in response to hundreds of direct requests; developed a model policy on perinatal AIDS antibody testing; and sponsored social events and small financial grants to HIV-affected women.</p>
+<p>*Most of the information in this history comes from Jill DiGiovanni's and Patricia Dunn's article "When a Community Needed a Will, ALRP Found the Way," http://www.alrp.org/article.php?id=34</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Content of Collection</head>
+<p>These records are potentially useful to researchers investigating subjects related to the subject of the legal rights of HIV positive persons and other legal issues surrounding AIDS. The collection contains ALRP Annual Reports for the years 1987-1991 and subject files that include correspondence, notes, and reports.</p>
+</scopecontent>
+<arrangement>
+<head>Arrangement</head>
+<p>The collection is organized into ten series:
+<list type="simple">
+<item>Series 1. Policies, 1985-1991</item>
+<item>Series 2. Referral Panel List, 1985-1990</item>
+<item>Series 3. Administration, 1985-1993</item>
+<item>Series 4. Reports, 1986-1991</item>
+<item>Series 5. Clients, 1991</item>
+<item>Series 6. Advocacy, 1986-1995</item>
+<item>Series 7. Awards Recognition, 1993-1998</item>
+<item>Series 8. Publications and Manuals, 1986-2000</item>
+<item>Series 9. Visual Materials, 1986-1995</item>
+<item>Series 10. Women's AIDS Network, 1984-1992</item>
+</list></p>
+</arrangement>
+<controlaccess>
+<head>Indexing Terms</head>
+<subject source="`" rules="lcsh">AIDS</subject>
+<subject source="lcsh" rules="lcsh">San Francisco (Calif.)</subject>
+<subject source="lcsh" rules="lcsh">Pro Bono Advocates </subject>
+<subject source="lcsh" rules="lcsh">Attorneys </subject>
+</controlaccess>
+
+<dsc type="combined"> 
+<head>Collection Contents</head> 
+<note><p>A copy of the collection register is kept in the first box of the collection (1/0).</p></note>
+<c01 level="series"> 
+<did> 
+<unittitle>Series 1. Policies</unittitle> 
+<unitdate type="inclusive" normal="1985/1991">1985-1991</unitdate> 
+<physdesc><extent>5 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>The series contains documents relating to the structure, rules, and organization of the ALRP.</p> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unititle>Audit (restricted)</unititle> 
+<unitdate type="inclusive" normal="1988-1992">1988-1992</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 1</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Personnel Policy</unititle> 
+<unitdate type="inclusive" normal="1991">1991</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 2</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Procedures and Rules of Operation</unititle> 
+<unitdate type="inclusive" normal="1985-1986">1985-1986</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Referral Procedures</unititle> 
+<unitdate type="inclusive" normal="1993">1993</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 4</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Staff Evaluations (restricted)</unititle> 
+<unitdate type="inclusive" normal="1991">1991</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 5</container> 
+</did> 
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unittitle>Series 2. Referral Panel List</unittitle> 
+<unitdate type="inclusive" normal="1985/1990">1985-1990</unitdate> 
+<physdesc><extent>4 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series contains lists of attorney's and law firms who were willing to take pro bono referrals from the ALRP.  There is also a list of Honorary Board Members from 1991.</p> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unititle>Honorary board</unititle> 
+<unitdate type="inclusive" normal="1991">1991</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 6</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Referral panel list</unititle> 
+<unitdate type="inclusive" normal="1985-1986">1985-1986</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 7</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Referral panel List</unititle> 
+<unitdate type="inclusive" normal="1987-1988">1987-1988</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 8</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Referral Panel Lists</unititle> 
+<unitdate type="inclusive" normal="1990">1990</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 9</container> 
+</did> 
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unittitle>Series 3. Administration</unittitle> 
+<unitdate type="inclusive" normal="1985/1993">1985-1993</unitdate> 
+<physdesc><extent>6 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series consists of internal documents, memos, meeting minutes, staff evaluations, various proposals, as well as 
+documents from an audit.  A folder containing staff evaluations has been separated from the collection and is restricted.</p> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unititle>Correspondence</unititle> 
+<unitdate type="inclusive" normal="1985-1987">1985-1987</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 10</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Staff Memos</unititle> 
+<unitdate type="inclusive" normal="1991">1991</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 11</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Minutes</unititle> 
+<unitdate type="inclusive" normal="1986-1989">1986-1989</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 12</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Minutes and notice of meetings</unititle> 
+<unitdate type="inclusive" normal="1990-1992">1990-1992</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 13</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Minutes</unititle> 
+<unitdate type="inclusive" normal="1992-1993">1992-1993</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 1</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Proposals</unititle> 
+<unitdate type="inclusive" normal="1986-1988">1986-1988</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 2</container> 
+</did> 
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unittitle>Series 4. Reports</unittitle> 
+<unitdate type="inclusive" normal="1986/1991">1986-1991</unitdate> 
+<physdesc><extent>3 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series contains annual reports, manager's reports and a treasurer's report documenting the organizations activities and progress.  The annual reports are only for the years 1986 and 1987.</p> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unititle>Annual Reports</unititle> 
+<unitdate type="inclusive" normal="1986-1987">1986-1987</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Management reports</unititle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 4</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Treasurer's Report</unititle> 
+<unitdate type="inclusive" normal="1991">1991</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 5</container> 
+</did> 
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unittitle>Series 5. Clients</unittitle> 
+<unitdate type="inclusive" normal="1991">1991</unitdate> 
+<physdesc><extent>2 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series contains a collection of client stories (labeled "tear jerkers") as well as client statistics from 1991.  These materials illustrate the real impact that the attorneys of the ALRP have had on the lives of persons with AIDS.  .</p> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unititle>Miscellaneous Clients Stories (Tear Jerkers)</unititle> 
+<unitdate type="inclusive" normal="1991">1991</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 6</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Client Statistics</unititle> 
+<unitdate type="inclusive" normal="1991">1991</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 7</container> 
+</did> 
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unittitle>Series 6. Advocacy</unittitle> 
+<unitdate type="inclusive" normal="1986/1995">1986-1995</unitdate> 
+<physdesc><extent>8 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series contains materials documenting the ALRP's public policy advocacy on behalf of persons with AIDS over the years.  Also found in this series is an analysis of Proposition 64, the "AIDS Initiative."  This initiative statute would have added AIDS to the list of communicable diseases. The ALRP opposed this measure and it was defeated by a margin of 71% to 29%.</p> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unititle>AIDSlaw Conference</unititle> 
+<unitdate type="inclusive" normal="1988-1991">1988-1991</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 8</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Comments/Testimony SSA HIV Disability System</unititle> 
+<unitdate type="inclusive" normal="1992-1993">1992-1993</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 9</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Comments/Testimony before Judicial Council of California</unititle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 10</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Counterpart Conference on Legal Services - Executive Summary</unititle> 
+<unitdate type="inclusive" normal="1993">1993</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 11</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Joint Task Force on the HIV Epidemic</unititle> 
+<unitdate type="inclusive" normal="1990-1994">1990-1994</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 12</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Policy Project</unititle> 
+<unitdate type="inclusive" normal="1992">1992</unitdate> 
+<container type="box-folder" label="Box: Folder">3: 1</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>"Prop 64:  The AIDS Initiative in California"</unititle> 
+<unitdate type="inclusive" normal="1986">1986</unitdate> 
+<container type="box-folder" label="Box: Folder">3: 2</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>State Funding</unititle> 
+<unitdate type="inclusive" normal="1988">1988</unitdate> 
+<container type="box-folder" label="Box: Folder">3: 3</container> 
+</did> 
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unittitle>Series 7. Awards Recognition</unittitle> 
+<unitdate type="inclusive" normal="1993/1998">1993-1998</unitdate> 
+<physdesc><extent>3 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series contains various awards and recognitions that the organization has garnered over the years.  Included in this series is an invitation to President's Clinton's Second Inaugural Ball.</p> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unititle>Various Awards</unititle> 
+<unitdate type="inclusive" normal="1998">1998</unitdate> 
+<container type="box-folder" label="Box: Folder">3: 4</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Invitation to President Clinton's Second Inaugural Ball</unititle> 
+<unitdate type="inclusive" normal="1996">1996</unitdate> 
+<container type="box-folder" label="Box: Folder">3: 5</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Letters of support</unititle> 
+<unitdate type="inclusive" normal="1993">1993</unitdate> 
+<container type="box-folder" label="Box: Folder">3: 6</container> 
+</did> 
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unittitle>Series 8. Publications and Manuals</unittitle> 
+<unitdate type="inclusive" normal="1986/2000">1986-2000</unitdate> 
+<physdesc><extent>20 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series consists of publications and internal manuals produced by the organization.  These publications were meant to provide legal information and education to persons with AIDS and those caring for person's with AIDS.  Internal operations manuals, newsletters, and a personnel manual intended for the members of the ALRP are also found in this series.</p> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unititle>Advance Medical Directive</unititle> 
+<unitdate type="inclusive" normal="1990">1990</unitdate> 
+<container type="box-folder" label="Box: Folder">3: 7</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>AIDS Assistance Panel</unititle> 
+<unitdate type="inclusive" normal="1986">1986</unitdate> 
+<container type="box-folder" label="Box: Folder">3: 8</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>AIDS in the Workplace</unititle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container type="box-folder" label="Box: Folder">3: 9</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>AIDS Medical Training for Non-Physicians</unititle> 
+<unitdate type="inclusive" normal="1989">1989</unitdate> 
+<container type="box-folder" label="Box: Folder">3: 10</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>AIDSLaw:  A Manual on Providing Legal Services to Persons With HIV Infection</unititle> 
+<unitdate type="inclusive" normal="1990">1990</unitdate> 
+<container type="box-folder" label="Box: Folder">3: 11</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Guardianship for Parents with HIV</unititle> 
+<unitdate type="inclusive" normal="1993">1993</unitdate> 
+<container type="box-folder" label="Box: Folder">3: 12</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Information Pamphlets</unititle> 
+<unitdate type="inclusive" normal="1992-1994">1992-1994</unitdate> 
+<container type="box-folder" label="Box: Folder">4: 1</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Introductory Training Simple Wills, Power of Attorney for Health Care and Property</unititle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container type="box-folder" label="Box: Folder">4: 2</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>"Just Say No to Creditors..."</unititle> 
+<unitdate type="inclusive" normal="1990">1990</unitdate> 
+<container type="box-folder" label="Box: Folder">4: 3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Management</unititle> 
+<unitdate type="inclusive" normal="1992">circa 1992</unitdate> 
+<container type="box-folder" label="Box: Folder">4: 4</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Making Your Will</unititle> 
+<unitdate type="inclusive" normal="1990">1990</unitdate> 
+<container type="box-folder" label="Box: Folder">4: 5</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Medical Privacy for the HIV-Infected Individual</unititle> 
+<unitdate type="inclusive" normal="1990">1990</unitdate> 
+<container type="box-folder" label="Box: Folder">4: 6</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Morrison and Foerster Pro Bono AIDS Panel Forms and Procedures Manual</unititle> 
+<unitdate type="inclusive" normal="1989">1989</unitdate> 
+<container type="box-folder" label="Box: Folder">4: 7</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Newsletter</unititle> 
+<unitdate type="inclusive" normal="1993-2000">1993-2000</unitdate> 
+<container type="box-folder" label="Box: Folder">4: 8</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Operations Procedures Manuels</unititle> 
+<unitdate type="inclusive" normal="1992">1992</unitdate> 
+<container type="box-folder" label="Box: Folder">4: 8</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Personnel Manual</unititle> 
+<unitdate type="inclusive" normal="1991">1991</unitdate> 
+<container type="box-folder" label="Box: Folder">4: 9</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Public Benefits</unititle> 
+<unitdate type="inclusive" normal="1990">1990</unitdate> 
+<container type="box-folder" label="Box: Folder">4: 10</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Sacramento AIDS Legal Referral Panel Training Manual</unititle> 
+<unitdate type="inclusive" normal="1988">1988</unitdate> 
+<container type="box-folder" label="Box: Folder">4: 11</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Social Security Appeals for HIV Disability: An Advocates Manual</unititle> 
+<unitdate type="inclusive" normal="1994">1994</unitdate> 
+<container type="box-folder" label="Box: Folder">4: 12</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>The Benefits Game</unititle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container type="box-folder" label="Box: Folder">4: 13</container> 
+</did> 
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unittitle>Series 9. Visual Materials</unittitle> 
+<unitdate type="inclusive">1986-1995</unitdate> 
+<physdesc><extent>2 boxes, 16 videocassettes</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series consists of videos produced by the ALRP.  These videos were meant to provide legal information for persons with AIDS.  There are two sub-series, based on format.  The first sub-series is VHS video cassettes and the second sub-series is U-matic video casettes.</p> 
+</scopecontent>
+<c02 level="subseries">  
+<did>  
+<unititle>VHS videocassettes</unititle> 
+<container type="box-folder" label="Box : Folder">5: 1-12</container> 
+</did>
+<c03 level="item">  
+<did>  
+<unititle>AIDS Changing the Rules</unititle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container type="box-folder" label="Box : Folder">5: 1</container> 
+</did> 
+</c03>
+<c03 level="item">  
+<did>  
+<unititle>AIDS Panel, Bankruptcy Training, #1</unititle> 
+<unitdate type="inclusive" normal="1986-11-15">November 15, 1986</unitdate> 
+<container type="box-folder" label="Box : Folder">5: 2</container> 
+</did> 
+</c03>
+<c03 level="item">  
+<did>  
+<unititle>AIDS Panel, Bankruptcy Training, #2</unititle> 
+<unitdate type="inclusive" normal="1986-11-15">November 15, 1986</unitdate> 
+<container type="box-folder" label="Box : Folder">5: 3</container> 
+</did> 
+</c03>
+<c03 level="item">  
+<did>  
+<unititle>"As Is"</unititle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container type="box-folder" label="Box : Folder">5: 4</container> 
+</did> 
+</c03>
+<c03 level="item">  
+<did>  
+<unititle>BALIF AIDS Panel, Dr. Baker, M. Griffith</unititle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container type="box-folder" label="Box : Folder">5: 5</container> 
+</did> 
+</c03>
+<c03 level="item">  
+<did>  
+<unititle>Diva Las Vegas, Saturday</unititle> 
+<unitdate type="inclusive" normal="1995-10-21">October 21, 1995</unitdate> 
+<container type="box-folder" label="Box : Folder">5: 6</container> 
+</did> 
+</c03>
+<c03 level="item">  
+<did>  
+<unititle>Government Benefit Case (Related to Social Security Self Help Manual)</unititle> 
+<unitdate type="inclusive" normal="1988-08-01">August 1, 1988</unitdate> 
+<container type="box-folder" label="Box : Folder">5: 7</container> 
+</did> 
+</c03>
+<c03 level="item">  
+<did>  
+<unititle>Insurance</unititle> 
+<unitdate type="inclusive" normal="1988-07-30">July 30, 1988</unitdate> 
+<container type="box-folder" label="Box : Folder">5: 8</container> 
+</did> 
+</c03>
+<c03 level="item">  
+<did>  
+<unititle>Pro Bono in the AIDS Epidemic</unititle> 
+<unitdate type="inclusive" normal="1992">1992</unitdate> 
+<container type="box-folder" label="Box : Folder">5: 9</container> 
+</did> 
+</c03>
+<c03 level="item">  
+<did>  
+<unititle>Social Security Appeals Training, Gary Wood</unititle> 
+<unitdate type="inclusive" normal="1988-07-23">July 23, 1988</unitdate> 
+<container type="box-folder" label="Box : Folder">5: 10</container> 
+</did> 
+</c03>
+<c03 level="item">  
+<did>  
+<unititle>Vivian Hammill Discrimination/ Gary Wood Disability</unititle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container type="box-folder" label="Box : Folder">5: 11</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries">  
+<did>  
+<unititle>U-matic videocassettes</unititle> 
+<container type="box-folder" label="Box : Folder">6: 1-4</container> 
+</did>
+<scopecontent> 
+<head>Sub-Series Description</head>
+<p>These U-matic videocassettes are all Sony KCA-60K.</p>
+</scopecontent>
+<c03 level="item">  
+<did>  
+<unititle>Melinda Griffith AIDS Panel</unititle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container type="box-folder" label="Box : Folder">6: 1</container> 
+</did> 
+</c03>
+<c03 level="item">  
+<did>  
+<unititle>Vivian Hammill employment discrimination</unititle> 
+<unitdate type="inclusive" normal="1986-04-12">April 12, 1986</unitdate> 
+<container type="box-folder" label="Box : Folder">6: 2</container> 
+</did> 
+</c03>
+<c03 level="item">  
+<did>  
+<unititle>Gary Wood disability</unititle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container type="box-folder" label="Box : Folder">6: 3</container> 
+</did> 
+</c03>
+<c03 level="item">  
+<did>  
+<unititle>BALIF AIDs Panel #1 with Dr. Baker and M.Griffith</unititle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container type="box-folder" label="Box : Folder">6: 4</container> 
+</did> 
+</c03>
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unittitle>Series 10. Women's AIDS Network</unittitle> 
+<unitdate type="inclusive" normal="1984/1992">1984-1992</unitdate> 
+<physdesc><extent>18 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>These records document early and continuing advocacy work for women with HIV infection. Included are founding papers, bylaws, Board minutes (9qqq84-1992), other Board records, goals and planning documents, correspondence, contract and grant applications, subject files, and information on Women's AIDS Networks in other cities.</p> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unititle>AIDS Walk</unititle> 
+<unitdate type="inclusive" normal="1994-1996">1994-1996</unitdate> 
+<container type="box-folder" label="Box: Folder">7: 1</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Dance-a-thon</unititle> 
+<unitdate type="inclusive" normal="1995-1996">1995-1996</unitdate> 
+<container type="box-folder" label="Box: Folder">7: 2</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Finances</unititle> 
+<unitdate type="inclusive" normal="1994-1997">1994-1997</unitdate> 
+<container type="box-folder" label="Box: Folder">7: 3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Form 990</unititle> 
+<unitdate type="inclusive" normal="1993-1994">1993-1994</unitdate> 
+<container type="box-folder" label="Box: Folder">7: 4</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Fundraising</unititle> 
+<unitdate type="inclusive" normal="1992-1997">1992-1997</unitdate> 
+<container type="box-folder" label="Box: Folder">7: 5</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Newsletter</unititle> 
+<unitdate type="inclusive" normal="1995-1998">1995-1998</unitdate> 
+<container type="box-folder" label="Box: Folder">7: 6</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Women to Women HIV Transmission</unititle> 
+<unitdate type="inclusive" normal="1996">1996</unitdate> 
+<container type="box-folder" label="Box: Folder">7: 7</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Board Meetings</unititle> 
+<unitdate type="inclusive" normal="1992-1995">1992-1995</unitdate> 
+<container type="box-folder" label="Box: Folder">8: 1</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Board of Directors Retreat</unititle> 
+<unitdate type="inclusive" normal="1994-1997">1994-1997</unitdate> 
+<container type="box-folder" label="Box: Folder">8: 2</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Board of Directors</unititle> 
+<unitdate type="inclusive" normal="1993-1994">1993-1994</unitdate> 
+<container type="box-folder" label="Box: Folder">8: 3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>United Way</unititle> 
+<unitdate type="inclusive" normal="1996-1997">1996-1997</unitdate> 
+<container type="box-folder" label="Box: Folder">8: 4</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Public Policy</unititle> 
+<unitdate type="inclusive" normal="1995-1997">1995-1997</unitdate> 
+<container type="box-folder" label="Box: Folder">8: 5</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Historical Documents</unititle> 
+<unitdate type="inclusive" normal="1988-1997">1988-1997</unitdate> 
+<container type="box-folder" label="Box: Folder">8: 6</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Board Retreat, bylaws, articles of incorporation, non-profit status</unititle> 
+<unitdate type="inclusive" normal="1192-1996">1192-1996</unitdate> 
+<container type="box-folder" label="Box: Folder">9: 1</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Board of Directors nominees</unititle> 
+<unitdate type="inclusive" normal="1990-1996">1990-1996</unitdate> 
+<container type="box-folder" label="Box: Folder">9: 2</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Board of Directors</unititle> 
+<unitdate type="inclusive" normal="1994-1996">1994-1996</unitdate> 
+<container type="box-folder" label="Box: Folder">9: 3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Board of Directors</unititle> 
+<unitdate type="inclusive" normal="1987-1996">1987-1996</unitdate> 
+<container type="box-folder" label="Box: Folder">9: 4</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unititle>Board Meetings</unititle> 
+<unitdate type="inclusive" normal="1996-1997">1996-1997</unitdate> 
+<container type="box-folder" label="Box: Folder">9: 5</container> 
+</did> 
+</c02>
+</c01>
+</dsc>
+
+</archdesc>
+</ead>

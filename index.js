@@ -251,7 +251,8 @@ const handlers = {
       language = {name, attribs, text: ''}
       languageStack.push(language)
     }
-    if (/^file$/i.test(attribs.level)) {
+    // Use both `level="file"` and `level="item"` because some finding aids don't include `level="file"`.
+    if (/^(?:file|item)$/i.test(attribs.level)) {
       if (dataMap.size > 0) {
         // This map encloses another map, so do not display on line by itself.
         dataMap.set('DONOTDISPLAY', true)
