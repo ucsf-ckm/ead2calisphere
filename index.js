@@ -68,7 +68,7 @@ const displayData = (data) => {
   output.push('')
 
   // Local identifier
-  const containers = container.split(/[ :]/)
+  const containers = container.split(/[ :]+/)
   const containersPadded = containers.map((val) => val.padStart(3, '0'))
   output.push(`${collectionNumber.trim().replace(/\s+/g, '')}_${containersPadded.join('_')}_0000`.toLowerCase())
 

@@ -156,35 +156,35 @@ Languages represented in the collection:
 </scopecontent>
 <c02 level="item">  
 <did>  
-<unititle>Audit (restricted)</unititle> 
+<unittitle>Audit (restricted)</unittitle> 
 <unitdate type="inclusive" normal="1988-1992">1988-1992</unitdate> 
 <container type="box-folder" label="Box: Folder">1: 1</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Personnel Policy</unititle> 
+<unittitle>Personnel Policy</unittitle> 
 <unitdate type="inclusive" normal="1991">1991</unitdate> 
 <container type="box-folder" label="Box: Folder">1: 2</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Procedures and Rules of Operation</unititle> 
+<unittitle>Procedures and Rules of Operation</unittitle> 
 <unitdate type="inclusive" normal="1985-1986">1985-1986</unitdate> 
 <container type="box-folder" label="Box: Folder">1: 3</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Referral Procedures</unititle> 
+<unittitle>Referral Procedures</unittitle> 
 <unitdate type="inclusive" normal="1993">1993</unitdate> 
 <container type="box-folder" label="Box: Folder">1: 4</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Staff Evaluations (restricted)</unititle> 
+<unittitle>Staff Evaluations (restricted)</unittitle> 
 <unitdate type="inclusive" normal="1991">1991</unitdate> 
 <container type="box-folder" label="Box: Folder">1: 5</container> 
 </did> 
@@ -202,28 +202,28 @@ Languages represented in the collection:
 </scopecontent>
 <c02 level="item">  
 <did>  
-<unititle>Honorary board</unititle> 
+<unittitle>Honorary board</unittitle> 
 <unitdate type="inclusive" normal="1991">1991</unitdate> 
 <container type="box-folder" label="Box: Folder">1: 6</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Referral panel list</unititle> 
+<unittitle>Referral panel list</unittitle> 
 <unitdate type="inclusive" normal="1985-1986">1985-1986</unitdate> 
 <container type="box-folder" label="Box: Folder">1: 7</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Referral panel List</unititle> 
+<unittitle>Referral panel List</unittitle> 
 <unitdate type="inclusive" normal="1987-1988">1987-1988</unitdate> 
 <container type="box-folder" label="Box: Folder">1: 8</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Referral Panel Lists</unititle> 
+<unittitle>Referral Panel Lists</unittitle> 
 <unitdate type="inclusive" normal="1990">1990</unitdate> 
 <container type="box-folder" label="Box: Folder">1: 9</container> 
 </did> 
@@ -242,42 +242,42 @@ documents from an audit.  A folder containing staff evaluations has been separat
 </scopecontent>
 <c02 level="item">  
 <did>  
-<unititle>Correspondence</unititle> 
+<unittitle>Correspondence</unittitle> 
 <unitdate type="inclusive" normal="1985-1987">1985-1987</unitdate> 
 <container type="box-folder" label="Box: Folder">1: 10</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Staff Memos</unititle> 
+<unittitle>Staff Memos</unittitle> 
 <unitdate type="inclusive" normal="1991">1991</unitdate> 
 <container type="box-folder" label="Box: Folder">1: 11</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Minutes</unititle> 
+<unittitle>Minutes</unittitle> 
 <unitdate type="inclusive" normal="1986-1989">1986-1989</unitdate> 
 <container type="box-folder" label="Box: Folder">1: 12</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Minutes and notice of meetings</unititle> 
+<unittitle>Minutes and notice of meetings</unittitle> 
 <unitdate type="inclusive" normal="1990-1992">1990-1992</unitdate> 
 <container type="box-folder" label="Box: Folder">1: 13</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Minutes</unititle> 
+<unittitle>Minutes</unittitle> 
 <unitdate type="inclusive" normal="1992-1993">1992-1993</unitdate> 
 <container type="box-folder" label="Box: Folder">2: 1</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Proposals</unititle> 
+<unittitle>Proposals</unittitle> 
 <unitdate type="inclusive" normal="1986-1988">1986-1988</unitdate> 
 <container type="box-folder" label="Box: Folder">2: 2</container> 
 </did> 
@@ -295,21 +295,21 @@ documents from an audit.  A folder containing staff evaluations has been separat
 </scopecontent>
 <c02 level="item">  
 <did>  
-<unititle>Annual Reports</unititle> 
+<unittitle>Annual Reports</unittitle> 
 <unitdate type="inclusive" normal="1986-1987">1986-1987</unitdate> 
 <container type="box-folder" label="Box: Folder">2: 3</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Management reports</unititle> 
+<unittitle>Management reports</unittitle> 
 <unitdate type="inclusive">undated</unitdate> 
 <container type="box-folder" label="Box: Folder">2: 4</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Treasurer's Report</unititle> 
+<unittitle>Treasurer's Report</unittitle> 
 <unitdate type="inclusive" normal="1991">1991</unitdate> 
 <container type="box-folder" label="Box: Folder">2: 5</container> 
 </did> 
@@ -327,14 +327,14 @@ documents from an audit.  A folder containing staff evaluations has been separat
 </scopecontent>
 <c02 level="item">  
 <did>  
-<unititle>Miscellaneous Clients Stories (Tear Jerkers)</unititle> 
+<unittitle>Miscellaneous Clients Stories (Tear Jerkers)</unittitle> 
 <unitdate type="inclusive" normal="1991">1991</unitdate> 
 <container type="box-folder" label="Box: Folder">2: 6</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Client Statistics</unititle> 
+<unittitle>Client Statistics</unittitle> 
 <unitdate type="inclusive" normal="1991">1991</unitdate> 
 <container type="box-folder" label="Box: Folder">2: 7</container> 
 </did> 
@@ -352,56 +352,56 @@ documents from an audit.  A folder containing staff evaluations has been separat
 </scopecontent>
 <c02 level="item">  
 <did>  
-<unititle>AIDSlaw Conference</unititle> 
+<unittitle>AIDSlaw Conference</unittitle> 
 <unitdate type="inclusive" normal="1988-1991">1988-1991</unitdate> 
 <container type="box-folder" label="Box: Folder">2: 8</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Comments/Testimony SSA HIV Disability System</unititle> 
+<unittitle>Comments/Testimony SSA HIV Disability System</unittitle> 
 <unitdate type="inclusive" normal="1992-1993">1992-1993</unitdate> 
 <container type="box-folder" label="Box: Folder">2: 9</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Comments/Testimony before Judicial Council of California</unititle> 
+<unittitle>Comments/Testimony before Judicial Council of California</unittitle> 
 <unitdate type="inclusive" normal="1995">1995</unitdate> 
 <container type="box-folder" label="Box: Folder">2: 10</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Counterpart Conference on Legal Services - Executive Summary</unititle> 
+<unittitle>Counterpart Conference on Legal Services - Executive Summary</unittitle> 
 <unitdate type="inclusive" normal="1993">1993</unitdate> 
 <container type="box-folder" label="Box: Folder">2: 11</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Joint Task Force on the HIV Epidemic</unititle> 
+<unittitle>Joint Task Force on the HIV Epidemic</unittitle> 
 <unitdate type="inclusive" normal="1990-1994">1990-1994</unitdate> 
 <container type="box-folder" label="Box: Folder">2: 12</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Policy Project</unititle> 
+<unittitle>Policy Project</unittitle> 
 <unitdate type="inclusive" normal="1992">1992</unitdate> 
 <container type="box-folder" label="Box: Folder">3: 1</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>"Prop 64:  The AIDS Initiative in California"</unititle> 
+<unittitle>"Prop 64:  The AIDS Initiative in California"</unittitle> 
 <unitdate type="inclusive" normal="1986">1986</unitdate> 
 <container type="box-folder" label="Box: Folder">3: 2</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>State Funding</unititle> 
+<unittitle>State Funding</unittitle> 
 <unitdate type="inclusive" normal="1988">1988</unitdate> 
 <container type="box-folder" label="Box: Folder">3: 3</container> 
 </did> 
@@ -419,21 +419,21 @@ documents from an audit.  A folder containing staff evaluations has been separat
 </scopecontent>
 <c02 level="item">  
 <did>  
-<unititle>Various Awards</unititle> 
+<unittitle>Various Awards</unittitle> 
 <unitdate type="inclusive" normal="1998">1998</unitdate> 
 <container type="box-folder" label="Box: Folder">3: 4</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Invitation to President Clinton's Second Inaugural Ball</unititle> 
+<unittitle>Invitation to President Clinton's Second Inaugural Ball</unittitle> 
 <unitdate type="inclusive" normal="1996">1996</unitdate> 
 <container type="box-folder" label="Box: Folder">3: 5</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Letters of support</unititle> 
+<unittitle>Letters of support</unittitle> 
 <unitdate type="inclusive" normal="1993">1993</unitdate> 
 <container type="box-folder" label="Box: Folder">3: 6</container> 
 </did> 
@@ -451,140 +451,140 @@ documents from an audit.  A folder containing staff evaluations has been separat
 </scopecontent>
 <c02 level="item">  
 <did>  
-<unititle>Advance Medical Directive</unititle> 
+<unittitle>Advance Medical Directive</unittitle> 
 <unitdate type="inclusive" normal="1990">1990</unitdate> 
 <container type="box-folder" label="Box: Folder">3: 7</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>AIDS Assistance Panel</unititle> 
+<unittitle>AIDS Assistance Panel</unittitle> 
 <unitdate type="inclusive" normal="1986">1986</unitdate> 
 <container type="box-folder" label="Box: Folder">3: 8</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>AIDS in the Workplace</unititle> 
+<unittitle>AIDS in the Workplace</unittitle> 
 <unitdate type="inclusive">undated</unitdate> 
 <container type="box-folder" label="Box: Folder">3: 9</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>AIDS Medical Training for Non-Physicians</unititle> 
+<unittitle>AIDS Medical Training for Non-Physicians</unittitle> 
 <unitdate type="inclusive" normal="1989">1989</unitdate> 
 <container type="box-folder" label="Box: Folder">3: 10</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>AIDSLaw:  A Manual on Providing Legal Services to Persons With HIV Infection</unititle> 
+<unittitle>AIDSLaw:  A Manual on Providing Legal Services to Persons With HIV Infection</unittitle> 
 <unitdate type="inclusive" normal="1990">1990</unitdate> 
 <container type="box-folder" label="Box: Folder">3: 11</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Guardianship for Parents with HIV</unititle> 
+<unittitle>Guardianship for Parents with HIV</unittitle> 
 <unitdate type="inclusive" normal="1993">1993</unitdate> 
 <container type="box-folder" label="Box: Folder">3: 12</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Information Pamphlets</unititle> 
+<unittitle>Information Pamphlets</unittitle> 
 <unitdate type="inclusive" normal="1992-1994">1992-1994</unitdate> 
 <container type="box-folder" label="Box: Folder">4: 1</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Introductory Training Simple Wills, Power of Attorney for Health Care and Property</unititle> 
+<unittitle>Introductory Training Simple Wills, Power of Attorney for Health Care and Property</unittitle> 
 <unitdate type="inclusive">undated</unitdate> 
 <container type="box-folder" label="Box: Folder">4: 2</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>"Just Say No to Creditors..."</unititle> 
+<unittitle>"Just Say No to Creditors..."</unittitle> 
 <unitdate type="inclusive" normal="1990">1990</unitdate> 
 <container type="box-folder" label="Box: Folder">4: 3</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Management</unititle> 
+<unittitle>Management</unittitle> 
 <unitdate type="inclusive" normal="1992">circa 1992</unitdate> 
 <container type="box-folder" label="Box: Folder">4: 4</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Making Your Will</unititle> 
+<unittitle>Making Your Will</unittitle> 
 <unitdate type="inclusive" normal="1990">1990</unitdate> 
 <container type="box-folder" label="Box: Folder">4: 5</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Medical Privacy for the HIV-Infected Individual</unititle> 
+<unittitle>Medical Privacy for the HIV-Infected Individual</unittitle> 
 <unitdate type="inclusive" normal="1990">1990</unitdate> 
 <container type="box-folder" label="Box: Folder">4: 6</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Morrison and Foerster Pro Bono AIDS Panel Forms and Procedures Manual</unititle> 
+<unittitle>Morrison and Foerster Pro Bono AIDS Panel Forms and Procedures Manual</unittitle> 
 <unitdate type="inclusive" normal="1989">1989</unitdate> 
 <container type="box-folder" label="Box: Folder">4: 7</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Newsletter</unititle> 
+<unittitle>Newsletter</unittitle> 
 <unitdate type="inclusive" normal="1993-2000">1993-2000</unitdate> 
 <container type="box-folder" label="Box: Folder">4: 8</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Operations Procedures Manuels</unititle> 
+<unittitle>Operations Procedures Manuels</unittitle> 
 <unitdate type="inclusive" normal="1992">1992</unitdate> 
 <container type="box-folder" label="Box: Folder">4: 8</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Personnel Manual</unititle> 
+<unittitle>Personnel Manual</unittitle> 
 <unitdate type="inclusive" normal="1991">1991</unitdate> 
 <container type="box-folder" label="Box: Folder">4: 9</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Public Benefits</unititle> 
+<unittitle>Public Benefits</unittitle> 
 <unitdate type="inclusive" normal="1990">1990</unitdate> 
 <container type="box-folder" label="Box: Folder">4: 10</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Sacramento AIDS Legal Referral Panel Training Manual</unititle> 
+<unittitle>Sacramento AIDS Legal Referral Panel Training Manual</unittitle> 
 <unitdate type="inclusive" normal="1988">1988</unitdate> 
 <container type="box-folder" label="Box: Folder">4: 11</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Social Security Appeals for HIV Disability: An Advocates Manual</unititle> 
+<unittitle>Social Security Appeals for HIV Disability: An Advocates Manual</unittitle> 
 <unitdate type="inclusive" normal="1994">1994</unitdate> 
 <container type="box-folder" label="Box: Folder">4: 12</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>The Benefits Game</unititle> 
+<unittitle>The Benefits Game</unittitle> 
 <unitdate type="inclusive">undated</unitdate> 
 <container type="box-folder" label="Box: Folder">4: 13</container> 
 </did> 
@@ -602,82 +602,82 @@ documents from an audit.  A folder containing staff evaluations has been separat
 </scopecontent>
 <c02 level="subseries">  
 <did>  
-<unititle>VHS videocassettes</unititle> 
+<unittitle>VHS videocassettes</unittitle> 
 <container type="box-folder" label="Box : Folder">5: 1-12</container> 
 </did>
 <c03 level="item">  
 <did>  
-<unititle>AIDS Changing the Rules</unititle> 
+<unittitle>AIDS Changing the Rules</unittitle> 
 <unitdate type="inclusive">undated</unitdate> 
 <container type="box-folder" label="Box : Folder">5: 1</container> 
 </did> 
 </c03>
 <c03 level="item">  
 <did>  
-<unititle>AIDS Panel, Bankruptcy Training, #1</unititle> 
+<unittitle>AIDS Panel, Bankruptcy Training, #1</unittitle> 
 <unitdate type="inclusive" normal="1986-11-15">November 15, 1986</unitdate> 
 <container type="box-folder" label="Box : Folder">5: 2</container> 
 </did> 
 </c03>
 <c03 level="item">  
 <did>  
-<unititle>AIDS Panel, Bankruptcy Training, #2</unititle> 
+<unittitle>AIDS Panel, Bankruptcy Training, #2</unittitle> 
 <unitdate type="inclusive" normal="1986-11-15">November 15, 1986</unitdate> 
 <container type="box-folder" label="Box : Folder">5: 3</container> 
 </did> 
 </c03>
 <c03 level="item">  
 <did>  
-<unititle>"As Is"</unititle> 
+<unittitle>"As Is"</unittitle> 
 <unitdate type="inclusive">undated</unitdate> 
 <container type="box-folder" label="Box : Folder">5: 4</container> 
 </did> 
 </c03>
 <c03 level="item">  
 <did>  
-<unititle>BALIF AIDS Panel, Dr. Baker, M. Griffith</unititle> 
+<unittitle>BALIF AIDS Panel, Dr. Baker, M. Griffith</unittitle> 
 <unitdate type="inclusive">undated</unitdate> 
 <container type="box-folder" label="Box : Folder">5: 5</container> 
 </did> 
 </c03>
 <c03 level="item">  
 <did>  
-<unititle>Diva Las Vegas, Saturday</unititle> 
+<unittitle>Diva Las Vegas, Saturday</unittitle> 
 <unitdate type="inclusive" normal="1995-10-21">October 21, 1995</unitdate> 
 <container type="box-folder" label="Box : Folder">5: 6</container> 
 </did> 
 </c03>
 <c03 level="item">  
 <did>  
-<unititle>Government Benefit Case (Related to Social Security Self Help Manual)</unititle> 
+<unittitle>Government Benefit Case (Related to Social Security Self Help Manual)</unittitle> 
 <unitdate type="inclusive" normal="1988-08-01">August 1, 1988</unitdate> 
 <container type="box-folder" label="Box : Folder">5: 7</container> 
 </did> 
 </c03>
 <c03 level="item">  
 <did>  
-<unititle>Insurance</unititle> 
+<unittitle>Insurance</unittitle> 
 <unitdate type="inclusive" normal="1988-07-30">July 30, 1988</unitdate> 
 <container type="box-folder" label="Box : Folder">5: 8</container> 
 </did> 
 </c03>
 <c03 level="item">  
 <did>  
-<unititle>Pro Bono in the AIDS Epidemic</unititle> 
+<unittitle>Pro Bono in the AIDS Epidemic</unittitle> 
 <unitdate type="inclusive" normal="1992">1992</unitdate> 
 <container type="box-folder" label="Box : Folder">5: 9</container> 
 </did> 
 </c03>
 <c03 level="item">  
 <did>  
-<unititle>Social Security Appeals Training, Gary Wood</unititle> 
+<unittitle>Social Security Appeals Training, Gary Wood</unittitle> 
 <unitdate type="inclusive" normal="1988-07-23">July 23, 1988</unitdate> 
 <container type="box-folder" label="Box : Folder">5: 10</container> 
 </did> 
 </c03>
 <c03 level="item">  
 <did>  
-<unititle>Vivian Hammill Discrimination/ Gary Wood Disability</unititle> 
+<unittitle>Vivian Hammill Discrimination/ Gary Wood Disability</unittitle> 
 <unitdate type="inclusive">undated</unitdate> 
 <container type="box-folder" label="Box : Folder">5: 11</container> 
 </did> 
@@ -685,7 +685,7 @@ documents from an audit.  A folder containing staff evaluations has been separat
 </c02>
 <c02 level="subseries">  
 <did>  
-<unititle>U-matic videocassettes</unititle> 
+<unittitle>U-matic videocassettes</unittitle> 
 <container type="box-folder" label="Box : Folder">6: 1-4</container> 
 </did>
 <scopecontent> 
@@ -694,28 +694,28 @@ documents from an audit.  A folder containing staff evaluations has been separat
 </scopecontent>
 <c03 level="item">  
 <did>  
-<unititle>Melinda Griffith AIDS Panel</unititle> 
+<unittitle>Melinda Griffith AIDS Panel</unittitle> 
 <unitdate type="inclusive">undated</unitdate> 
 <container type="box-folder" label="Box : Folder">6: 1</container> 
 </did> 
 </c03>
 <c03 level="item">  
 <did>  
-<unititle>Vivian Hammill employment discrimination</unititle> 
+<unittitle>Vivian Hammill employment discrimination</unittitle> 
 <unitdate type="inclusive" normal="1986-04-12">April 12, 1986</unitdate> 
 <container type="box-folder" label="Box : Folder">6: 2</container> 
 </did> 
 </c03>
 <c03 level="item">  
 <did>  
-<unititle>Gary Wood disability</unititle> 
+<unittitle>Gary Wood disability</unittitle> 
 <unitdate type="inclusive">undated</unitdate> 
 <container type="box-folder" label="Box : Folder">6: 3</container> 
 </did> 
 </c03>
 <c03 level="item">  
 <did>  
-<unititle>BALIF AIDs Panel #1 with Dr. Baker and M.Griffith</unititle> 
+<unittitle>BALIF AIDs Panel #1 with Dr. Baker and M.Griffith</unittitle> 
 <unitdate type="inclusive">undated</unitdate> 
 <container type="box-folder" label="Box : Folder">6: 4</container> 
 </did> 
@@ -734,126 +734,126 @@ documents from an audit.  A folder containing staff evaluations has been separat
 </scopecontent>
 <c02 level="item">  
 <did>  
-<unititle>AIDS Walk</unititle> 
+<unittitle>AIDS Walk</unittitle> 
 <unitdate type="inclusive" normal="1994-1996">1994-1996</unitdate> 
 <container type="box-folder" label="Box: Folder">7: 1</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Dance-a-thon</unititle> 
+<unittitle>Dance-a-thon</unittitle> 
 <unitdate type="inclusive" normal="1995-1996">1995-1996</unitdate> 
 <container type="box-folder" label="Box: Folder">7: 2</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Finances</unititle> 
+<unittitle>Finances</unittitle> 
 <unitdate type="inclusive" normal="1994-1997">1994-1997</unitdate> 
 <container type="box-folder" label="Box: Folder">7: 3</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Form 990</unititle> 
+<unittitle>Form 990</unittitle> 
 <unitdate type="inclusive" normal="1993-1994">1993-1994</unitdate> 
 <container type="box-folder" label="Box: Folder">7: 4</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Fundraising</unititle> 
+<unittitle>Fundraising</unittitle> 
 <unitdate type="inclusive" normal="1992-1997">1992-1997</unitdate> 
 <container type="box-folder" label="Box: Folder">7: 5</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Newsletter</unititle> 
+<unittitle>Newsletter</unittitle> 
 <unitdate type="inclusive" normal="1995-1998">1995-1998</unitdate> 
 <container type="box-folder" label="Box: Folder">7: 6</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Women to Women HIV Transmission</unititle> 
+<unittitle>Women to Women HIV Transmission</unittitle> 
 <unitdate type="inclusive" normal="1996">1996</unitdate> 
 <container type="box-folder" label="Box: Folder">7: 7</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Board Meetings</unititle> 
+<unittitle>Board Meetings</unittitle> 
 <unitdate type="inclusive" normal="1992-1995">1992-1995</unitdate> 
 <container type="box-folder" label="Box: Folder">8: 1</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Board of Directors Retreat</unititle> 
+<unittitle>Board of Directors Retreat</unittitle> 
 <unitdate type="inclusive" normal="1994-1997">1994-1997</unitdate> 
 <container type="box-folder" label="Box: Folder">8: 2</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Board of Directors</unititle> 
+<unittitle>Board of Directors</unittitle> 
 <unitdate type="inclusive" normal="1993-1994">1993-1994</unitdate> 
 <container type="box-folder" label="Box: Folder">8: 3</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>United Way</unititle> 
+<unittitle>United Way</unittitle> 
 <unitdate type="inclusive" normal="1996-1997">1996-1997</unitdate> 
 <container type="box-folder" label="Box: Folder">8: 4</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Public Policy</unititle> 
+<unittitle>Public Policy</unittitle> 
 <unitdate type="inclusive" normal="1995-1997">1995-1997</unitdate> 
 <container type="box-folder" label="Box: Folder">8: 5</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Historical Documents</unititle> 
+<unittitle>Historical Documents</unittitle> 
 <unitdate type="inclusive" normal="1988-1997">1988-1997</unitdate> 
 <container type="box-folder" label="Box: Folder">8: 6</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Board Retreat, bylaws, articles of incorporation, non-profit status</unititle> 
+<unittitle>Board Retreat, bylaws, articles of incorporation, non-profit status</unittitle> 
 <unitdate type="inclusive" normal="1192-1996">1192-1996</unitdate> 
 <container type="box-folder" label="Box: Folder">9: 1</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Board of Directors nominees</unititle> 
+<unittitle>Board of Directors nominees</unittitle> 
 <unitdate type="inclusive" normal="1990-1996">1990-1996</unitdate> 
 <container type="box-folder" label="Box: Folder">9: 2</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Board of Directors</unititle> 
+<unittitle>Board of Directors</unittitle> 
 <unitdate type="inclusive" normal="1994-1996">1994-1996</unitdate> 
 <container type="box-folder" label="Box: Folder">9: 3</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Board of Directors</unititle> 
+<unittitle>Board of Directors</unittitle> 
 <unitdate type="inclusive" normal="1987-1996">1987-1996</unitdate> 
 <container type="box-folder" label="Box: Folder">9: 4</container> 
 </did> 
 </c02>
 <c02 level="item">  
 <did>  
-<unititle>Board Meetings</unititle> 
+<unittitle>Board Meetings</unittitle> 
 <unitdate type="inclusive" normal="1996-1997">1996-1997</unitdate> 
 <container type="box-folder" label="Box: Folder">9: 5</container> 
 </did> 
