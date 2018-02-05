@@ -278,10 +278,14 @@ const handlers = {
         language.text += text
       }
       if (/^container$/i.test(thisTag.name)) {
-        const types = thisTag.attribs.type.split(':')
-        const texts = text.split(':')
+        const types = thisTag.attribs.type.split(/[: -]+/).map((val) => val.charAt(0).toUpperCase() + val.slice(1))
+        const texts = text.split(/[: ]+/)
         const pieces = types.map((type, idx) => `${type} ${texts[idx]}`)
-        containerDisplay += pieces.join(', ')
+        if (containerDisplay) {
+          containerDisplay += ' ' + pieces.join(', ')
+        } else {
+          containerDisplay = pieces.join(', ')
+        }
       }
     }
     if (tagStack.filter((tag) => { return /^origination$/i.test(tag.name) && /^creator$/i.test(tag.attribs.label) }).length > 0) {
