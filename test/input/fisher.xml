@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-CSf">fisher.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Gary Fisher Papers, <date>1973-1997</date>
+                    <num>GLC 51</num>
+                </titleproper>
+                <titleproper type="filing">Fisher (Gary) Papers</titleproper>
+                <author>Finding aid prepared by Tim Wilson</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>James C. Hormel Gay &amp; Lesbian Center, San Francisco Public Library</publisher>
+                <address>
+                    <addressline>100 Larkin Street</addressline>
+                    <addressline>San Francisco, CA, 94102</addressline>
+                    <addressline>(415) 557-4400</addressline>
+                    <addressline>info@sfpl.org</addressline>
+                </address>
+                <date>2007</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-04-10T17:41-0700</date>
+            </creation>
+            <langusage>Finding aid written in: <language langcode="eng" scriptcode="Latn">English.</language></langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>2014</date>
+                <item></item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Gary Fisher Papers,</unittitle>
+            <unitdate normal="1973/1997" type="inclusive">1973-1997</unitdate>
+            <unitdate normal="1980/1994" type="bulk">1980-1994</unitdate>
+            <unitid label="Collection Identifier" repositorycode="US-CSf" countrycode="US">GLC 51</unitid>
+            <origination label="Creator">
+                <persname rules="dacs" source="naf" role="Creator (cre)">Fisher, Gary, 1961-1994</persname>
+            </origination>
+            <physdesc>
+                <extent>3.5 boxes</extent>
+                <extent>(3.5 cubic feet)</extent>
+            </physdesc>
+            <repository>
+                <corpname>James C. Hormel Gay &amp; Lesbian Center, San Francisco Public Library</corpname>
+                <address>
+                    <addressline>100 Larkin Street</addressline>
+                    <addressline>San Francisco, CA, 94102</addressline>
+                    <addressline>(415) 557-4400</addressline>
+                    <addressline>info@sfpl.org</addressline>
+                </address>
+            </repository>
+            <abstract id="ref119" label="Abstract">The collection contains the notebooks, diaries, journals, poems and short fiction of Gary Fisher, a gay African American man. It also includes the transcripts and excerpts used for 
+                <emph render="italic">Gary in Your Pocket</emph>, edited by Eve Kosofsky Sedgwick.</abstract>
+            <physloc id="ref117" label="Physical Location">The collection is stored onsite.</physloc>
+            <langmaterial label="Language of Materials">Collection materials are in <language langcode="eng">English.</language></langmaterial>
+        </did>
+        <accessrestrict id="ref3">
+            <head>Access</head>
+            <p>The collection is open for research.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Publication Rights</head>
+            <p>Copyright and literary rights retained by the Gary Fisher estate. All requests for permission to publish or quote from manuscripts must be submitted in writing to Hal Sedgwick.</p>
+        </userestrict>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], Gary Fisher Papers (GLC 51), Gay &amp; Lesbian Center, San Francisco Public Library.</p>
+        </prefercite>
+        <acqinfo id="ref2">
+            <head>Provenance</head>
+            <p>The Gary Fisher Papers were donated to the San Francisco Public Library in 1998 by Eve Kosofsky Sedgwick, the literary executor of the Gary Fisher Estate.</p>
+        </acqinfo>
+        <bioghist id="ref6">
+            <head>Biographical note</head>
+            <p>Gary Fisher was a gay African American man who enjoyed writing and drawing and was a dedicated diarist. He was born on June 19, 1961 in Bristol, Pennsylvania. Fisher attended the University of North Carolina at Chapel Hill from 1979-1983 and studied English and creative writing. He died of AIDS at the age of 32 on February 22, 1994. After his death, Eve Kosofsky Sedgwick edited portions of his journals, poems and stories in order to publish 
+                <emph render="italic">Gary in Your Pocket</emph>. Sedwick includes a full biography of Fisher at the end of 
+                <emph render="italic">Gary in Your Pocket</emph>.</p>
+        </bioghist>
+        <scopecontent id="ref7">
+            <head>Scope and Contents</head>
+            <p>This collection includes the written work, journals and drawings of Gary Fisher. It also includes the files created by Eve Kosofsky Sedgwick as she edited Fisher's work for the publication of 
+                <emph render="italic">Gary in Your Pocket</emph>. There is a small amount of correspondence and photographs.</p>
+        </scopecontent>
+        <arrangement id="ref8">
+            <head>Arrangement note</head>
+            <p>The papers have been arranged into six series: Series 1. Notebooks; Series 2. Journals / Diaries; Series 3. Poems, Short Fiction, and Other Writing; Series 4. 
+                <emph render="italic">Gary in Your Pocket</emph> Files; Series 5. Correspondence; and, Series 6. Printed Materials.</p>
+        </arrangement>
+        <controlaccess>
+            <persname rules="dacs" source="naf">Fisher, Gary, 1961-1994--Archives</persname>
+            <persname rules="dacs" source="naf">Sedgwick, Eve Kosofsky</persname>
+            <subject source="lcsh">African-American authors--Archives</subject>
+            <subject source="lcsh">African-American gay men--Archives</subject>
+            <subject source="lcsh">Gay men's writings--United States</subject>
+            <subject source="lcsh">Gay men--California--San Francisco--Diaries</subject>
+            <subject source="lcsh">Gay men--California--San Francisco--Social life and customs--20th century</subject>
+            <subject source="lcsh">Gay men--United States--Diaries</subject>
+            <subject source="local">Gay poetry--United States</subject>
+        </controlaccess>
+        <dsc type="combined">
+            <c01 id="ref1" level="series">
+                <did>
+                    <unitid>Series 1</unitid>
+                    <unittitle>Notebooks,</unittitle>
+                    <physdesc>
+                        <extent>28.0 folders + 1 oversized folder</extent>
+                    </physdesc>
+                    <unitdate normal="1980/1994" type="inclusive">1980-1994</unitdate>
+                </did>
+                <scopecontent id="ref10">
+                    <head>Scope and Contents</head>
+                    <p>This series contains Fisher's class notebooks, and includes notes and drafts of stories and poems that he developed later. There are some interesting drawings in conte crayon and pastels as well. Occasionally there are journal-style entries on his day-to-day activities and health. Sedgwick provided descriptions of many of the notebooks.</p>
+                </scopecontent>
+                <arrangement id="ref9">
+                    <head>Arrangement note</head>
+                    <p>Arranged by number with unnumbered notebooks filed at the beginning.</p>
+                </arrangement>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Notebooks. Transcriptions [<emph render="italic">Gary in Your Pocket</emph>?],</unittitle>
+                        <container id="cid346001" type="Box" label="Box">1</container>
+                        <container parent="cid346001" type="Folder">1</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Notebook. "Kitchie Stuff,"</unittitle>
+                        <container id="cid346002" type="Box" label="Box">1</container>
+                        <container parent="cid346002" type="Folder">2</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <odd id="ref24">
+                        <head>General note</head>
+                        <p>Tawny is a character in the story.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Notebook,</unittitle>
+                        <container id="cid346003" type="Box" label="Box">1</container>
+                        <container parent="cid346003" type="Folder">3</container>
+                        <unitdate normal="1989/1993" type="inclusive">March 15, 1989-April 22, 1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Notebook 1,</unittitle>
+                        <container id="cid346004" type="Box" label="Box">1</container>
+                        <container parent="cid346004" type="Folder">4</container>
+                        <unitdate normal="1989/1992" type="inclusive">January 1989?- January 1992</unitdate>
+                    </did>
+                    <odd id="ref27">
+                        <head>General note</head>
+                        <p>"Light-blue bound composition book. Year 1989 appears on p. 24. Numbered pages (by printer). First page dated 1/28. Teaching notes. Story beginning 'On Sundays our mother unleashed energies...' being drafted and redrafted pages 13-21. A dream on p.23. Pages 27-35, notes and journal from a trip east. Date 1/31/92 appears on p. 35. Blank after p.35."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Notebook 2,</unittitle>
+                        <container id="cid346005" type="Box" label="Box">1</container>
+                        <container parent="cid346005" type="Folder">5</container>
+                        <unitdate normal="1993/1993">April 30-May 1, 1993</unitdate>
+                    </did>
+                    <odd id="ref29">
+                        <head>General note</head>
+                        <p>"Mead marbled bound composition book (black and white). First page dated 4/30/93. 8 or 9 pages of hospital journal (that I don't remember reading elsewhere). Six loose sheets of long manila, written with notes for, and drafts of paragraphs of, a story about Marshall and a gun. Four long manila pages, loose, of a story called 'Mr. Maddox's Face.'"--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Notebook 3. "Music,"</unittitle>
+                        <container id="cid346006" type="Box" label="Box">1</container>
+                        <container parent="cid346006" type="Folder">6</container>
+                        <container id="cid1021001" type="Oversize-folder" label="Box">1</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <odd id="ref31">
+                        <head>General note</head>
+                        <p>"Blue, bound composition book. Cover says 'Music.' 4 written pages and many loose manila long pages of music lists."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Notebook 4,</unittitle>
+                        <container id="cid346007" type="Box" label="Box">1</container>
+                        <container parent="cid346007" type="Folder">7</container>
+                        <unitdate>September 12-November 2, 19--</unitdate>
+                    </did>
+                    <odd id="ref33">
+                        <head>General note</head>
+                        <p>"3-inch x 5-inch red notebook, spiral bound at top, labeled 'ideas...' Random notes, undated, including some little anecdotes, teaching notes, shopping lists, etc."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Notebook 5,</unittitle>
+                        <container id="cid347001" type="Box" label="Box">1</container>
+                        <container parent="cid347001" type="Folders">8-9</container>
+                        <unitdate normal="1980/1985" type="inclusive">1980-1985</unitdate>
+                    </did>
+                    <odd id="ref35">
+                        <head>General note</head>
+                        <p>"Peacock blue two-ring looseleaf binder. Cellophane pocket on front says 'Fisher.' Copies and drafts of poems, dated 1980-1985. Four poems loose."--EKS. Pages removed from binder.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Notebook 6. "Ideas,"</unittitle>
+                        <container id="cid347002" type="Box" label="Box">1</container>
+                        <container parent="cid347002" type="Folder">10</container>
+                        <unitdate normal="1988/1991" type="inclusive">1988-January 1991</unitdate>
+                    </did>
+                    <odd id="ref37">
+                        <head>General note</head>
+                        <p>"White speckled ring-bound notebook, circa 5-inches x 7-inches; front cover says 'ideas.' Random notes, including many notes for/about stories (e.g. about the idea of 'Red Cream Soda.') Undated till late, but seems to begin during spring 1987 (includes notes from my class, some things later included in class journal). Little vignettes; graffiti."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Notebook 7,</unittitle>
+                        <container id="cid347003" type="Box" label="Box">1</container>
+                        <container parent="cid347003" type="Folder">11</container>
+                        <unitdate normal="1992/1992">January 11-April 30, 1992, undated</unitdate>
+                    </did>
+                    <odd id="ref39">
+                        <head>General note</head>
+                        <p>"Bound notebook, buff, unbleached cover, 6-inches x 7-inches. First date 1/11/92; last date 4/30/92. 13 pages of entries. Mostly re: illness, living and dying. Notes for a zine."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Notebook 8,</unittitle>
+                        <container id="cid347004" type="Box" label="Box">1</container>
+                        <container parent="cid347004" type="Folder">12</container>
+                        <unitdate normal="1993/1993">July 3-August 23, 1993, undated</unitdate>
+                    </did>
+                    <odd id="ref41">
+                        <head>General note</head>
+                        <p>"Unbleached corrugated notebook bound with string, 4-inches x 5-inches. Hospital and related notes, seemingly from 6-7/93."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Notebook [9],</unittitle>
+                        <container id="cid347005" type="Box" label="Box">1</container>
+                        <container parent="cid347005" type="Folder">13</container>
+                        <unitdate normal="1993/1993">May 18-September 10, 1993</unitdate>
+                    </did>
+                    <odd id="ref43">
+                        <head>General note</head>
+                        <p>"Unbleached textured string-bound notebook, 5-inches x 7-1/2-inches. Hospital notebook, 5/18/93-9/10/93. A few pen and pencil drawings (mostly landscapes)."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Notebook [10],</unittitle>
+                        <container id="cid347006" type="Box" label="Box">1</container>
+                        <container parent="cid347006" type="Folder">14</container>
+                        <unitdate normal="1993/1994" type="inclusive">June 30, 1993-January 13, 1994</unitdate>
+                    </did>
+                    <odd id="ref46">
+                        <head>General note</head>
+                        <p>"Unbleached corrugated notebook bound with string, 8-1/2-inches x 11-inches. Entries dated 6/30/93-10/18/93. Color and b/w drawings, by Gary and others."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Notebook 11,</unittitle>
+                        <container id="cid347007" type="Box" label="Box">1</container>
+                        <container parent="cid347007" type="Folder">15</container>
+                        <unitdate normal="1994/1994">January-February 1994</unitdate>
+                    </did>
+                    <odd id="ref48">
+                        <head>General note</head>
+                        <p>"Folio diary 1994, yellow and green print paper binding, 6-7 entries."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Notebook 12 "Chaucer,"</unittitle>
+                        <container id="cid448001" type="Box" label="Box">1</container>
+                        <container parent="cid448001" type="Folder">16</container>
+                        <unitdate normal="1987/1987">Fall 1987</unitdate>
+                    </did>
+                    <odd id="ref121">
+                        <head>General note</head>
+                        <p>"Blue paper binding, course notes, Fall '87 with syllabus and handouts, and loose page of notes with paragraph of story in blue ink, also notes on medieval and renaissance authors."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Notebook 13 "Shakespeare,"</unittitle>
+                        <container id="cid448002" type="Box" label="Box">1</container>
+                        <container parent="cid448002" type="Folder">17</container>
+                        <unitdate normal="1987/1987">Fall 1987</unitdate>
+                    </did>
+                    <odd id="ref123">
+                        <head>General note</head>
+                        <p>"Blue paper binding, 8/27-, Joel Feinman Fall '87 course notes, with syllabus, loose leaves, notes, handouts, [notes in square brackets may be Gary's miscellaneous commentaries]."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>Notebook 14 "Fiction,"</unittitle>
+                        <container id="cid448003" type="Box" label="Box">1</container>
+                        <container parent="cid448003" type="Folder">18</container>
+                        <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+                    </did>
+                    <odd id="ref125">
+                        <head>General note</head>
+                        <p>"Fiction: September (24) 1984 Blue spiral bound CAI notebook, half full: notes for and on 'Villains of Necessity' with poem and story critique, notes for other works: Radioman, Tawny, At Other People's Parties. 9/4/85 notes for Breslin's American Poetry. Notes for story: Twelve. To do list."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Notebook 15 "Sundquist, etc.,"</unittitle>
+                        <container id="cid448004" type="Box" label="Box">1</container>
+                        <container parent="cid448004" type="Folder">19</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <odd id="ref127">
+                        <head>General note</head>
+                        <p>"Bound composition notebook, three quarters full, blue paper binding, February (Spring) course notes on ethnic and women's literature, some drawings and verse, paragraphs for papers on 'Bennito Cerino' and Chaucer and Christine de Pisan."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Notebook 16 [Poetry, etc. by Fisher],</unittitle>
+                        <container id="cid448005" type="Box" label="Box">1</container>
+                        <container parent="cid448005" type="Folder">20</container>
+                        <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+                    </did>
+                    <odd id="ref129">
+                        <head>General note</head>
+                        <p>"Turquoise blue spiral notebook, poems and lyrics from 6/24, 1980 clear copies with some revisions, paginated to 33, same format to p.35; notes on characters, lyrics, notes for fiction, loose leaves from German school work[?]: poem 'Without' 9/14/81, essay on 
+                            <emph render="italic">Death of a Salesman</emph>, essay on Greek drama."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Notebook 17 "English 58" [Shakespeare],</unittitle>
+                        <container id="cid448006" type="Box" label="Box">1</container>
+                        <container parent="cid448006" type="Folder">21</container>
+                        <unitdate>Spring 19--</unitdate>
+                    </did>
+                    <odd id="ref131">
+                        <head>General note</head>
+                        <p>"Tan spiral UNC notebook, Spring 19--, notes on Shakespeare course; with essays on Othello and Keats, theme of excess in Jane Eyre, Frankenstein, and Tenant of Wildfell Hall, one page poem, random notes, including song lists."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>Notebook 18,</unittitle>
+                        <container id="cid448007" type="Box" label="Box">1</container>
+                        <container parent="cid448007" type="Folder">22</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <odd id="ref133">
+                        <head>General ntoe</head>
+                        <p>"Red UNC spiral notebook: notes for Bug, Tawny; 'Going to California Sale' notice, record lists, poem starts, notes and paper draft on 
+                            <emph render="italic">To the Lighthouse</emph>; paper on O'Connor's 'Revelation;' poem 'Outside'—long narrative poem with dialogue. Typescript of Tawny's radio story, and 'Prayer.'"--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Notebook 19 "English 35P,"</unittitle>
+                        <container id="cid448008" type="Box" label="Box">1</container>
+                        <container parent="cid448008" type="Folder">23</container>
+                        <unitdate normal="1983/1983">Spring 1983</unitdate>
+                    </did>
+                    <odd id="ref135">
+                        <head>General note</head>
+                        <p>"William Harmon, Tan UNC spiral notebook, Poetics class notes with literature terms, and loose leaves of course notes. Loose leaf notes: prostitutes, quote from John Berger…handouts, draft of paper on Dano-Norwegan."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Notebook 20 "Shakespeare / Richmond,"</unittitle>
+                        <container id="cid448009" type="Box" label="Box">1</container>
+                        <container parent="cid448009" type="Folder">24</container>
+                        <unitdate normal="1988/1988">Fall 1988</unitdate>
+                    </did>
+                    <odd id="ref137">
+                        <head>General note</head>
+                        <p>"Green pebble paper bound notebook, AF-AM1B course notes, notes for story based on racialized 
+                            <emph render="italic">Midsummernight's Dream</emph>; a memory, 2-5 Nellie (sophomore); list of students' papers and grades. Loose half sheet yellow, course notes, [brackets for story notes]; notes for African American Literature for teaching; more TA notes."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Notebook [21] "Sedgwick,"</unittitle>
+                        <container id="cid448010" type="Box" label="Box">1</container>
+                        <container parent="cid448010" type="Folder">25</container>
+                        <unitdate normal="1987/1987">Spring 1987</unitdate>
+                    </did>
+                    <odd id="ref139">
+                        <head>General note</head>
+                        <p>"Blue bound composition book, notes from gay/lesbian studies course."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Notebook [22] "Notes, 
+                            <emph render="italic">Dykes to Watch Out For</emph>,"</unittitle>
+                        <container id="cid448011" type="Box" label="Box">1</container>
+                        <container parent="cid448011" type="Folder">26</container>
+                        <unitdate normal="1989/1990" type="inclusive">[1989]-1990</unitdate>
+                    </did>
+                    <odd id="ref141">
+                        <head>General note</head>
+                        <p>"Bound blue composition book. 
+                            <emph render="italic">Dykes to Watch Out For</emph> strips pasted onto many pages; 3 loose strips. First date is 10/10 (89?); last date is 4/10/90. Journal and writing draft entries including 'Coupons;' lecture notes; a poem."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Notebook 23 "Breslin,"</unittitle>
+                        <container id="cid448012" type="Box" label="Box">1</container>
+                        <container parent="cid448012" type="Folder">27</container>
+                        <unitdate normal="1985/1985">Fall 1985</unitdate>
+                    </did>
+                    <odd id="ref143">
+                        <head>General note</head>
+                        <p>"Tan UC spiral-bound notebook. First date 8/28/85. Class notes from Breslin class (20th C. American poetry?). 8 pp. loose notes on class. A couple of journal-like entries, a draft letter, toward end of notebook."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>Notebook 24 "Modernism (203),"</unittitle>
+                        <container id="cid448013" type="Box" label="Box">1</container>
+                        <container parent="cid448013" type="Folder">28</container>
+                        <unitdate normal="1985/1985">Spring 1985</unitdate>
+                    </did>
+                    <odd id="ref145">
+                        <head>General note</head>
+                        <p>"Tan spiral-bound 'made especially for the asuc store' notebook. First date 1/22/85. Class notes from Breslin 'Modernism' course (Spring 85). Many loose pages on back of green forms; 3 pads of green forms with writing on backs of forms; other loose pages. Some poems and ephemera in notebook and (especially) on loose pp."--EKS</p>
+                    </odd>
+                </c02>
+            </c01>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unitid>Series 2</unitid>
+                    <unittitle>Journals / Diaries,</unittitle>
+                    <physdesc>
+                        <extent>18.0 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1977/1993" type="inclusive">1977-1993</unitdate>
+                </did>
+                <scopecontent id="ref13">
+                    <head>Scope and Contents</head>
+                    <p>This series documents Fisher's activities and thoughts as an African-American gay man. The journals include everything from ticket stubs for events he attended, to copies of the sex ads he placed in gay magazines and newspapers. It also includes drawings, some notes on poems, and stories. Ephemera from Journals I-XI was separated and appears in Box 4 / Folders 1-2. Sedgwick provided descriptions of many of the journals. The series contains some correspondence.</p>
+                </scopecontent>
+                <arrangement id="ref12">
+                    <head>Arrangement note</head>
+                    <p>Arranged chronologically by journal number. Unnumbered journals and drawing tablets appear after the initial chronological sequence.</p>
+                </arrangement>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Journal I,</unittitle>
+                        <container id="cid349001" type="Box" label="Box">1</container>
+                        <container parent="cid349001" type="Folder">29</container>
+                        <unitdate normal="1977/1978" type="inclusive">September 3, 1977-December 31, 1978</unitdate>
+                    </did>
+                    <odd id="ref169">
+                        <head>General note</head>
+                        <p>"Orange spiral bound Euro format, Gary Fisher in plastic tape type in grey on cover; pages numbered through 79; written Germany and Virginia, USA. Stapled in letter, TV Guide notes, other memorabilia."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Journal II,</unittitle>
+                        <container id="cid349002" type="Box" label="Box">2</container>
+                        <container parent="cid349002" type="Folder">1</container>
+                        <unitdate normal="1979/1979">January-December 1979</unitdate>
+                    </did>
+                    <odd id="ref170">
+                        <head>General note</head>
+                        <p>"4-inch x 6-inch yellow box, brocade bound diary with Gary's calling card on opening endsheet. 1/1/79, pages numbered to 267. Ends with New Year's resolutions for 1980; loose leaf of invite to Junior Senior prom, taped in; song lists; stapled in ticket stub, tipped in Oscar list; tipped in TV Guide pictures; page 107 taped over, 'You'll never know.'"--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Journal III,</unittitle>
+                        <container id="cid349003" type="Box" label="Box">2</container>
+                        <container parent="cid349003" type="Folder">2</container>
+                        <unitdate normal="1980/1981" type="inclusive">January 1, 1980-January 14, 1981</unitdate>
+                    </did>
+                    <odd id="ref171">
+                        <head>General note</head>
+                        <p>"Pages numbered to 210; black bound 'blank book,' with spine missing; in Phoenix; BeeGees lyrics paper clipped in; note taped in; cartoons taped in; drawings; 4/13/80 journal supplement, paper clipped in; page 133 song lyric; pages 146-147 poetry; football team pictures tipped in; page 157 taped in letter in response to personals ad; page 161 taped in note; 
+                            <emph render="italic">Elephant Man</emph> program tipped in; pages 188-190 poetry; Dan Fogleberg lyrics tipped in; page 197 greeting card; end phrases and notes and song lists on unnumbered pages."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Journal IV,</unittitle>
+                        <container id="cid448014" type="Box" label="Box">2</container>
+                        <container parent="cid448014" type="Folder">3</container>
+                        <unitdate normal="1981/1981">January 16-November 13, 1981</unitdate>
+                    </did>
+                    <odd id="ref172">
+                        <head>General note</head>
+                        <p>"Black bound 'blank book' pages numbered to 167, unnumbered continue. UNC. Marven. ; [page] 29 Valentines card; [pages] 40-- letters to self; [page] 47 annotated poem; [page] 93 tipped in parent's business card; [page] 96 theater ticket; [page] 113 Christmas card; [page] 116 birthday cards; [page] 128 letter from Leslie; [page] 162 draft note clipped in; titled work in unnumbered pages at end."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Journal V,</unittitle>
+                        <container id="cid448015" type="Box" label="Box">2</container>
+                        <container parent="cid448015" type="Folder">4</container>
+                        <unitdate normal="1981/1983" type="inclusive">November 15, 1981-October 4, 1983</unitdate>
+                    </did>
+                    <odd id="ref173">
+                        <head>General note</head>
+                        <p>"Black bound 'blank book' unnumbered pages, some passages highlighted; loose leaves; letter to Jack xerox, notes; small square cut sheets tipped in, poems; xerox of letter to Ray; 3 letters from Ray; invitation to Donna's college graduation; Rex Reed article; poem; draft of letters clipped in; poems; letter from Johnny; photo; pages with post-its; letter to Charlie; letter to Charlie; record lists; letter from Jerry; xerox letter to Anita; letters from Anita; record list."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>Journal VI,</unittitle>
+                        <container id="cid448016" type="Box" label="Box">2</container>
+                        <container parent="cid448016" type="Folder">5</container>
+                        <unitdate normal="1983/1984" type="inclusive">October 5, 1983-November 8, 1984</unitdate>
+                    </did>
+                    <odd id="ref149">
+                        <head>General note</head>
+                        <p>"'Searching' brown 'blank book;' letter from Leslie; opens with poems dated '82; notes from Susy; poems and sketches clipped in; more poems; notes about Bug; going to California; draft letter to Bill clipped in; Ritchie Bennet memorial service; letter from Mom, Dad, Luchina and Crystal and draft of poem clipped in; news clipping and two fortunes taped in; best buys 1983, records clipped in; Oscar nominations clipping taped in; note taped in ATT; birthday card from co-workers; pictures tipped in; more notes for Villains of Necessity; draft of letter (?) and page from story (?) at end tipped in."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref174" level="file">
+                    <did>
+                        <unittitle>Journal VII,</unittitle>
+                        <container id="cid1022001" type="Box" label="Box">2</container>
+                        <container parent="cid1022001" type="Folder">6</container>
+                        <unitdate normal="1984/1986" type="inclusive">November 9, 1984-July 21, 1986</unitdate>
+                    </did>
+                    <odd id="ref180">
+                        <head>General note</head>
+                        <p>"Black 'blank book' unnumbered; drawings; Franky goes to Hollywood ticket; ad tipped in; best buys '84; ballot stub; newspaper clipping; Ballet de Troc. Program; poem on 'while writing term papers' 4/20/82; letter to Mr. Blackmail personals; newsclippings, card from Don; symphony ticket; top 40; notes taped in; poem/lyric tipped in; three IDs taped in; four green pages journal supplement tipped in; address taped in; letter to mother on parchment 12/27/85; favorite records '85; personal ad response; 'Dear Mr. Hunk' two pages yellow ruled; stop AIDS project flyers; NCAA and other clippings; apt. hunting; hashbrown and top ten lists; Lily Tomlin concert, New York Matsuda; notes on cut sheets; 
+                            <emph render="italic">Merchant of Venice</emph> program; Mother at Duke Med Center; ticket to new York."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref175" level="file">
+                    <did>
+                        <unittitle>Journal VIII,</unittitle>
+                        <container id="cid1022002" type="Box" label="Box">2</container>
+                        <container parent="cid1022002" type="Folder">7</container>
+                        <unitdate normal="1986/1989" type="inclusive">July 24, 1986-December 11, 1989</unitdate>
+                    </did>
+                    <odd id="ref181">
+                        <head>General note</head>
+                        <p>"Black bound; opens with pastel drawing; record list; wine label; note tipped in; story notes; Midsummer Mozart program; yellow ruled sheet of journal 1/14/87; clippings; birthday card; Paul Simon tickets; cartoons; sex ad; dick survey on back of xerox; personal ads; program with note on it; note from Eric Sundquist; invitation to Eve's party; letter to Marvin; election flyer; phone number; letter to Jan; Faulkner stamp; wine labels; personal ads; card; Anita Baker ticket; cartoons (Calvin &amp; Hobbes); card from Scott Hamm; printout of 10/31/87 journal entry; letter to Gary, response to ad; letter Pete 3/26/88; picture of NC writing teacher; Leontyne Price program, clipping, and ticket; David Schiff program 5/88 with journal notes; Fag Club flyer with notes on back; responses to personals ads; 7/6 &amp; 9/88 extra journal entries, printouts; letter to Gary; Midnight Run ticket; post-it; bus. card; letter from Leslie 4/17/88; taped shut envelope; letters for ads yellow sheets; ends with Calvin and Hobbes and list of movies and opinions."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref176" level="file">
+                    <did>
+                        <unittitle>Journal IX,</unittitle>
+                        <container id="cid1022003" type="Box" label="Box">2</container>
+                        <container parent="cid1022003" type="Folder">8</container>
+                        <unitdate normal="1989/1990" type="inclusive">March 19, 1989-December 17, 1990</unitdate>
+                    </did>
+                    <odd id="ref182">
+                        <head>General note</head>
+                        <p>"White bound book; 3 pages of yellow pad, letter to STH; phone number on paper tipped in; draft of letter to 'Dear Northern Italian Man'; hospital bracelet; Field of Dreams review; personals ad; Soul Survivor flyer; personals ad; letter to Marvin; ticket to Urinal; note taped in, vignette; the Slave's Creed; clipping and top 40 list; assignation note; calendar pages; Prince tix."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref177" level="file">
+                    <did>
+                        <unittitle>Journal X,</unittitle>
+                        <container id="cid1022004" type="Box" label="Box">2</container>
+                        <container parent="cid1022004" type="Folder">9</container>
+                        <unitdate normal="1990/1993" type="inclusive">December 31, 1990-April 25, 1993</unitdate>
+                    </did>
+                    <odd id="ref183">
+                        <head>General note</head>
+                        <p>"Blue and black with cloth in photo collage cover papers; 2 columns, loose sheets tan and yellow; New Years Resolutions '91; won contest !; clipping; clipping; bus. card and loose cut sheet note."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref178" level="file">
+                    <did>
+                        <unittitle>Journal XI,</unittitle>
+                        <container id="cid1022005" type="Box" label="Box">2</container>
+                        <container parent="cid1022005" type="Folder">10</container>
+                        <unitdate normal="1990/1991" type="inclusive">March 10, 1990-March 23, 1991</unitdate>
+                    </did>
+                    <odd id="ref184">
+                        <head>General note</head>
+                        <p>"Page cut out at beginning, undated pages, black bound with Moorish tile paper covers; first dated Fri 3/10/90, 7/23/90, 7/20/90, 7/31/90, 8/22, 29; 9/2/90; 3/23/91; rest blank."--EKS</p>
+                    </odd>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>Ephemera from Journals I-XI (arranged in by journal number). "Includes important stuff--letters, drafts, journal material,"</unittitle>
+                        <container id="cid1028001" type="Box" label="Box">4</container>
+                        <container parent="cid1028001" type="Folders">1-2</container>
+                        <unitdate normal="1978/1990" type="inclusive">1978-1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle>Journal [unnumbered],</unittitle>
+                        <container id="cid1022006" type="Box" label="Box">2</container>
+                        <container parent="cid1022006" type="Folder">11</container>
+                        <unitdate normal="1989/1990" type="inclusive">September 21, 1989-February 6, [1990?]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Small notebook,</unittitle>
+                        <container id="cid1031004" type="Box" label="Box">2</container>
+                        <container parent="cid1031004" type="Folder">12</container>
+                        <unitdate normal="1991/1991">1991, undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Utility sketchbook,</unittitle>
+                        <container id="cid1022007" type="Box" label="Box">2</container>
+                        <container parent="cid1022007" type="Folder">13</container>
+                        <unitdate normal="1991/1991">1991, undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Journal Drawings,</unittitle>
+                        <container id="cid1022008" type="Box" label="Box">2</container>
+                        <container parent="cid1022008" type="Folder">14</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="file">
+                    <did>
+                        <unittitle>Sketch pad with pastel drawings,</unittitle>
+                        <container id="cid1031003" type="Box" label="Box">4</container>
+                        <container parent="cid1031003" type="Folder">3</container>
+                        <unitdate normal="1993/1993">1993, undated</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref14" level="series">
+                <did>
+                    <unitid>Series 3</unitid>
+                    <unittitle>Poems, Short Fiction, and Other Writing,</unittitle>
+                    <physdesc>
+                        <extent>56.0 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1973/1994" type="inclusive">1973-1994</unitdate>
+                </did>
+                <scopecontent id="ref18">
+                    <head>Scope and Contents</head>
+                    <p>This series contains drafts and final copy of short fiction and poems written by Fisher. Of interest are the various drafts of "Red Cream Soda," "Tawny," "The Villains of Necessity" and "Walt" which were written and re-written over several years. The earliest items in this series are a few stories from the 1970s though most of the writing is dated after 1980. The series contains some correspondence and Polaroid photographs.</p>
+                </scopecontent>
+                <arrangement id="ref17">
+                    <head>Arrangement note</head>
+                    <p>Arranged into two sections: Fiction and Other Writing. Folders within the first section are arranged alphabetically. The second section is largely arranged in original order with some additions of miscellaneous writings including the "final batch" of unsorted writings sent by Fisher's executor to Eve Kosofsky Sedgwick.</p>
+                </arrangement>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>"After the box,"</unittitle>
+                        <container id="cid1022010" type="Box" label="Box">2</container>
+                        <container parent="cid1022010" type="Folder">15</container>
+                        <unitdate normal="1991/1991">1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>"Arabesque,"</unittitle>
+                        <container id="cid1022011" type="Box" label="Box">2</container>
+                        <container parent="cid1022011" type="Folder">16</container>
+                        <unitdate normal="1991/1993" type="inclusive">1991, 1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>"Barbara,"</unittitle>
+                        <container id="cid1022012" type="Box" label="Box">2</container>
+                        <container parent="cid1022012" type="Folder">17</container>
+                        <unitdate normal="1980/1980">1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>"Before Sleep,"</unittitle>
+                        <container id="cid1022013" type="Box" label="Box">2</container>
+                        <container parent="cid1022013" type="Folder">18</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>"Be-ing Dead,"</unittitle>
+                        <container id="cid1022014" type="Box" label="Box">2</container>
+                        <container parent="cid1022014" type="Folder">19</container>
+                        <unitdate normal="1991/1993" type="inclusive">1991, 1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>"CornerStore,"</unittitle>
+                        <container id="cid1022015" type="Box" label="Box">2</container>
+                        <container parent="cid1022015" type="Folder">20</container>
+                        <unitdate normal="1991/1993" type="inclusive">1991, 1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>"Dear !"</unittitle>
+                        <container id="cid1022016" type="Box" label="Box">2</container>
+                        <container parent="cid1022016" type="Folder">21</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>"Flower Lady,"</unittitle>
+                        <container id="cid1022017" type="Box" label="Box">2</container>
+                        <container parent="cid1022017" type="Folder">22</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>"Friends,"</unittitle>
+                        <container id="cid1022018" type="Box" label="Box">2</container>
+                        <container parent="cid1022018" type="Folder">23</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>"Games" [also titled "Games and Polity" with character Tawny],</unittitle>
+                        <container id="cid1022019" type="Box" label="Box">2</container>
+                        <container parent="cid1022019" type="Folder">24</container>
+                        <unitdate normal="1993/1993">1993, undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>"Ice Cream Talk,"</unittitle>
+                        <container id="cid1022020" type="Box" label="Box">2</container>
+                        <container parent="cid1022020" type="Folder">25</container>
+                        <unitdate normal="1991/1993" type="inclusive">1991, 1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Letters,</unittitle>
+                        <container id="cid1022021" type="Box" label="Box">2</container>
+                        <container parent="cid1022021" type="Folder">26</container>
+                        <unitdate normal="1984/1987" type="inclusive">1984-1987</unitdate>
+                    </did>
+                    <odd id="ref185">
+                        <head>General note</head>
+                        <p>Letters from Fisher to NEH Seminar participants, Keith Thomas, Thomas, Scott, Student Aid Office at University of North Carolina at Chapel Hill, House of Representatives, and Marvin.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>"Linda's,"</unittitle>
+                        <container id="cid1022022" type="Box" label="Box">2</container>
+                        <container parent="cid1022022" type="Folder">27</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>"Making Little Thieves,"</unittitle>
+                        <container id="cid1022023" type="Box" label="Box">2</container>
+                        <container parent="cid1022023" type="Folder">28</container>
+                        <unitdate normal="1994/1994">1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>"Miss Della,"</unittitle>
+                        <container id="cid1022024" type="Box" label="Box">2</container>
+                        <container parent="cid1022024" type="Folder">29</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>"Mo-Day,"</unittitle>
+                        <container id="cid1022025" type="Box" label="Box">2</container>
+                        <container parent="cid1022025" type="Folder">30</container>
+                        <unitdate normal="1992/1994" type="inclusive">1992-1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>"Mr. Madsen's Face,"</unittitle>
+                        <container id="cid1022026" type="Box" label="Box">2</container>
+                        <container parent="cid1022026" type="Folder">31</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>"Penitence,"</unittitle>
+                        <container id="cid1023001" type="Box" label="Box">3</container>
+                        <container parent="cid1023001" type="Folder">1</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>"Picarro,"</unittitle>
+                        <container id="cid1023002" type="Box" label="Box">3</container>
+                        <container parent="cid1023002" type="Folder">2</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>"Pot Liquor,"</unittitle>
+                        <container id="cid1023003" type="Box" label="Box">3</container>
+                        <container parent="cid1023003" type="Folder">3</container>
+                        <unitdate normal="1993/1993">1993, undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>"Radioland,"</unittitle>
+                        <container id="cid1023004" type="Box" label="Box">3</container>
+                        <container parent="cid1023004" type="Folder">4</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>"Red Cream Soda,"</unittitle>
+                        <container id="cid1023005" type="Box" label="Box">3</container>
+                        <container parent="cid1023005" type="Folder">5</container>
+                        <unitdate normal="1987/1994" type="inclusive">1987-1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>"Rodney King,"</unittitle>
+                        <container id="cid1023006" type="Box" label="Box">3</container>
+                        <container parent="cid1023006" type="Folder">6</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>"Sam &amp; Newton,"</unittitle>
+                        <container id="cid1023007" type="Box" label="Box">3</container>
+                        <container parent="cid1023007" type="Folder">7</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>"Second Virginity,"</unittitle>
+                        <container id="cid1023008" type="Box" label="Box">3</container>
+                        <container parent="cid1023008" type="Folder">8</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>"Several Lies About Mom,"</unittitle>
+                        <container id="cid1023010" type="Box" label="Box">3</container>
+                        <container parent="cid1023010" type="Folder">9</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>"Sex,"</unittitle>
+                        <container id="cid1023009" type="Box" label="Box">3</container>
+                        <container parent="cid1023009" type="Folder">10</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>"Tawny,"</unittitle>
+                        <container id="cid1023011" type="Box" label="Box">3</container>
+                        <container parent="cid1023011" type="Folder">11</container>
+                        <unitdate normal="1987/1993" type="inclusive">1987-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>"Telephone Man,"</unittitle>
+                        <container id="cid1023012" type="Box" label="Box">3</container>
+                        <container parent="cid1023012" type="Folder">12</container>
+                        <unitdate normal="1993/1993">1993, undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>"Three Boys,"</unittitle>
+                        <container id="cid1023013" type="Box" label="Box">3</container>
+                        <container parent="cid1023013" type="Folder">13</container>
+                        <unitdate normal="1990/1994" type="inclusive">1990-1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>"Twelve,"</unittitle>
+                        <container id="cid1023014" type="Box" label="Box">3</container>
+                        <container parent="cid1023014" type="Folder">14</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>"Vampire,"</unittitle>
+                        <container id="cid1023015" type="Box" label="Box">3</container>
+                        <container parent="cid1023015" type="Folder">15</container>
+                        <unitdate normal="1980/1980">1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>"Villains of Necessity [several drafts],"</unittitle>
+                        <container id="cid1023016" type="Box" label="Box">3</container>
+                        <container parent="cid1023016" type="Folders">16-17</container>
+                        <unitdate normal="1987/1993" type="inclusive">1987-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>"Walking,"</unittitle>
+                        <container id="cid1023017" type="Box" label="Box">3</container>
+                        <container parent="cid1023017" type="Folder">18</container>
+                        <unitdate normal="1989/1993" type="inclusive">1989-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>"Walt,"</unittitle>
+                        <container id="cid1023018" type="Box" label="Box">3</container>
+                        <container parent="cid1023018" type="Folder">19</container>
+                        <unitdate normal="1988/1993" type="inclusive">1988-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>"Final batch" [unsorted writings, letters, Polaroid photographs],</unittitle>
+                        <container id="cid1029001" type="Box" label="Box">4</container>
+                        <container parent="cid1029001" type="Folders">4-6</container>
+                        <unitdate normal="1989/1994" type="inclusive">1989-1994</unitdate>
+                    </did>
+                    <odd id="ref152">
+                        <head>General note</head>
+                        <p>Includes cover letter from Doug Sebesta, Fisher's executor, to Eve Kosofsky Sedgwick, Fisher's literary executor, 4/3/1994. Box 4 / Folder 6 includes Polaroid pictures showing some nudity and sexual content.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>"Hospital Journal,"</unittitle>
+                        <container id="cid1024001" type="Box" label="Box">3</container>
+                        <container parent="cid1024001" type="Folder">20</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                    <relatedmaterial id="ref190">
+                        <head>See also:</head>
+                        <p>Box 4 / Folder 11. Correspondence to Eve Sedgwick, hospital poems, etc.</p>
+                    </relatedmaterial>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>Miscellaneous "She could do things,"</unittitle>
+                        <container id="cid1024002" type="Box" label="Box">4</container>
+                        <container parent="cid1024002" type="Folder">7</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>"Miscellaneous" [collage, journal transcriptions],</unittitle>
+                        <container id="cid1024003" type="Box" label="Box">3</container>
+                        <container parent="cid1024003" type="Folder">21</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <relatedmaterial id="ref194">
+                        <head>See also:</head>
+                        <p>Box 3 / Folders 36 and 45; and Box 4 / Folder 9.</p>
+                    </relatedmaterial>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>"In Progress," "Sonnet 5: A Necessary Failure," "The Best Book,"</unittitle>
+                        <container id="cid1024004" type="Box" label="Box">3</container>
+                        <container parent="cid1024004" type="Folder">22</container>
+                        <unitdate normal="1986/1986">1986, undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>"Miscellaneous Notes," "By Force or By Freud," "Pope's Female Hero," medical bill,</unittitle>
+                        <container id="cid1024005" type="Box" label="Box">3</container>
+                        <container parent="cid1024005" type="Folder">23</container>
+                        <unitdate normal="1988/1988">1988, undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Loose items: fiction, outlines, etc.,</unittitle>
+                        <container id="cid1022009" type="Box" label="Box">3</container>
+                        <container parent="cid1022009" type="Folder">24</container>
+                        <unitdate normal="1981/1981">1981, undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>"Bits," [includes some drafts of Tawny and Bug],</unittitle>
+                        <container id="cid1024006" type="Box" label="Box">3</container>
+                        <container parent="cid1024006" type="Folder">25</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>"Occasional," [includes Kitchie story, "Dear Mom" letter, Mr. Gates story],</unittitle>
+                        <container id="cid1024007" type="Box" label="Box">3</container>
+                        <container parent="cid1024007" type="Folder">26</container>
+                        <unitdate normal="1981/1986" type="inclusive">1981-1986, undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>"Nonsense, Waste and By-Products,"</unittitle>
+                        <container id="cid1024008" type="Box" label="Box">3</container>
+                        <container parent="cid1024008" type="Folder">27</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>"Sedgwick" [photocopies of materials about AIDS],</unittitle>
+                        <container id="cid1024009" type="Box" label="Box">3</container>
+                        <container parent="cid1024009" type="Folder">28</container>
+                        <unitdate normal="1987/1987">1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>"Sex Letters," and a Resolution regarding kissing,</unittitle>
+                        <container id="cid1024010" type="Box" label="Box">3</container>
+                        <container parent="cid1024010" type="Folder">29</container>
+                        <unitdate normal="1986/1991" type="inclusive">1986-1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>"a Cat Poem," "c Cat Poem,"</unittitle>
+                        <container id="cid1024011" type="Box" label="Box">3</container>
+                        <container parent="cid1024011" type="Folder">30</container>
+                        <unitdate normal="1992/1992">1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>"Hate Poem for Jim and Others,"</unittitle>
+                        <container id="cid1024012" type="Box" label="Box">3</container>
+                        <container parent="cid1024012" type="Folder">31</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>"Poems I,"</unittitle>
+                        <container id="cid1024013" type="Box" label="Box">3</container>
+                        <container parent="cid1024013" type="Folder">32</container>
+                        <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>"Poems II,"</unittitle>
+                        <container id="cid1024014" type="Box" label="Box">3</container>
+                        <container parent="cid1024014" type="Folder">33</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>"Poems III,"</unittitle>
+                        <container id="cid1024015" type="Box" label="Box">4</container>
+                        <container parent="cid1024015" type="Folder">8</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>"Old Stuff" includes: "Odd Ventures" (1981), "7th" (1973), "8th" "What You Can't See Can't Hurt You" "Ross" (1974), "The Gap 9th" (1975/1976), "Mania" (1980), "The Bank Robbers,"</unittitle>
+                        <container id="cid1024016" type="Box" label="Box">3</container>
+                        <container parent="cid1024016" type="Folder">34</container>
+                        <unitdate normal="1973/1981" type="inclusive">1973-1981</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref15" level="series">
+                <did>
+                    <unitid>Series 4</unitid>
+                    <unittitle>
+                        <emph render="italic">Gary In Your Pocket</emph> Files,</unittitle>
+                    <physdesc>
+                        <extent>14.0 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1977/1997" type="inclusive">1977-1997</unitdate>
+                </did>
+                <scopecontent id="ref19">
+                    <head>Scope and Contents</head>
+                    <p>This series contains material related to the publication of the book 
+                        <emph render="italic">Gary in Your Pocket</emph> edited by Eve Kosofsky Sedgwick. It includes transcripts of journal and notebook entries as well as correspondence with publishers, promotional material and reviews.</p>
+                </scopecontent>
+                <arrangement id="ref20">
+                    <head>Arrangement note</head>
+                    <p>Arranged alphabetically by title.</p>
+                </arrangement>
+                <c02 id="ref159" level="file">
+                    <did>
+                        <unittitle>Journal transcriptions,</unittitle>
+                        <container id="cid1032001" type="Box" label="Box">3</container>
+                        <container parent="cid1032001" type="Folder">35</container>
+                        <unitdate normal="1977/1993" type="inclusive">1977-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Journal Transcriptions and poems,</unittitle>
+                        <container id="cid1026002" type="Box" label="Box">3</container>
+                        <container parent="cid1026002" type="Folder">36</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <relatedmaterial id="ref193">
+                        <head>See also:</head>
+                        <p>Box 3 / Folders 21 and 45; and Box 4 / Folder 9.</p>
+                    </relatedmaterial>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>Originals and photocopies [for 
+                            <emph render="italic">Gary In Your Pocket</emph>?]</unittitle>
+                        <container id="cid1033001" type="Box" label="Box">3</container>
+                        <container parent="cid1033001" type="Folders">37-41</container>
+                        <unitdate normal="1980/1994" type="inclusive">1980-1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref187" level="file">
+                    <did>
+                        <unittitle>Photocopies of a photograph of Gary and his sister as children, and of "Floating Penises" drawing series,</unittitle>
+                        <container id="cid1027002" type="Box" label="Box">3</container>
+                        <container parent="cid1027002" type="Folder">42</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Publishing contract with Duke University for 
+                            <emph render="italic">Gary In Your Pocket</emph>,</unittitle>
+                        <container id="cid1027001" type="Box" label="Box">3</container>
+                        <container parent="cid1027001" type="Folder">43</container>
+                        <unitdate normal="1996/1996">1996</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Reviews and critical response,</unittitle>
+                        <container id="cid1026004" type="Box" label="Box">3</container>
+                        <container parent="cid1026004" type="Folder">44</container>
+                        <unitdate normal="1994/1997" type="inclusive">1994-1997</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>"Sedgewick Journal '87--Gary Fisher,"</unittitle>
+                        <container id="cid1033002" type="Box" label="Box">3</container>
+                        <container parent="cid1033002" type="Folder">45</container>
+                        <unitdate normal="1987/1987">1987</unitdate>
+                    </did>
+                    <relatedmaterial id="ref201">
+                        <head>See also:</head>
+                        <p>Box 3 / Folders 21 and 36; and Box 4 / Folder 9.</p>
+                    </relatedmaterial>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Selected poems by several poets,</unittitle>
+                        <container id="cid1026003" type="Box" label="Box">3</container>
+                        <container parent="cid1026003" type="Folder">46</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="file">
+                    <did>
+                        <unittitle>Stories,</unittitle>
+                        <container id="cid1030001" type="Box" label="Box">3</container>
+                        <container parent="cid1030001" type="Folder">47</container>
+                        <unitdate normal="1987/1992" type="inclusive">1987-1992</unitdate>
+                    </did>
+                    <odd id="ref189">
+                        <head>General note</head>
+                        <p>Express mail envelope with print-outs of several stories by Fisher: Arabesque (1991), Red Cream Soda, After the Box (1991), Mo-Day (1992), Cornerstore (1991), Tawny (1987). All were published in 
+                            <emph render="italic">Gary in Your Pocket</emph>.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref166" level="file">
+                    <did>
+                        <unittitle>Stories and poems,</unittitle>
+                        <container id="cid1034002" type="Box" label="Box">4</container>
+                        <container parent="cid1034002" type="Folder">9</container>
+                        <unitdate normal="1985/1992" type="inclusive">1985, 1992, undated</unitdate>
+                    </did>
+                    <relatedmaterial id="ref200">
+                        <head>See also:</head>
+                        <p>Box 3 / Folders 21, 36, and 45.</p>
+                    </relatedmaterial>
+                </c02>
+            </c01>
+            <c01 id="ref195" level="series">
+                <did>
+                    <unitid>Series 5</unitid>
+                    <unittitle>Correspondence,</unittitle>
+                    <physdesc>
+                        <extent>4.0 folders</extent>
+                        <extent>+ 1 oversized folder</extent>
+                    </physdesc>
+                    <unitdate normal="1982/1994" type="inclusive">1982-1994</unitdate>
+                </did>
+                <scopecontent id="ref197">
+                    <head>Scope and Contents</head>
+                    <p>The series contains correspondence between Eve Kosofsky Sedgwick and Gary Fisher, a few of Fisher's letters to some family members, and copies of some Fisher letters to Donna Ward-Kiddo. It also includes letters between Sedgwick and Karen Kelly regarding a conference talk. Additional correspondence may be found within Series 2, 3, and 4.</p>
+                </scopecontent>
+                <arrangement id="ref198">
+                    <head>Arrangement</head>
+                    <p>Arranged alphabetically by correspondent.</p>
+                </arrangement>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>"Letters" from Gary Fisher, and miscellaneous writing,</unittitle>
+                        <container id="cid1034001" type="Box" label="Box">4</container>
+                        <container parent="cid1034001" type="Folder">10</container>
+                        <unitdate normal="1993/1993">1985, 1993, undated</unitdate>
+                    </did>
+                    <odd id="ref196">
+                        <head>General note</head>
+                        <p>Letters addressed to: "Mom," "Luchina," and "Pat." Also includes notes and miscellaneous writing.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref161" level="file">
+                    <did>
+                        <unittitle>Between Gary Fisher and Eve Sedgwick,</unittitle>
+                        <container id="cid1029002" type="Box" label="Box">4</container>
+                        <container parent="cid1029002" type="Folder">11</container>
+                        <unitdate normal="1987/1994" type="inclusive">1987-1994, undated</unitdate>
+                    </did>
+                    <relatedmaterial id="ref191">
+                        <head>See also:</head>
+                        <p>Box 3 / Folder 20 Hospital journal.</p>
+                    </relatedmaterial>
+                    <odd id="ref188">
+                        <head>General note</head>
+                        <p>Includes: hospital poems, May 1993; notes, undated; memorial leaflet for Fisher, 1994.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle>Karen Kelly, Dia Center for the Arts, to Eve Sedgwick, regarding Sedgwick's participation in the conference "Constructing Masculinity,"</unittitle>
+                        <container id="cid1031001" type="Box" label="Box">3</container>
+                        <container parent="cid1031001" type="Folder">48</container>
+                        <container id="cid1031002" type="Oversize-folder" label="Box">2</container>
+                        <unitdate normal="1994/1994">April 1994</unitdate>
+                    </did>
+                    <odd id="ref163">
+                        <head>General note</head>
+                        <p>Includes: program booklet, poster, Sedgwick's talk "Gosh, Boy George You Must Be Awfully Secure in Your Masculinity!", and a 3-1/2-inch computer disk.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref192" level="file">
+                    <did>
+                        <unittitle>Donna Ward-Kiddo to Eve Sedgwick, enclosing photocopies of letters from Fisher,</unittitle>
+                        <container id="cid1031005" type="Box" label="Box">3</container>
+                        <container parent="cid1031005" type="Folder">49</container>
+                        <unitdate normal="1982/1994" type="inclusive">1982-1994</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref186" level="series">
+                <did>
+                    <unitid>Series 6</unitid>
+                    <unittitle>Printed Materials,</unittitle>
+                    <physdesc>
+                        <extent>1.0 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1995/1995">1995</unitdate>
+                </did>
+                <scopecontent id="ref199">
+                    <head>Scope and Contents</head>
+                    <p>The series contains one periodical issue in which Fisher's "Red Cream Soda" is published.</p>
+                </scopecontent>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Evergreen Chronicles</emph>,</unittitle>
+                        <container id="cid1024017" type="Box" label="Box">3</container>
+                        <container parent="cid1024017" type="Folder">50</container>
+                        <unitdate normal="1995/1995">Summer/Fall 1995</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
