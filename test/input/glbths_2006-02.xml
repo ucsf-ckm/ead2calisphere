@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid countrycode="us" mainagencycode="CSfGLHS">glbths_2006-02.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Guide to the Shanti Records</titleproper>
+<titleproper type="filing">Shanti Records</titleproper>
+<author>Marjorie Bryer</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Gay, Lesbian, Bisexual, Transgender Historical Society</publisher>
+<address>
+<addressline>657 Mission Street, Suite 300</addressline>
+<addressline>San Francisco, California 94105</addressline>
+<addressline>Phone: (415) 777-5455</addressline>
+<addressline>Fax: (415) 777-5576</addressline>
+<addressline>Email: info@glbthistory.org</addressline>
+<addressline>URL: http://www.glbthistory.org/</addressline>
+</address>
+<date>&#x00A9; 2007</date>
+<p>The Gay, Lesbian, Bisexual, Transgender Historical Society. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid created by Rebekah Kim. Machine-readable finding aid derived from MS Word. Date of source: <date normal="20070818">August 18, 2007.</date></creation>
+<langusage>Finding aid written in: 
+<language langcode="eng" scriptcode="latn">English</language>
+</langusage>
+<descrules>Finding aid prepared using 
+<title render="italic">Describing Archives: a Content Standard</title>
+</descrules>
+</profiledesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>Guide to the Shanti Records</titleproper>
+<num>Collection number: 2006-02</num>
+<publisher>Gay, Lesbian, Bisexual, Transgender Historical Society
+<lb/>San Francisco, California</publisher>
+<list type="deflist">
+<defitem>
+<label>Processed by:</label>
+<item>Marjorie Bryer</item>
+</defitem>
+<defitem>
+<label>Date Completed:</label>
+<item>August 2007</item>
+</defitem>
+<defitem>
+<label>Encoded by:</label>
+<item>Rebekah Kim</item>
+</defitem>
+</list>
+<p>&#x00A9; 2007 The Gay, Lesbian, Bisexual, Transgender Historical Society. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection">
+<did>
+<head>Descriptive Summary</head>
+<unittitle label="Title">Shanti records</unittitle>
+<unitdate type="inclusive" normal="1983/2006" label="Dates">1983-2006</unitdate>
+<unitid label="Collection number" repositorycode="CSfGLHS" countrycode="US">2006-02</unitid>
+<origination label="Creator">
+<corpname source="lcnaf" rules="aacr2">Shanti Project (San Francisco, Calif.)</corpname>
+</origination>
+<physdesc label="Collection Size">
+<extent>2 Cartons, 1 manuscript box and 10 framed photographs, posters and artworks</extent>
+</physdesc>
+<repository label="Repository">
+<corpname>Gay, Lesbian, Bisexual, Transgender Historical Society</corpname>
+<address>
+<addressline>San Francisco, California 94105</addressline>
+</address>
+</repository>
+<abstract label="Abstract">The records of Shanti document the organizational history and work of an agency dedicated to enhancing the quality of life for people living with HIV/AIDS and other life-threatening or chronic illnesses.  There are a wide range of record types in this collection, which focus on the years 1987-2003.  The bulk of these include materials related to the board of directors and to training volunteers and other organizations.  There are also newsletters; publicity and fundraising materials; cloth artifacts; a scrapbook; audio-visual material; and photographs.</abstract>
+<physloc label="Physical location">Stored at the Archives of the Gay, Lesbian, Bisexual, Transgender Historical Society in San Francisco, California.</physloc>
+<langmaterial label="Languages">
+Languages represented in the collection: 
+<language langcode="eng">English</language>
+</langmaterial>
+</did>
+<accessrestrict>
+<head>Access</head>
+<p>Collection open for research.</p>
+</accessrestrict>
+<userestrict>
+<head>Publication Rights</head>
+<p>Copyright to unpublished manuscript materials has been transferred to the Gay, Lesbian, Bisexual, Transgender Historical Society.</p>
+</userestrict>
+<prefercite>
+<head>Preferred Citation</head>
+<p>[Identification of item], Shanti Records, 2006-02, The Gay, Lesbian, Bisexual, Transgender Historical Society.</p>
+</prefercite>
+<acqinfo>
+<head>Acquisition Information</head>
+<p>Donated by Kevin Burns, Executive Director of Shanti, October 2005.</p>
+</acqinfo>
+<bioghist>
+<head>Organizational History</head>
+<p>Dr. Charles Garfield founded the Shanti Project in 1974 to provide emotional support for people with life-threatening illnesses in the San Francisco Bay Area. The name "Shanti" comes from the Sanskrit word for "inner peace" or the "peace that passeth understanding." The project's focus on one-to-one peer support provided by trained volunteers became a new standard in the care of the terminally ill. Shanti's methods gained national attention, and after Garfield gave the keynote speech at n cancer conference in Milan, Italy in 1979, Shanti began an international training effort. Soon nearly 300 organizations around the world were using the Shanti peer support model. </p>
+<p>In 1981, when the earliest cases of disease that became known as AIDS first appeared in San Francisco, Shanti added them to their caseload. In 1982, Shanti's board elected Jim Geary as their Executive Director, and hired its first paid staff. That same year, Shanti provided the first-ever international trainings on AIDS care (in Italy, France and the Netherlands). In 1984, Shanti, recognizing the exponential growth of the AIDS epidemic, changed its mission from serving individuals with any terminal illness to providing services solely for those with AIDS and their loved ones.  </p>
+<p>Under Geary's guidance, Shanti quickly became a leader and a key component in San Francisco's community-based response to AIDS, creating new programs and changing existing ones to match the needs of people with AIDS (PWAs). The goal was to help them lead productive and independent lives out of hospitals and in their communities, and to reduce their healthcare costs. In addition to peer counseling and practical assistance, such as housecleaning, childcare, shopping, cooking and running errands, Shanti services expanded to include providing transportation, offering recreational and social activities and providing caregiver support. Shanti also developed the first non-hospital residential facilities for displaced people with AIDS; by 1988 they had 12 residences housing 47 PWAs.</p>
+<p>In October 1988, Geary resigned, following six months of turmoil and amidst allegations of sexual harassment, discrimination and favoritism that resulted in a San Francisco Human Rights Commission investigation of the organization. After a nationwide search, author, teacher and activist Eric Rofes was hired as the new executive director in 1989.  This move was viewed as inspiring renewed confidence in the agency.  Shanti broadened its focus, opening its first AIDS residence for families with children and beginning a two-year agency-wide Multicultural Plan.  In 1990, the first practical support training for the deaf and hard of hearing was held. That same year, in collaboration with the Visiting Nurses Association and Hospice, Shanti opened a home for PWAs who needed 24-hour care. 1991 brought an influx of federal funds from the Ryan White CARE Bill and from the Crossings program. The latter focused on the "historically underserved" residents of the Tenderloin, Mission, and South of Market areas of the city. This program reached out to women, children, people of color, poor, homeless, intravenous and other drug users, transvestites and transgender people. </p>
+<p>There was another leadership and public relations crisis in 1993, when an annual review found discrepancies in the use of government funds in Shanti's housing program. Rofes and deputy director Melinda Paras resigned. Paul Lambros served as interim executive director until August of that year.  Doug Holloway and Tim Wolfred assumed direction of day-to-day activities until Gloria Sandoval was appointed Shanti executive director. After being barred for a year from receiving direct federal funding, Shanti's January 1994 audit showed no misuse of funds and their federal status was reinstated.  Shanti's housing program was transferred to another agency, but all other contracts were extended. In 1994, Shanti joined with the AIDS Health Project and the San Francisco AIDS Foundation in a new formal collaboration, streamlining intake and making access to services provided by all three agencies more efficient.</p>
+<p>Between 1974 and 1994, its 20th anniversary year, Shanti trained over 7,000 volunteers who, cumulatively, provided over 2 million hours of peer counseling and practical assistance to PWAs and people with other terminal diseases. The organization continued to offer new services, including an Activities Program, which included social, recreational and cultural opportunities for men, women, and children with symptomatic HIV in San Francisco. These events provided a space for participants to make friends with others who were dealing with similar issues, to enjoy activities they might not normally be able to afford, and to explore new interests. The Activities Program included free tickets to arts, sports performance and educational events; social events such as parties, picnics, bus trips, classes, outings; a newsletter and a telephone events line.  </p>
+<p>Sandoval served as Executive Director until 1997. She was succeeded by Bob Rybicki, who served for five years.  In 1998, in conjunction with activist Andrea Martin, Shanti established its LifeLines Breast Cancer Program, which offers support, education, services and care to men and women with breast cancer. In early 2003, Hywel Sims joined Shanti as Executive Director; after 18 months in the position, he was succeeded by Kevin Burns.  Burns had worked in a variety of capacities for Shanti since 1995 and, prior to joining the staff, he was a peer support volunteer.  </p>
+<p>As Shanti celebrated its 30th anniversary in 2004, one of its main initiatives was to expand its programs to new parts of the country.  The agency continues to share its 30-plus years of experience with other organizations nationwide. The Shanti National Training Institute offers training and consultation to agencies trying to implement new, or improve existing, volunteer programs for with clients with life-threatening illnesses. The organization continues to enhance the health and quality of life of people living with HIV/AIDS and breast cancer in San Francisco by offering numerous services. L.I.F.E. (Learning Immune Function Enhancement) Institute offers innovative health services to people living with HIV/AIDS and other chronic illnesses and conducts research on the role of psycho-social issues in disease. HIV/AIDS Services provides for the emotional and practical needs of people living with the disease by linking people living with HIV/AIDS to medical care, substance abuse treatment and volunteer caregivers. Volunteer Services gives people the opportunity to facilitate wellness classes and help Shanti clients.   </p>
+<p>As of 2007, Shanti employed close to 40 people, managed 200 volunteers and served over 2,000 people per year. It remains committed to providing services for people of all racial, ethnic, sexual orientation and cultural backgrounds affected by HIV and other life-threatening diseases, with sensitivity to preserving the rights and dignity of its clients and the HIV-affected community at large.</p>
+<p>This organizational history was largely taken from the Guide to the Shanti Project records, 1982-1994, MSS 98-48 at the University of California, San Francisco, accessed through the Online Archive of California, August 11, 2007.</p>
+</bioghist>
+<scopecontent>
+<head>Scope and Content of Collection</head>
+<p>The records of Shanti document the organizational history and work of an agency dedicated to enhancing the quality of life for people living with HIV/AIDS and other life-threatening or chronic illnesses.  There are a wide range of record types in this collection, which focus on the years 1987-2003.  The bulk of these include materials related to the board of directors and to training volunteers and other organizations.  There are also newsletters; publicity and fundraising materials; cloth artifacts; a scrapbook; audio-visual material; and photographs.</p>
+<p>Researchers should consult Series Scope and Content Summaries for more details.</p>
+</scopecontent>
+<arrangement>
+<head>Arrangement</head>
+<p>The collection is arranged in 6 series:</p>
+<p>Series 1. Board of Directors; Series 2. Organizational Records; Series 3. Newsletters; Series 4. Training Materials; Series 5. Ephemera; Series 6. Visual Arts</p>
+<p>The original order was maintained.</p>
+</arrangement>
+<controlaccess>
+<head>Indexing Terms</head>
+<p>The following terms have been used to index the description of this collection in
+the library's online public access catalog.</p>
+<subject source="lcsh" rules="aacr">AIDS (Disease)</subject>
+<subject source="lcsh" rules="aacr">AIDS (Disease) Social Aspects California San Francisco Bay Area</subject>
+<subject source="lcsh" rules="aacr">AIDS (Disease) Patient Services for Terminal Care</subject>
+<subject source="lcsh" rules="aacr">Shanti Project (San Francisco, Calif.)</subject>
+<subject source="lcsh" rules="aacr">Garfield, Charles A.</subject>
+</controlaccess>
+<relatedmaterial>
+<head>Related Material</head>
+<p>The following collections at the Gay, Lesbian, Bisexual, Transgender Historical Society and University of California-San Francisco contain related materials.  Contact the Historical Society and UCSF for further information.</p>
+<p>San Francisco AIDS Foundation records, 2006-03 (at GLBTHS); GLBTHS Periodicals Collection: various Shanti newsletters; San Francisco AIDS Foundation (SFAF) records, 1982-1995, MSS 94-60 (at UCSF); 
+Shanti Project records, 1982-1994, MSS 98-48 (at UCSF)</p>
+</relatedmaterial>
+
+<dsc type="combined"> 
+<head>Collection Contents</head> 
+<note><p>A copy of the collection register is kept in the first box of the collection (1/0).</p></note>
+<c01 level="series"> 
+<did> 
+<unitid>Series 1</unitid> 
+<unittitle>Board of Directors</unittitle> 
+<unitdate type="inclusive" normal="1987/2003">1987-2003</unitdate> 
+<physdesc><extent>38 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>The bulk of the records in this series consist of board meeting agendas and minutes from 1997 to 2003.  They document Shanti's organizational structure and its social and political work.  Materials include packets for the board members that contain financial statements and auditors' reports, demographic characteristics of Shanti clients and volunteers, event flyers, board job descriptions, reports and program evaluations.  Other materials in this series include an agreement with the San Francisco AIDS Foundation, annual reports and a copy of Shanti's by-laws.</p> 
+<arrangement> 
+<p>Arrangement of the Series:</p> 
+<p>Arranged alphabetically, by subject.</p> 
+</arrangement> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unittitle>Agreement Between Shanti and San Francisco AIDS Fund and related letter.</unittitle> 
+<unitdate type="inclusive" normal="1987">1987, undated.</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 1</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Annual Reports</unittitle> 
+<unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 2</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>By-Laws.</unittitle> 
+<unitdate type="inclusive" normal="199802">1998 February</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Meetings, Agendas and Minutes.</unittitle> 
+<unitdate type="inclusive" normal="1997/2003">1997-2003</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 4-38</container> 
+</did> 
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unitid>Series 2</unitid> 
+<unittitle>Organizational Records</unittitle> 
+<unitdate type="inclusive" normal="1983/2000">1983-2000</unitdate> 
+<physdesc><extent>6 folders, 2 videotapes and 1 CD</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series includes materials from other organizations; publicity materials, such as brochures; fundraising materials, such 
+as donor outreach correspondence, an "Into the Light" campaign video and a promotional CD; press releases; materials related to 
+events, including a 1998 video of Shanti's Annual Awards dinner; PWA and Activities Program updates; and one letter from, and 
+one note about Eric Rofes, Shanti's executive director from 1989-1993.</p> 
+<arrangement> 
+<p>Arrangement of the Series:</p> 
+<p>Arranged alphabetically, by subject, with audio-visual materials at the end of the series.</p> 
+</arrangement> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unittitle>ACT UP Golden Gate Action Alerts and Other Materials.</unittitle> 
+<unitdate type="inclusive" normal="1992/1994">Circa 1992-1994</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 40</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Brochures.</unittitle> 
+<unitdate type="inclusive" normal="1994/2003">1994-2003, undated</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 41</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Fundraising Letters.</unittitle> 
+<unitdate type="inclusive" normal="1983/1995">1983-1995, undated</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 42</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Press Releases and Event Materials.</unittitle> 
+<unitdate type="inclusive" normal="1988/2003">1988-2003, undated</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 43</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>PWA UPdates and Activities Program UPdates.</unittitle> 
+<unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 44</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Rofes, Eric - Correspondence.</unittitle> 
+<unitdate type="inclusive" normal="1989">1989</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 45</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"I'll Be There": 1995/96 Into the Light Campaign Video," VHS tape.</unittitle> 
+<unitdate type="inclusive" normal="19951026">1995 October 26</unitdate> 
+<container type="box-folder" label="Box: Folder">1</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"Shanti's Annual Awards Dinner," VHS tape.</unittitle> 
+<unitdate type="inclusive" normal="19981112">1998 November 12</unitdate> 
+<container type="box-folder" label="Box: Folder">1</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"Shanti Project Collection 2," CD.</unittitle> 
+<unitdate type="inclusive" normal="2000">2000</unitdate> 
+<container type="box-folder" label="Box: Folder">1</container> 
+</did> 
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unitid>Series 3</unitid> 
+<unittitle>Newsletters</unittitle> 
+<unitdate type="inclusive" normal="1983/2006">1983-2006</unitdate> 
+<physdesc><extent>5 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series is comprised of issues of five different Shanti newsletters: Eclipse, Grapvine, Heartspace, Our Times and Voices.</p> 
+<arrangement> 
+<p>Arrangement of the Series:</p> 
+<p>Arranged alphabetically, by title.</p> 
+</arrangement> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unittitle>Eclipse.</unittitle> 
+<unitdate type="inclusive" normal="1983/1994">1983-1994</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 46-47</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Grapevine and Heartspace: A Newsletter Especially for Volunteers.</unittitle> 
+<unitdate type="inclusive" normal="1988/1991">1988-1991</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 48</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Our Times.</unittitle> 
+<unitdate type="inclusive" normal="1994/1999">1994-1999</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 49</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Voices.</unittitle> 
+<unitdate type="inclusive" normal="1999/2006">1999-2006</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 50</container> 
+</did> 
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unitid>Series 4</unitid> 
+<unittitle>Training Materials</unittitle> 
+<unitdate type="inclusive" normal="1986/2000">1986-2000</unitdate> 
+<physdesc><extent>1 folder in Carton 1, 9 folders in Box 1, 1 binder and 1 book in Carton 2</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series documents the implementation and practice of the Shanti model, which was used by AIDS-service organizations nationwide. Materials in the series include training manuals for volunteers and participants; memos; resources from workshops; cassette tapes offering lessons on AIDS caregiving; policy materials; publications produced, or inspired, by Shanti volunteers; and an autographed copy of Sometimes My Heart Goes Numb, by Charles Garfield, originator of Shanti model.</p> 
+<arrangement> 
+<p>Arrangement of the Series:</p> 
+<p>Arranged alphabetically, by subject.</p> 
+</arrangement> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unittitle>AIDS Caregiving: Lessons for the Second Decade, by Charles Garfield and Cindy Spring, Cassette Tapes.</unittitle> 
+<unitdate type="inclusive" normal="1993">1993</unitdate> 
+<container type="box-folder" label="Box: Folder">1: 51</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Emotional Support Training Manuals.</unittitle> 
+<unitdate type="inclusive" normal="19910107">1991 January 7</unitdate>
+<unitdate type="inclusive" normal="1986">Circa 1986</unitdate>
+<container type="box-folder" label="Box: Folder">2: 1</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>In the Spirit of Service (Participant Manual, Shanti National Training Inst.).</unittitle> 
+<unitdate type="inclusive" normal="1999">1999</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 2</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Project Volunteer Memos.</unittitle> 
+<unitdate type="inclusive" normal="1986/1988">1986-1988</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Publications - AIDS Vignettes: Stories of a Volunteer's Work and The Book of Life: Words from the Heart.</unittitle> 
+<unitdate type="inclusive" normal="1996">1996</unitdate>
+<unitdate type="inclusive">Undated</unitdate>
+<container type="box-folder" label="Box: Folder">2: 4</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Seminars, Workshops and Resources.</unittitle> 
+<unitdate type="inclusive" normal="1993">1986</unitdate>
+<unitdate type="inclusive" normal="1993">1993</unitdate>
+<unitdate type="inclusive">Undated</unitdate>
+<container type="box-folder" label="Box: Folder">2: 5</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Sometimes My Heart Goes Numb: Love and Grieving in a Time of AIDS.</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Training Volunteers for Community Service.</unittitle> 
+<unitdate type="inclusive" normal="2000">2000</unitdate> 
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Tuberculosis Screening and Surveillance Policy and Procedures.</unittitle> 
+<unitdate type="inclusive" normal="199201">1992 January</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 6</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Volunteer Training Materials.</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate>
+<unitdate type="inclusive">Undated</unitdate>
+<container type="box-folder" label="Box: Folder">2: 7</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Volunteer Services and Training Materials Used by Kevin Burns, Volunteer Facilitator and Coordinator.</unittitle> 
+<unitdate type="inclusive" normal="1992/1997">1992-1997</unitdate> 
+<container type="box-folder" label="Box: Folder">2: 8-9</container> 
+</did> 
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unitid>Series 5</unitid> 
+<unittitle>Ephemera</unittitle> 
+<unitdate type="inclusive" normal="1996/2004">1996-2004</unitdate>
+<unitdate type="inclusive">Undated</unitdate>
+<physdesc><extent>14 items</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>Materials in this series include a banner, a sash, hats, t-shirts and a scrapbook containing obituaries of people associated with Shanti.</p> 
+<arrangement> 
+<p>Arrangement of the Series:</p> 
+<p>Arranged alphabetically, by media, then by subject</p> 
+</arrangement> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unittitle>"Shanti Volunteers for Life," Banner.</unittitle> 
+<unitdate type="inclusive">Undated</unitdate> 
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"The Names Project," Hat.</unittitle> 
+<unitdate type="inclusive">Undated</unitdate> 
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"Shanti Project," Hat.</unittitle> 
+<unitdate type="inclusive">Undated</unitdate> 
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Obituary Scrapbook.</unittitle> 
+<unitdate type="inclusive">Undated</unitdate> 
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"Shanti Irish" Sash.</unittitle> 
+<unitdate type="inclusive">Undated</unitdate> 
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"Our Lady of Safeway," 10th Annual AIDS Walk T-Shirt.</unittitle> 
+<unitdate type="inclusive" normal="1996">1996</unitdate> 
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"Ride for Life," T-Shirt.</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"Ride for Life," Third Annual Motorcycle Ride to Fight AIDS T-Shirt.</unittitle> 
+<unitdate type="inclusive" normal="19991024">1999 October 24</unitdate> 
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"Celebrate Life: 30 Years of Care and Support," T-Shirt.</unittitle> 
+<unitdate type="inclusive" normal="2004">Circa 2004</unitdate> 
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"People Transforming Lives," T-Shirt.</unittitle> 
+<unitdate type="inclusive">Undated</unitdate> 
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"The Power of Caring," T-Shirt.</unittitle> 
+<unitdate type="inclusive">Undated</unitdate>
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"San Francisco Suicide Prevention AIDS/HIV Nightline," T-Shirt.</unittitle> 
+<unitdate type="inclusive">Undated</unitdate>
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"Shanti," T-Shirt.</unittitle> 
+<unitdate type="inclusive">Undated</unitdate>
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>"Shanti Volunteer for Life," Green T-Shirt.</unittitle> 
+<unitdate type="inclusive">Undated</unitdate>
+<container type="box-folder" label="Box: Folder">3</container> 
+</did> 
+</c02>
+</c01>
+<c01 level="series"> 
+<did> 
+<unitid>Series 6</unitid> 
+<unittitle>Visual Arts</unittitle> 
+<unitdate type="inclusive" normal="1992">1992</unitdate>
+<unitdate type="inclusive">Undated</unitdate>
+<physdesc><extent>1 print, 1 poster, 8 photographs</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>Materials in this series include a 1992 woodblock print by Robin Tichane, from his series, "AIDS Dark Terrain: Twelve Stations from a Yankee Pilgrim"; a poster for recruiting Shanti Volunteers; and eight black and white photographs of People With AIDS and Shanti clients with Shanti volunteers or caregivers. Photographs include some used in the Shanti Project's 20th Anniversary brochure. There are photographs of Shanti client and volunteer Wayne Corbitt hanging out with volunteer Joy Bandy; 14-year-old Shanti client Jeff Hidalgo watching Roseanne at his home with Shanti volunteer, David Silverman; Mesha Irezarry, Shanti staff counselor, comforting AIDS patient Lee Bossell on Ward 5A, San Francisco General Hospital's AIDS ward; and Jim Ochoa and Randy Vielbiz, clients of Shanti's Latino Program, hosting a dinner party as a thank you for Shanti volunteers Tony Molina and Cintelm (Teamo) Alvarado.</p> 
+<arrangement> 
+<p>Arrangement of the Series:</p> 
+<p>Original order was maintained.</p> 
+</arrangement> 
+</scopecontent>
+<c02 level="item">  
+<did>  
+<unittitle>Robin Tichane, "Errand into Wilderness," Woodblock Print.</unittitle> 
+<unitdate type="inclusive" normal="1992">1992</unitdate> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>Shanti Volunteer Poster.</unittitle> 
+<unitdate type="inclusive">Undated</unitdate> 
+</did> 
+</c02>
+<c02 level="item">  
+<did>  
+<unittitle>8 Photographs.</unittitle> 
+<unitdate type="inclusive" normal="1990">Circa 1990s</unitdate> 
+</did> 
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
