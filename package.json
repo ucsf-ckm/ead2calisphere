@@ -5,7 +5,8 @@
   "main": "index.js",
   "bin": "index.js",
   "scripts": {
-    "test": "standard && node test/test.js"
+    "test": "standard && node test/test.js",
+    "build": "pkg ."
   },
   "author": "Rich Trott <rtrott@gmail.com>",
   "license": "MIT",
