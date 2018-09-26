@@ -1,13 +1,23 @@
 'use strict'
 
+const fs = require('fs')
 const path = require('path')
 
 if (!process.argv[2]) {
-  console.error('Usage: ead2calisphere input.xml')
+  console.error('Usage: ead2calisphere input.xml [output.tsv]')
   process.exit(1)
 }
 
-const eadRaw = require('fs').readFileSync(path.join(__dirname, process.argv[2]), 'utf-8')
+const eadRaw = fs.readFileSync(path.resolve(__dirname, process.argv[2]), 'utf-8')
+
+const outputFile = process.argv[3] ? path.resolve(__dirname, process.argv[3]) : ''
+if (outputFile) {
+  try {
+    fs.unlinkSync(outputFile)
+  } catch (e) {
+    // file probably didn't exist
+  }
+}
 
 const htmlparser2 = require('htmlparser2')
 
@@ -233,7 +243,13 @@ const displayData = (data) => {
   }
 
   const detabbedOutput = output.map((val) => val.replace('\t', ' '))
-  console.log(detabbedOutput.join(`\t`))
+  const tsvOutput = detabbedOutput.join('\t')
+
+  if (outputFile) {
+    fs.writeFileSync(outputFile, `${tsvOutput}\n`, {flag: 'a'})
+  } else {
+    console.log(tsvOutput)
+  }
 }
 
 const handlers = {
