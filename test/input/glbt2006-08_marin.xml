@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ead>
+     <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+         <eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/c8bg2qq9" mainagencycode="CSfGLHS" publicid="2006-08" cdlpath:parent="ark:/13030/tf8j49p7c9" >2006-08</eadid>
+         <filedesc id="filedesc">
+             <titlestmt>
+                 <titleproper>Marin County AIDS Advisory Commission records</titleproper>
+                 <titleproper type="filing">Marin County AIDS Advisory Commission Records</titleproper>
+                 <author>Gay, Lesbian, Bisexual, Transgender Historical Society</author>
+             </titlestmt>
+             <publicationstmt>
+                 <publisher>Gay, Lesbian, Bisexual, Transgender Historical Society</publisher>
+                 <address>
+                     <addressline>657 Mission Street, #300</addressline>
+                     
+                     <addressline>San Francisco, California 94105</addressline>
+                     
+                     <addressline>(415) 777-5455</addressline>
+                     
+                     
+                     <addressline>reference@glbthistory.org</addressline>
+                     
+                     
+                     <addressline>http://www.glbthistory.org/</addressline>
+                     
+                 </address>
+                 <date>2013</date>
+             </publicationstmt>
+         </filedesc>
+     </eadheader>
+     <archdesc level="collection" id="archdesc">
+         <did id="did">
+             <head>Descriptive Summary</head>
+             <unittitle label="Title">Marin County AIDS Advisory Commission records</unittitle>
+             <unitdate  label="Dates">1983-2004</unitdate>
+             <unitid label="Collection Number" repositorycode="CSfGLHS" countrycode="US">2006-08</unitid>
+             <origination label="Creator/Collector">
+                 
+                 
+                 
+                 <corpname>Marin County (Calif.) AIDS Advisory Commission</corpname>
+                 
+             </origination>
+             <physdesc label="Extent"><extent>6 boxes (2.2 linear feet)</extent>
+             </physdesc>
+             
+             <repository label="Repository">
+                 <corpname>Gay, Lesbian, Bisexual, Transgender Historical Society</corpname>
+                 <address>
+                     <addressline>San Francisco, California 94105</addressline>
+                 </address>
+             </repository>
+             <abstract label="Abstract">This collection contains records produced by the Marin County AIDS Advisory Commission (MAAC) and documents one aspect of the county’s official response to AIDS. The collection includes organizational records; correspondence and memos; meeting agendas and minutes for various committees; reports; subject files; ephemera; and clippings. </abstract>
+             <langmaterial><language langcode="eng"/></langmaterial>
+        </did>
+        <accessrestrict id="accessrestrict"><head>Access</head><p>Collection is open for research. Funding for processing this collection was provided by the Council on Library and Information Resources (CLIR).</p></accessrestrict>
+        <userestrict id="userestrict"><head>Publication Rights</head><p></p></userestrict>
+        <prefercite id="prefercite"><head>Preferred Citation</head><p>Marin County AIDS Advisory Commission records.  Gay, Lesbian, Bisexual, Transgender Historical Society</p></prefercite>
+        <acqinfo id="acqinfo"><head>Acquisition Information</head><p>Gift of Roy Bateman, on behalf of the County of Marin, in January 2006 and September 2008.</p></acqinfo>
+        
+        <bioghist id="bioghist"><head>Biography/Administrative History</head><p>The Advisory Commission was established in 1987 to advise the Marin County Department of Health and Human Services and Board of Supervisors on the development, implementation and coordination of AIDS programs and other concerns related to HIV.</p></bioghist>
+        
+        <scopecontent id="scopecontent"><head>Scope and Content of Collection</head><p>This collection contains records produced by the Marin County AIDS Advisory Commission (MAAC) and documents one aspect of the county’s official response to AIDS. The collection includes organizational records; correspondence and memos; meeting agendas and minutes for various committees; reports; subject files; ephemera; and clippings. Of particular interest are the records produced by the Marin County AIDS Task Force (MAAC), which was formed in 1985 in response to the growing AIDS epidemic in Marin. There are also records related to the Marin County HIV Care Consortium and the Marin AIDS Project.</p></scopecontent>
+        <controlaccess id="controlaccess">
+            <head>Indexing Terms</head>
+            
+                <subject>AIDS (Disease) -- California -- Marin County </subject>
+            
+                <subject>HIV infections -- California -- Marin County </subject>
+            
+            
+            
+            
+                <corpname role="subject">Marin AIDS Advisory Commission.</corpname>
+            
+            
+            
+            
+            
+            
+        </controlaccess>
+        
+        <otherfindaid id="otherfindaid">
+            <head>Additional collection guides</head>
+            <list>
+            
+            <item><extref href="/data/13030/q9/c8bg2qq9/files/glbths_2006_08_MarinAIDS_ContainerList.pdf">Container List for the Marin County AIDS Advisory Commission  Records</extref></item>
+            
+            </list>
+        </otherfindaid>
+        
+    </archdesc>
+</ead>

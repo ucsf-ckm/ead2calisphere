@@ -40,7 +40,10 @@ let subjectNameIndex = 0
 const subjectTopic = [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}]
 let subjectTopicIndex = 0
 
+let emptyOutput = true
+
 const displayData = (data) => {
+  emptyOutput = false
   if (data.get('DONOTDISPLAY')) { return }
 
   if (!collectionNumber) {
@@ -380,3 +383,7 @@ const options = {
 const parser = new htmlparser2.Parser(handlers, options)
 parser.write(eadRaw) // passed through handlers
 parser.end()
+
+if (emptyOutput) {
+  console.warn('No output! Check the XML input for problems.')
+}
