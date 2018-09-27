@@ -8,9 +8,9 @@ if (!process.argv[2]) {
   process.exit(1)
 }
 
-const eadRaw = fs.readFileSync(path.resolve(__dirname, process.argv[2]), 'utf-8')
+const eadRaw = fs.readFileSync(path.resolve(process.cwd(), process.argv[2]), 'utf-8')
 
-const outputFile = process.argv[3] ? path.resolve(__dirname, process.argv[3]) : ''
+const outputFile = process.argv[3] ? path.resolve(process.cwd(), process.argv[3]) : ''
 if (outputFile) {
   try {
     fs.unlinkSync(outputFile)
