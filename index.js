@@ -245,7 +245,7 @@ const displayData = (data) => {
     throw new TypeError(`${typeof badTypes[0]} found at index ${output.indexOf(badTypes[0])}, string expected`)
   }
 
-  const detabbedOutput = output.map((val) => val.replace('\t', ' '))
+  const detabbedOutput = output.map((val) => val.replace(/\t/g, ' '))
   const tsvOutput = detabbedOutput.join('\t')
 
   if (outputFile) {
