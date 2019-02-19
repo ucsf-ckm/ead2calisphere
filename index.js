@@ -297,6 +297,9 @@ const handlers = {
         language.text += text
       }
       if (/^container$/i.test(thisTag.name)) {
+        if (!thisTag.attribs.type) {
+          throw new Error(`<container> is missing expected attributes: <container>${text}</container>`)
+        }
         const types = thisTag.attribs.type.split(/[: -]+/).map((val) => val.charAt(0).toUpperCase() + val.slice(1))
         const texts = text.split(/[: ]+/)
         const pieces = types.map((type, idx) => `${type} ${texts[idx]}`)

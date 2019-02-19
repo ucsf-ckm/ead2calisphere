@@ -1,0 +1,2141 @@
+<?xml version="1.0"?>
+<ead>
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="US-CSfGLHS" identifier="ark:/13030/kt3f59q8qj" cdlpath:parent="ark:/13030/tf8j49p7c9">glbths_2006-03.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding aid of the Finding aid of the San Francisco AIDS Foundation (SFAF) Records</titleproper>
+<titleproper type="filing">San Francisco AIDS Foundation (SFAF) Records</titleproper>
+<author>Processed by Sara Chabino-Lott; machine-readable finding aid created by Rebekah Kim</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Gay, Lesbian, Bisexual, Transgender Historical Society</publisher>
+<address>
+<addressline>657 Mission Street, Suite 300</addressline>
+<addressline>San Francisco, California 94105</addressline>
+<addressline>Phone: (415) 777-5455</addressline>
+<addressline>Fax: (415) 777-5576</addressline>
+<addressline>Email: info@glbthistory.org</addressline>
+<addressline>URL: http://www.glbthistory.org/</addressline>
+</address>
+<date>&#xA9; 2007</date>
+<p>The Gay, Lesbian, Bisexual, Transgender Historical Society. All rights reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid created by Rebekah Kim. Machine-readable finding aid derived from MS Word. Date of source: <date normal="20070917">September 17, 2007.</date></creation>
+<langusage>Finding aid written in: 
+<language langcode="eng" scriptcode="latn">English</language>
+</langusage>
+<descrules>Finding aid prepared using 
+<title render="italic">Describing Archives: a Content Standard</title>
+</descrules>
+</profiledesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>Finding aid of the Finding aid of the San Francisco AIDS Foundation (SFAF) Records</titleproper>
+<num>Collection number: 2006-03</num>
+<publisher>Gay, Lesbian, Bisexual, Transgender Historical Society
+<lb/>San Francisco, California</publisher>
+<list type="deflist">
+<defitem>
+<label>Processed by:</label>
+<item>Sara Chabino-Lott</item>
+</defitem>
+<defitem>
+<label>Date Completed:</label>
+<item>August 2007</item>
+</defitem>
+<defitem>
+<label>Encoded by:</label>
+<item>Rebekah Kim</item>
+</defitem>
+</list>
+<p>&#xA9; 2007 The Gay, Lesbian, Bisexual, Transgender Historical Society. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection" id="archdesc-1.3">
+<did id="did-1.3.1">
+<head>Descriptive Summary</head>
+<unittitle label="Title">San Francisco AIDS Foundation (SFAF) Records</unittitle>
+<unitdate type="inclusive" normal="1983/2006" label="Dates">1983-2006</unitdate>
+<unitdate type="bulk" normal="1989/2005" label="Bulk Dates">1989-2005</unitdate>
+<unitid label="Collection number" repositorycode="CSfGLHS" countrycode="US">2006-03</unitid>
+<origination label="Creator">
+<corpname source="lcnaf" rules="aacr2">San Francisco AIDS Foundation</corpname>
+</origination>
+<physdesc label="Collection Size">
+<extent>6 record cartons, 2 manuscript boxes, 2 medium boxes, 1 over sized box, and 1 jumbo box</extent>
+<extent>13.42 linear feet</extent>
+</physdesc>
+            <repository>
+                <corpname>Gay Lesbian Bisexual Transgender Historical Society</corpname>
+                <address>
+                    <addressline>657 Mission Street</addressline>
+                    <addressline>Suite 300</addressline>
+                    <addressline>San Francisco, CA, 94105</addressline>
+                    <addressline>(415) 777-5455</addressline>
+                </address>
+            </repository>
+<abstract label="Abstract">This collection contains records documenting the activities of the San Francisco AIDS Foundation (SFAF) from 1983 through 2006.  The bulk of the collection is from 1989-2005.  The collection has a particular emphasis on SFAF's public policy and advocacy work at the local, state and federal levels.  The collection includes correspondence, photographs, news releases, newsletters, and posters.</abstract>
+<physloc label="Physical location">Stored at the Archives of the Gay, Lesbian, Bisexual, Transgender Historical Society in San Francisco, California.</physloc>
+<langmaterial label="Languages">
+Languages represented in the collection: 
+<language langcode="eng">English</language>
+</langmaterial>
+</did>
+<accessrestrict id="accessrestrict-1.3.2">
+<head>Access</head>
+<p>Collection open for research.</p>
+</accessrestrict>
+<userestrict id="userestrict-1.3.3">
+<head>Publication Rights</head>
+<p>Copyright to unpublished manuscript materials has been transferred to the Gay, Lesbian, Bisexual, Transgender Historical Society.</p>
+</userestrict>
+<prefercite id="prefercite-1.3.4">
+<head>Preferred Citation</head>
+<p>[Identification of item], [Name of Series], San Francisco AIDS Foundation Records, 2006-03, The Gay, Lesbian, Bisexual, Transgender Historical Society.</p>
+</prefercite>
+<acqinfo id="acqinfo-1.3.5">
+<head>Acquisition Information</head>
+<p>Donated to the Library by Mark Cloutier, Executive Director of SFAF in March of 2006.</p>
+</acqinfo>
+<bioghist id="bioghist-1.3.6">
+<head>Organizational History</head>
+<p>The San Francisco AIDS Foundation is one of the largest and oldest community-based AIDS service organizations in the United States. The mission of the Foundation is to end the AIDS pandemic and the human suffering caused by HIV. The Foundation is a major resource center that educates the public about how to prevent the transmission of HIV, helps individuals make informed choices about AIDS-related concerns and protects the human rights of those affected by HIV. The Foundation provides necessary client services for residents of San Francisco who are affected by HIV, and assists other organizations achieve related goals.</p>
+<p>In April 1982, a group of GLBT community leaders, activists and physicians, including Marcus Conant, M.D. and Cleve Jones, founded the Kaposi's Sarcoma Research and Education Foundation (KS Foundation). Their goal was to educate the public about the new illness that was reaching epidemic proportions in the gay community and causing fear among gay men. Initially, the KS Foundation was a volunteer-operated, single telephone information and referral hotline located in a tiny back room at 520 Castro Street. By the fall of 1982 it had moved into a small suite at 512 Castro and was becoming nationally recognized for its up-to-date information about AIDS. The KS Foundation obtained its first contracts for educational services with the San Francisco Department of Public Health and the state of California in late 1982 and early 1983. In 1983, the KS Foundation produced its first educational materials and held many community forums.</p>
+<p>As its reputation grew, an attempt was made to expand the local KS Foundation into a national organization. It was reorganized as the AIDS/KS Foundation, Inc., with Phil Conway as National Director. Chapters formed in Sacramento, Los Angeles and San Francisco. Rick Crane served as Director of the San Francisco branch. When the national organization faltered, the three California chapters split off. The San Francisco office, which expanded to 8 paid staff and moved to larger offices on 10th street in October of 1983, served 1,500 individuals and answered nearly 6,500 calls in 1983.</p>
+<p>That same year, a holiday food drive generated a new service, a food bank for people with AIDS (PWAs). Cary Norsworthy became the Food Bank's first coordinator. A year later, Norsworthy and the Foundation's food bank organized a Thanksgiving Dinner for PWAs at the Valencia Rose, a gay-owned cabaret. This became an annual event. In 1990, the Foundation partnered with Project Open Hand to deliver food to people with AIDS. After a year of joint operation, in July 1991, Project Open Hand assumed sole administration of the AIDS Food Bank.</p>
+<p>The Foundation's Client Services Department was also founded in 1983. The Department provides health counseling, support groups, housing, client advocacy and referrals to people with HIV/AIDS. Specially focused services exist, or have existed, for women, people of color and non-English speakers. Steve Pratt, the first head of Client Services, started in 1983 and left the next year. Tristano Palermino succeeded, him, serving from 1984 to1986. In 1984, the Department served over 500 people; by the next year, its clientele had tripled. Hank Tavera headed Client Services from 1986 through 1989. He also served as co-chair of the Third World AIDS Advisory Task Force during much of this same period. Michael Lee replaced Tavera as Client Services Director in 1990, and Catherine Maier was coordinator of Women's Services during the late1980s and early 1990s.</p>
+<p>In early 1984, the AIDS/KS Foundation became the San Francisco AIDS Foundation and Jim Ferrels replaced Crane as director.  That same year, the Foundation's Education Department produced its first training video and safe sex poster and launched its initial media campaign on AIDS awareness and prevention. The first head of the Foundation's Education Department was Mitch Bart. Lyn Paleo replaced Bart and headed the department for a few years, along with long-time staff member, Chuck Frutchey. In the early days of the Foundation, Paleo ran the state-funded Northern California Program (often referred to as NorCal). Starting in 1984, she and her staff traveled throughout the region to give workshops and encourage the development of AIDS services at the local level. As more local agencies opened, the need for the regional outreach diminished, and the NorCal project ended in 1987. Paleo left the Foundatoin around 1988, and Frutchey was named Director of Education, a position he retained until his retirement in 1994. Among all his other duties, Frutchey served as the unofficial historian of the Foundation. He repeatedly rescued and protected Foundation materials; it is because of his diligence that many of the records in this collection have survived.</p>
+<p>In 1985, the growing Foundation moved to more spacious offices at 333 Valencia Street. That same year, Jim Ferrels resigned, and Tim Wolfred replaced him as executive director. Wolfred managed the Foundation for five years, and the agency and its programs grew rapidly. In 1987, needing more space, the Foundation's administrative offices moved again, to 25 Van Ness Avenue. In 1988, as the epidemic began to spread at an alarming rate amongst people of color and women, the Foundation responded by developing the Bilingual Multicultural Program and the Women's Services Program. These programs offered case management, benefits counseling and support groups, among other services.</p>
+<p>In 1989, a funding crisis resulted in extensive cutbacks in staff and programs. After guiding the Foundation through this difficult financial period, Wolfred stepped down as executive director that same year. Pat Christen, who began as an assistant in the education department and later moved up to Director of Public Policy, became the Foundation's fourth executive director.  In 1990 all the Foundation's programs were moved from Valencia Street to the Van Ness Avenue location in order to consolidate services. The organization moved several more times in the Nineties to accommodate its growth and increase its efficiency. By late 1995, the entire agency had relocated to 10 U.N. Plaza.</p>
+<p>In 1994, the Foundation began its collaborations with the UC-San Francisco's AIDS Health Project and Shanti and started the Housing Subsidy Program, which provided rental assistance to PWAs in the expensive San Francisco rental market. 1996 was a busy year for the Foundation. The Treatment Education and Advocacy Department fought for fast-track approval and price reductions of new HIV treatments; the Foundation's HIV Prevention Project, the largest needle exchange program in the country, exchanged 2,000 needles; and Foundation outreach workers distributed more than 600,000 condoms through community outreach. </p>
+<p>In 1997, the Foundation started several new campaigns and services, including an HIV prevention/harm reduction program for hundreds of homeless youth and one-on-one consultations regarding treatment regimens. The latter included social programs for women and forums on how to manage complex new HIV treatment regimens. A year later, the organization created a HIV Services and Treatment Support Department and developed a new prevention program called "Gay Life," which took a holistic approach to prevention. This was the first program of its kind in the nation. The Foundation also moved to a new location on Market Street and consolidated all of its programs and services.</p>
+<p>In 2001, in an attempt to address the needs of the nearly 40 million people living with HIV worldwide, the Foundation created an organization to address the global pandemic, the Pangaea Global AIDS Foundation. Over the next few years, the Pangaea Foundation would collaborate with the William J. Clinton Foundation and several African governments to expand access and treatment to care for people with HIV. In 2002, the San Francisco AIDS Foundation was forced to lay off staff to try to close a 2.5 million budget gap. Despite these financial struggles, the Foundation staff ensured that client services remained operational. </p>
+<p>In 2004, Executive Director Pat Christen resigned after 18 years of leadership.  A year later, Mark Cloutier became the Foundation's fifth executive director. In 2006, in response to the rising use of crystal meth, the Foundation implemented another innovative harm reduction program, the peer-based Speed Project. </p>
+<p>The Foundation continues to educate the public about HIV/AIDS.  It has used three main strategies to promote education. The first, the AIDS Hotline, was a de facto operation from the day the telephone was connected in the Castro office in 1983. Over the years, its services have been used by hundreds of thousands of callers (in 1992 alone, the hotline answered over 100,000 calls, a remarkable feat for a completely volunteer-staffed service). In addition to English, the hotline offers services in Spanish and Tagalog.</p>
+<p>The second strategy employed by the Education Department is community outreach through forums, workshops and other events. The third strategy uses individual educational campaigns that highligh a particular message or target a specific group. In addition to targeting specific groups, such as intravenous drug users, young gay men or African American women, the Foundation also uses educational and media campaigns designed to dispel the myth that AIDS only strikes white gay men. </p>
+<p>The Foundation's educational outreach materials have included safe sex posters, pamphlets, videotapes and a coloring book. The Education Department has also sponsored two publications. The first, Bulletin of Experimental Treatments for AIDS (BETA), a technical journal focused on AIDS treatments, premiered in 1988. As of 2006, BETA was still an important source of information on new treatments and therapies for HIV disease. The second publication, Positive News, a general educational newsletter, debuted in English, Spanish, Filipino (Tagalog) and Chinese in 1991. </p>
+<p>Other important offices at the Foundation include Media Services and Public Policy. The former was eventually subsumed under the latter, which serves as the advocacy arm of the Foundation. It performs research and development for the local, state, and federal government and private sectors, lobbies legislative bodies, fights discrimination against HIV positive people, holds forums, issues press releases and responds to media requests.</p>
+<p>This organizational history was largely taken from two sources: the Finding Aid to the San Francisco AIDS Foundation (SFAF) Records, 1982-1995, MSS 94-60 at the University of California, San Francisco, and "25 Years of an Epidemic: Milestones in the Battle Against Aids," accessed through the Online Archive of California and the San Francisco AIDS Foundation's website, August 18, 2007.</p>
+</bioghist>
+
+<scopecontent id="scopecontent-1.3.7">
+<head>Scope and Content of Collection</head>
+<p>This collection contains material documenting the activities of SFAF from 1983-2006.  The majority of the records in the collection document the work of SFAF as an advocate for people with HIV/AIDS.  Types of materials in the collection include correspondence, news releases, event programs, clippings, newsletters, research reports, and photographs.  </p>
+<p>The second largest bulk of material in the collection is related to advocacy.  Material includes records related to efforts to establish a sanctioned needle exchange program in San Francisco, as well as a large group of position statement letters to politicians stating SFAF's support or opposition to proposed legislation on a wide range of HIV-related issues.  Also documented are SFAF efforts to provide national and local reporters with expert information about HIV-related issues through their Media Relations department.  </p>
+<p>A large portion of the collection is made up of newsletters created by most of the major departments of SFAF, including an all staff newsletter.  However, most of the newsletters in this collection are incomplete runs.  Since publication of the smaller newsletters was sometimes irregular, it is unclear when some might have actually started or stopped.  The largest part of the collection is comprised of published and unpublished monographs created by most of the major departments of SFAF.  Also included are research papers written by individuals outside of SFAF.  Particular monographs of interest are early SFAF brochures.</p>
+<p>Material related to SFAF's Education Department is relatively small.  However, SFAF's goal to reach at risk groups and its use of focus groups to refine campaigns is documented.  There are also images from some campaigns.  Material related to the administration of SFAF is also relatively small, but the collection does include some financial records and a small amount of correspondence from early executive directors, including Rick Crane.</p>
+<p>The collection includes a large number of photographs taken by young gay and bisexual men in San Francisco in 1995 for a publication called sumt'n ta say/behind our backs.  Most of the photographers are identified, although their subjects are not.  All photographs submitted, not just those used in the final publication, are in the collection.  There are also photographs from ad campaigns and other events.  The collection includes all of the negatives to the  sumt'n ta say/behind our backs photographs.  One item of note is a set of negatives from a Rubber Men event in the 1980s.  The collection includes slides and posters that have not been identified.</p>
+</scopecontent>
+<arrangement id="arrangement-1.3.8">
+<head>Arrangement</head>
+<p>This collection is arranged in 10 series:</p>
+<list type="simple">
+<item>Series 1. Advocacy</item>
+<item>Series 2. Media Relations</item>
+<item>Series 3. Newsletters</item>
+<item>Series 4. Monographs</item>
+<item>Series 5. Education</item>
+<item>Series 6. Administration</item>
+<item>Series 7. Photographs</item>
+<item>Series 8. Negatives</item>
+<item>Series 9. Slides</item>
+<item>Series 10. Posters</item>
+<item>Series 11. Miscellaneous</item>
+</list>
+<p>Unless otherwise noted in the series and subseries descriptions, the arrangement of the collection was imposed during processing.  Dates are inclusive.</p>
+</arrangement>
+<controlaccess id="controlaccess-1.3.9">
+<head>Indexing Terms</head>
+<corpname source="lcnaf" rules="aacr">San Francisco AIDS Foundation</corpname>
+<subject source="lcsh" rules="lcsh">AIDS (Disease) Prevention</subject>
+<subject source="lcsh" rules="lcsh">AIDS (Disease) California San Francisco</subject>
+<subject source="lcsh" rules="lcsh">AIDS (Disease) Government policy United States</subject>
+<subject source="lcsh" rules="lcsh">Community Foundations</subject>
+</controlaccess>
+<relatedmaterial id="relatedmaterial-1.3.10">
+<head>Related Material</head>
+<p>Shanti Records, 2006-06, Gay, Lesbian, Bisexual, Transgender Historical Society, San Francisco, California</p>
+<p>San Francisco AIDS Foundation (SFAF) Records, MSS 94-60, UCSF Library and Center for Knowledge Management, Archives and Special Collections, University of California, San Francisco</p>
+</relatedmaterial>
+<dsc type="combined" id="dsc-1.3.11" score="1" C-ORDER="1" MAX-C-ORDER="292"> 
+<head>Collection Contents</head> 
+<c01 level="series" id="c01-1.3.11.2" score="2" C-ORDER="2"> 
+<did> 
+<unitid>Series 1</unitid>
+<unittitle>Advocacy</unittitle> 
+<unitdate type="inclusive" normal="1987/2001">1987-2001</unitdate> 
+<physdesc><extent>62 folders</extent></physdesc> 
+</did> 
+<scopecontent>
+<head>Series Description</head>
+<p>This series documents SFAF's advocacy efforts at all levels of government to influence change in HIV-related public policy. Types of material in this series include proposed legislation, research reports, correspondence and conference manuals.</p> 
+</scopecontent>
+<c02 level="subseries" id="c02-1.3.11.2.3" score="2" C-ORDER="4">  
+<did>  
+<unittitle>Subseries 1.1, Needle Exchange Program</unittitle> 
+<unitdate type="inclusive" normal="1989/1999">1989-1999</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries contains records related to early efforts to develop, design and help implement  needle exchange as part of a community-based, comprehensive program of HIV prevention for  intravenous drug users.  The bulk of the records were created by the Needle Exchange  Community Task Force (NECTF), which began meeting in March of 1989. Ken Jones (policy  and communications associate, 1989-1990-?) was the representative from SFAF on the NECTF.   Folders 3-9 of this subseries were maintained by Jones and provide a wealth of information on  the earliest efforts to establish a sanctioned needle exchange program in San Francisco.  These  folders have been left in their original order.  Equally represented throughout this subseries is  SFAF's involvement in revising needle exchange legislation at the local, state and federal levels.  Included in this subseries are records created by and about Prevention Point, San  Francisco's unsanctioned needle exchange program.  These include invitations to "The Golden  Bleachies," a benefit for Prevention Point, and a copy of the keynote speech given by Senator  Diane Watson.  In 1993 SFAF began its HIV Prevention Project providing street-based needle  exchange services to injection drug users as a method of combating the spread of HIV infection,  and staffed by volunteers from Prevention Point.  This subseries also contains a large amount of  research prepared by an outside group on federal needle exchange issues, a large amount of  information on needle exchange programs outside of San Francisco, NECTF meeting minutes,  and proposed legislation. One item of note is a copy of Mayor Art Agnos's "Mayor's HIV Task  Force on Clean Needle Exchange" with letters of endorsement, from 1989.  This subseries is  arranged chronologically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.2.3.3" score="1" C-ORDER="6">  
+<did>  
+<unittitle>"Needle Exchange Community Task Force"</unittitle> 
+<unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate> 
+<container>Box 1: 1 - 7</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.3.4" score="1" C-ORDER="7">  
+<did>  
+<unittitle>Assembly Bill 2525 and Senate Bill 1418</unittitle> 
+<unitdate type="inclusive" normal="1989/1992">1989-1992</unitdate> 
+<container>Box 1: 8 - 9</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.3.5" score="1" C-ORDER="8">  
+<did>  
+<unittitle>Miscellaneous needle exchange documents</unittitle> 
+<unitdate type="inclusive" normal="1989/1992">1989-1992</unitdate> 
+<container>Box 1: 10</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.3.6" score="1" C-ORDER="9">  
+<did>  
+<unittitle>"Policy and program development" (binder)</unittitle> 
+<unitdate type="inclusive" normal="1989">1989</unitdate> 
+<container>Box 1: 11 - 12</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.3.7" score="1" C-ORDER="10">  
+<did>  
+<unittitle>"Needle Exchange Community Task Force, subcommittees"</unittitle> 
+<unitdate type="inclusive" normal="1989">1989</unitdate> 
+<container>Box 1: 13</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.3.8" score="1" C-ORDER="11">  
+<did>  
+<unittitle>Needle exchange editorial campaign</unittitle> 
+<unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate> 
+<container>Box 1: 14</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.3.9" score="1" C-ORDER="12">  
+<did>  
+<unittitle>Other needle exchange programs, research</unittitle> 
+<unitdate type="inclusive" normal="1990">circa 1990</unitdate> 
+<container>Box 1: 15</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.3.10" score="1" C-ORDER="13">  
+<did>  
+<unittitle>California law re needle/syringe exchange</unittitle> 
+<unitdate type="inclusive" normal="1991">1991</unitdate> 
+<container>Box 1: 16</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.3.11" score="1" C-ORDER="14">  
+<did>  
+<unittitle>Assembly Bill 2525 and Senate Bill 1418</unittitle> 
+<unitdate type="inclusive" normal="1992">1992</unitdate> 
+<container>Box 1: 17 - 18</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.3.12" score="1" C-ORDER="15">  
+<did>  
+<unittitle>Assembly Bill 2525 and Senate Bill 1418, supporters</unittitle> 
+<unitdate type="inclusive" normal="1992">1992</unitdate> 
+<container>Box 1: 19</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.3.13" score="1" C-ORDER="16">  
+<did>  
+<unittitle>Senate Bill 885</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 1: 20</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.3.14" score="1" C-ORDER="17">  
+<did>  
+<unittitle>Research prepared for SFAF by the Sheridan Group</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 1: 21 - 27</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.3.15" score="1" C-ORDER="18">  
+<did>  
+<unittitle>Assembly Bill 136 information packet</unittitle> 
+<unitdate type="inclusive" normal="1999">1999</unitdate> 
+<container>Box 1: 28</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.2.4" score="2" C-ORDER="19">  
+<did>  
+<unittitle>Subseries 1.2 Position Statements</unittitle> 
+<unitdate type="inclusive" normal="1990/2001">1990-2001</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries documents SFAF's local, state, and federal public policy initiatives.  It is evidence of SFAF's advocacy efforts to secure funding for HIV care, treatment, housing, prevention and research programs, broadened access to medical care, and to protecting the rights of people living with HIV.  This subseries primarily contains letters in support or opposition to legislative issues.  Included are letters to senators, assembly members, organizations, boards of trustees, governors of California, and Presidents of the United States.  Also included are news releases and other correspondence related to the issues and some background material, such as research reports and newspaper clippings.  This subseries is arranged alphabetically by topic.  Topics were imposed during processing.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.2.4.3" score="1" C-ORDER="21">  
+<did>  
+<unittitle>AIDS Czar</unittitle> 
+<unitdate type="inclusive" normal="1994">1994</unitdate> 
+<container>Box 1: 29</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.4" score="1" C-ORDER="22">  
+<did>  
+<unittitle>Assisted suicide</unittitle> 
+<unitdate type="inclusive" normal="1996">1996</unitdate> 
+<container>Box 1: 30</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.5" score="1" C-ORDER="23">  
+<did>  
+<unittitle>Community planning</unittitle> 
+<unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate> 
+<container>Box 1: 31</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.6" score="1" C-ORDER="24">  
+<did>  
+<unittitle>Discrimination</unittitle> 
+<unitdate type="inclusive" normal="1994/2000">1994-2000</unitdate> 
+<container>Box 1: 32</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.7" score="1" C-ORDER="25">  
+<did>  
+<unittitle>Elders, Jocelyn-firing</unittitle> 
+<unitdate type="inclusive" normal="1994">circa 1994</unitdate> 
+<container>Box 1: 33</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.8" score="1" C-ORDER="26">  
+<did>  
+<unittitle>Funding/Reauthorization of Ryan White CARE Act</unittitle> 
+<unitdate type="inclusive" normal="1993/2000">1993-2000</unitdate> 
+<container>Box 1: 34</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.9" score="1" C-ORDER="27">  
+<did>  
+<unittitle>HIV surveillance and reporting</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 1: 35</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.10" score="1" C-ORDER="28">  
+<did>  
+<unittitle>HIV testing and reporting</unittitle> 
+<unitdate type="inclusive" normal="1990/2000">1990-2000</unitdate> 
+<container>Box 1: 36</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.11" score="1" C-ORDER="29">  
+<did>  
+<unittitle>Immigrants and HIV</unittitle> 
+<unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate> 
+<container>Box 1: 37</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.12" score="1" C-ORDER="30">  
+<did>  
+<unittitle>Insurance, health</unittitle> 
+<unitdate type="inclusive" normal="1990/2000">1990-2000</unitdate> 
+<container>Box 1: 38</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.13" score="1" C-ORDER="31">  
+<did>  
+<unittitle>Insurance, life</unittitle> 
+<unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate> 
+<container>Box 1: 39</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.14" score="1" C-ORDER="32">  
+<did>  
+<unittitle>Medicaid/Medi-Cal</unittitle> 
+<unitdate type="inclusive" normal="1995/1998">1995-1998</unitdate> 
+<container>Box 1: 40</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.15" score="1" C-ORDER="33">  
+<did>  
+<unittitle>Needle exchange</unittitle> 
+<unitdate type="inclusive" normal="1992/1997">1992-1997</unitdate> 
+<container>Box 1: 41</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.16" score="1" C-ORDER="34">  
+<did>  
+<unittitle>Oral sex</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 1: 42</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.17" score="1" C-ORDER="35">  
+<did>  
+<unittitle>Prisoners with AIDS</unittitle> 
+<unitdate type="inclusive" normal="1995/1997">1995-1997</unitdate> 
+<container>Box 1: 43</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.18" score="1" C-ORDER="36">  
+<did>  
+<unittitle>Sex education</unittitle> 
+<unitdate type="inclusive" normal="1994/1997">1994-1997</unitdate> 
+<container>Box 1: 44</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.19" score="1" C-ORDER="37">  
+<did>  
+<unittitle>Social Security</unittitle> 
+<unitdate type="inclusive" normal="1994">1994</unitdate> 
+<container>Box 1: 45</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.20" score="1" C-ORDER="38">  
+<did>  
+<unittitle>Social services</unittitle> 
+<unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate> 
+<container>Box 1: 46</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.21" score="1" C-ORDER="39">  
+<did>  
+<unittitle>State legislation</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 1: 47</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.22" score="1" C-ORDER="40">  
+<did>  
+<unittitle>Treatment</unittitle> 
+<unitdate type="inclusive" normal="1994/1997">1994-1997</unitdate> 
+<container>Box 1: 48</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.23" score="1" C-ORDER="41">  
+<did>  
+<unittitle>Women</unittitle> 
+<unitdate type="inclusive" normal="1994">1994</unitdate> 
+<container>Box 1: 49</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.4.24" score="1" C-ORDER="42">  
+<did>  
+<unittitle>Worker's rights</unittitle> 
+<unitdate type="inclusive" normal="1997/2000">1997-2000</unitdate> 
+<container>Box 1: 50</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.2.5" score="2" C-ORDER="43">  
+<did>  
+<unittitle>Subseries 1.3 General Advocacy</unittitle> 
+<unitdate type="inclusive" normal="1987/2001">1987-2001</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries contains miscellaneous records that reflect SFAF's advocacy efforts.  This subseries is arranged chronologically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.2.5.3" score="1" C-ORDER="45">  
+<did>  
+<unittitle>Client Services benefit information</unittitle> 
+<unitdate type="inclusive" normal="1987/1991">1987-1991</unitdate> 
+<container>Box 2: 1</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.5.4" score="1" C-ORDER="46">  
+<did>  
+<unittitle>Ryan White Comprehensive AIDS Resources Emergency (CARE) Act of 1990 (copy)</unittitle> 
+<unitdate type="inclusive" normal="1990">1990</unitdate> 
+<container>Box 2: 2</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.5.5" score="1" C-ORDER="47">  
+<did>  
+<unittitle>HIV Monthly National Radio Broadcast-"Privacy and HIV" (cassette tape)</unittitle> 
+<unitdate type="inclusive" normal="19920705">July 5, 1992</unitdate> 
+<container>Box 9</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.5.6" score="1" C-ORDER="48">  
+<did>  
+<unittitle>Minutes: public policy roundtable</unittitle> 
+<unitdate type="inclusive" normal="1993">1993</unitdate> 
+<container>Box 2: 3</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.5.7" score="1" C-ORDER="49">  
+<did>  
+<unittitle>Vote to end AIDS: The Northern California races, SFAF (Binder)</unittitle> 
+<unitdate type="inclusive" normal="1996">1996</unitdate> 
+<container>Box 2: 4 - 5</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.5.8" score="1" C-ORDER="50">  
+<did>  
+<unittitle>Grassroots Advocacy Conference, SFAF (Binder)</unittitle> 
+<unitdate type="inclusive" normal="1998">1998</unitdate> 
+<container>Box 2: 6 - 7</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.5.9" score="1" C-ORDER="51">  
+<did>  
+<unittitle>Policy Position Paper: Ryan White Care Act reauthorization, Cities Advocating Emergency Relief Coalition</unittitle> 
+<unitdate type="inclusive" normal="1999">1999</unitdate> 
+<container>Box 2: 8</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.5.10" score="1" C-ORDER="52">  
+<did>  
+<unittitle>HIV Advocacy Network Conference, SFAF</unittitle> 
+<unitdate type="inclusive" normal="2000">2000</unitdate> 
+<container>Box 2: 9</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.5.11" score="1" C-ORDER="53">  
+<did>  
+<unittitle>Policy recommendations to Governor Gray Davis, SFAF</unittitle> 
+<unitdate type="inclusive" normal="2001">2001</unitdate> 
+<container>Box 2: 10</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.5.12" score="1" C-ORDER="54">  
+<did>  
+<unittitle>Policy recommendations to President Bush, SFAF</unittitle> 
+<unitdate type="inclusive" normal="2001">2001</unitdate> 
+<container>Box 2: 11</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.2.5.13" score="1" C-ORDER="55">  
+<did>  
+<unittitle>AIDS discrimination reporting project, blank questionnaire</unittitle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container>Box 2: 12</container> 
+</did> 
+</c03>
+</c02>
+</c01>
+<c01 level="series" id="c01-1.3.11.3" score="2" C-ORDER="56"> 
+<did> 
+<unitid>Series 2</unitid>
+<unittitle>Media Relations</unittitle> 
+<unitdate type="inclusive" normal="1986/2002">1986-2002</unitdate> 
+<physdesc><extent>32 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series has been maintained in its original order.  This series documents SFAF's Media Relations department.  Media 
+Relations worked to ensure accurate coverage of HIV issues in the media and to disseminate complete, clear and correct HIV 
+information.  The media relations staff worked with local and national reporters to provide the media with a diversity of expert opinion about HIV-related issues.  This series primarily contains information related to the unveiling of educational ad campaigns and fundraising events, however, some HIV-related issues are represented.   The most comprehensively documented campaign in this series is "Be here for the Cure II" featuring the photography of Annie Liebowitz.  Items of note include planning documents and biographies of the individuals featured in the campaign.  Also see information related to ad campaigns in the Photography and Education series.  Types of material in this series primarily include press releases, but also include talking points, radio public service announcements, some promotional material, campaign descriptions/overviews, clippings and correspondence.  This series is arranged chronologically.</p> 
+</scopecontent>
+<c02 level="item" id="c02-1.3.11.3.3" score="1" C-ORDER="58">  
+<did>  
+<unittitle>"You can't see AIDS. Use condoms"</unittitle> 
+<unitdate type="inclusive" normal="1987">1987</unitdate> 
+<container>Box 2: 14</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.4" score="1" C-ORDER="59">  
+<did>  
+<unittitle>"Bleachman"</unittitle> 
+<unitdate type="inclusive" normal="1988">1988</unitdate> 
+<container>Box 2: 15</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.5" score="1" C-ORDER="60">  
+<did>  
+<unittitle>"Sex is Good" [US Marines v. SFAF]</unittitle> 
+<unitdate type="inclusive" normal="1992">1992</unitdate> 
+<container>Box 2: 16</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.6" score="1" C-ORDER="61">  
+<did>  
+<unittitle>"Be here for the Cure" I</unittitle> 
+<unitdate type="inclusive" normal="1992">1992</unitdate> 
+<container>Box 2: 17</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.7" score="1" C-ORDER="62">  
+<did>  
+<unittitle>"Be here for the Cure II"</unittitle> 
+<unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate> 
+<container>Box 2: 18-19</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.8" score="1" C-ORDER="63">  
+<did>  
+<unittitle>"Policy: CA Bay Area" [needle exchange]</unittitle> 
+<unitdate type="inclusive" normal="1992/1994">1992-1994</unitdate> 
+<container>Box 2: 20</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.9" score="1" C-ORDER="64">  
+<did>  
+<unittitle>"Sex club and bathhouse educator's network"</unittitle> 
+<unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate> 
+<container>Box 2: 21</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.10" score="1" C-ORDER="65">  
+<did>  
+<unittitle>AIDS Dance-a-Thon</unittitle> 
+<unitdate type="inclusive" normal="1993/1997">1993-1997</unitdate> 
+<container>Box 2: 22</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.11" score="1" C-ORDER="66">  
+<did>  
+<unittitle>"No Condom No Date"</unittitle> 
+<unitdate type="inclusive" normal="1993">1993</unitdate> 
+<container>Box 2: 23</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.12" score="1" C-ORDER="67">  
+<did>  
+<unittitle>Classical Action media coverage</unittitle> 
+<unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate> 
+<container>Box 2: 24</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.13" score="1" C-ORDER="68">  
+<did>  
+<unittitle>"Bathroom Ads"</unittitle> 
+<unitdate type="inclusive" normal="1994">1994</unitdate> 
+<container>Box 2: 25</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.14" score="1" C-ORDER="69">  
+<did>  
+<unittitle>Health care reform</unittitle> 
+<unitdate type="inclusive" normal="1994">1994</unitdate> 
+<container>Box 2: 26</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.15" score="1" C-ORDER="70">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs"</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 2: 27</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.16" score="1" C-ORDER="71">  
+<did>  
+<unittitle>"Condom Mirandas"</unittitle> 
+<unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate> 
+<container>Box 2: 28</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.17" score="1" C-ORDER="72">  
+<did>  
+<unittitle>AIDS Walk San Francisco 1996</unittitle> 
+<unitdate type="inclusive" normal="1996">1996</unitdate> 
+<container>Box 2: 29</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.18" score="1" C-ORDER="73">  
+<did>  
+<unittitle>AIDS Walk San Francisco 1996, clippings</unittitle> 
+<unitdate type="inclusive" normal="1996">1996</unitdate> 
+<container>Box 2: 30</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.19" score="1" C-ORDER="74">  
+<did>  
+<unittitle>California AIDS Ride 3</unittitle> 
+<unitdate type="inclusive" normal="1996">1996</unitdate> 
+<container>Box 2: 31</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.20" score="1" C-ORDER="75">  
+<did>  
+<unittitle>Leadership recognition dinner</unittitle> 
+<unitdate type="inclusive" normal="1996">1996</unitdate> 
+<container>Box 2: 32</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.21" score="1" C-ORDER="76">  
+<did>  
+<unittitle>"Black Brothers Esteem"</unittitle> 
+<unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate> 
+<container>Box 2: 33</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.22" score="1" C-ORDER="77">  
+<did>  
+<unittitle>"HIV Prevention Project, studies"</unittitle> 
+<unitdate type="inclusive" normal="1997/1999">1997-1999</unitdate> 
+<container>Box 2: 34</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.23" score="1" C-ORDER="78">  
+<did>  
+<unittitle>"Begin a Dialog"</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 2: 35</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.24" score="1" C-ORDER="79">  
+<did>  
+<unittitle>"Bartlett fashion presentation</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 2: 36</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.25" score="1" C-ORDER="80">  
+<did>  
+<unittitle>AIDS Walk San Francisco 1997</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 2: 37</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.26" score="1" C-ORDER="81">  
+<did>  
+<unittitle>California AIDS Ride 4</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 2: 38</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.27" score="1" C-ORDER="82">  
+<did>  
+<unittitle>"Gay Life"</unittitle> 
+<unitdate type="inclusive" normal="1998">1998</unitdate> 
+<container>Box 2: 39</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.28" score="1" C-ORDER="83">  
+<did>  
+<unittitle>California AIDS Ride 6: executive book</unittitle> 
+<unitdate type="inclusive" normal="1999">1999</unitdate> 
+<container>Box 2: 40</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.29" score="1" C-ORDER="84">  
+<did>  
+<unittitle>AIDS Walk San Francisco 2000</unittitle> 
+<unitdate type="inclusive" normal="2000">2000</unitdate> 
+<container>Box 2: 41</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.30" score="1" C-ORDER="85">  
+<did>  
+<unittitle>AIDS Walk San Francisco 2001</unittitle> 
+<unitdate type="inclusive" normal="2001">2001</unitdate> 
+<container>Box 2: 42</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.31" score="1" C-ORDER="86">  
+<did>  
+<unittitle>AIDS Walk San Francisco 2001, clippings</unittitle> 
+<unitdate type="inclusive" normal="2001">2001</unitdate> 
+<container>Box 2: 43</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.3.32" score="1" C-ORDER="87">  
+<did>  
+<unittitle>AIDS Walk San Francisco 2002</unittitle> 
+<unitdate type="inclusive" normal="2002">2002</unitdate> 
+<container>Box 2: 44</container> 
+</did> 
+</c02>
+</c01>
+<c01 level="series" id="c01-1.3.11.4" score="2" C-ORDER="88"> 
+<did> 
+<unitid>Series 3</unitid>
+<unittitle>Newsletters</unittitle> 
+<unitdate type="inclusive" normal="1983/2005">1983-2005</unitdate> 
+<physdesc><extent>50 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This series contains newsletters created by various departments of SFAF throughout its history.  The most comprehensive runs of newsletters are BETA and Positive News (English version) in the Education subseries.  Of particular interest to researchers might be the very early newsletters in the General News and Publicity subseries.</p> 
+</scopecontent>
+<c02 level="subseries" id="c02-1.3.11.4.3" score="2" C-ORDER="90">  
+<did>  
+<unittitle>Subseries 3.1 General News and Publicity</unittitle> 
+<unitdate type="inclusive" normal="1983/2005">1983-2005</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries contains the earliest newsletter in the collection from the period when SFAF was  still the AIDS/KS Foundation, Inc.  Although not complete runs, they do provide valuable  information about the climate at the time. This subseries is arranged alphabetically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.4.3.3" score="1" C-ORDER="92">  
+<did>  
+<unittitle>Advance: The Monthly Bulleting of SFAF</unittitle> 
+<unitdate type="inclusive" normal="199012/199207">Dec. 1990-July 1992</unitdate> 
+<container>Box 3: 1 - 2</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.3.4" score="1" C-ORDER="93">  
+<did>  
+<unittitle>AIDS and KS Foundation Newsletter</unittitle> 
+<unitdate type="inclusive" normal="198305/198306">May 1983-June 1983</unitdate> 
+<container>Box 10</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.3.5" score="1" C-ORDER="94">  
+<did>  
+<unittitle>Can WeTalk? (1 issue)</unittitle> 
+<unitdate type="inclusive" normal="198402">Feb. 1984</unitdate> 
+<container>Box 3: 3</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.3.6" score="1" C-ORDER="95">  
+<did>  
+<unittitle>OUTReach: News you can Use to Fight HIV/AIDS</unittitle> 
+<unitdate type="inclusive" normal="199704/200510">Apr. 1997-Oct. 2005</unitdate> 
+<container>Box 10</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.3.7" score="1" C-ORDER="96">  
+<did>  
+<unittitle>Report to the Community</unittitle> 
+<unitdate type="inclusive" normal="198312">Dec. 1983</unitdate> 
+<unitdate type="inclusive" normal="198412">Dec. 1984</unitdate> 
+<container>Box 10</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.4.4" score="2" C-ORDER="97">  
+<did>  
+<unittitle>Subseries 3.2, Board of Directors</unittitle> 
+<unitdate type="inclusive" normal="1985/1998">1985-1998</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>The newsletters in this subseries were targeted at major donors. This subseries is arranged alphabetically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.4.4.3" score="1" C-ORDER="99">  
+<did>  
+<unittitle>Impetus (later called SFAF News)</unittitle> 
+<unitdate type="inclusive" normal="1986/1993">Summer 1986-Winter 1993</unitdate> 
+<container>Box 3: 4 - 5</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.4.4" score="1" C-ORDER="100">  
+<did>  
+<unittitle>SFAF News (formerly Impetus)</unittitle> 
+<unitdate type="inclusive" normal="1995/1998">Fall 1995-Summer 1998</unitdate> 
+<container>Box 3: 6 - 7</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.4.5" score="2" C-ORDER="101">  
+<did>  
+<unittitle>Subseries 3.3, Education</unittitle> 
+<unitdate type="inclusive" normal="1985/2005">1988-2005</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries documents SFAF's mission to create non-duplicative educational material. It also represents SFAF's outreach through its publication of Positive News in four languages. The newsletters in this subsereis primarily deal with HIV-health information. BETA is a technical/academic newsletter and Positive News is written for low literacy readers. This subseries is arranged alphabetically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.4.5.3" score="1" C-ORDER="103">  
+<did>  
+<unittitle>AIDS Educator Catalog</unittitle> 
+<unitdate type="inclusive" normal="1988">Fall 1988</unitdate> 
+<container>Box 3: 8</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.5.4" score="1" C-ORDER="104">  
+<did>  
+<unittitle>BETA Bulletin of Experimental Treatment for AIDS</unittitle> 
+<unitdate type="inclusive" normal="1988/2005">1988-2005</unitdate> 
+<container>Box 3: 9 - 25</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.5.5" score="1" C-ORDER="105">  
+<did>  
+<unittitle>BETA en Espanol</unittitle> 
+<unitdate type="inclusive" normal="1992/2005">1992-2005</unitdate> 
+<container>Box 3: 26 - 39</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.5.6" score="1" C-ORDER="106">  
+<did>  
+<unittitle>BETA Headline Treatment News</unittitle> 
+<unitdate type="inclusive" normal="1993/1998">1993-1998</unitdate> 
+<container>Box 3: 40</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.5.7" score="1" C-ORDER="107">  
+<did>  
+<unittitle>Monthly Listing of AIDS-Related Educational Events (1 issue)</unittitle> 
+<unitdate type="inclusive" normal="198811">Nov. 1988</unitdate> 
+<container>Box 4: 1</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.5.8" score="1" C-ORDER="108">  
+<did>  
+<unittitle>Noticias Positivas [Positive News in Spanish]</unittitle> 
+<unitdate type="inclusive" normal="1991/1999">Spring 1991-July 1999</unitdate> 
+<container>Box 10:</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.5.9" score="1" C-ORDER="109">  
+<did>  
+<unittitle>Positive News</unittitle> 
+<unitdate type="inclusive" normal="1991/1993">Spring 1991-Fall 1993</unitdate> 
+<container>Box 4: 2</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.5.10" score="1" C-ORDER="110">  
+<did>  
+<unittitle>Positive News</unittitle> 
+<unitdate type="inclusive" normal="199812/199907">Dec. 1998-July 1999</unitdate> 
+<container>Box 10:</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.5.11" score="1" C-ORDER="111">  
+<did>  
+<unittitle>Positive News [in Chinese]</unittitle> 
+<unitdate type="inclusive" normal="1991/1993">1991-1993</unitdate> 
+<container>Box 4: 3</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.5.12" score="1" C-ORDER="112">  
+<did>  
+<unittitle>Positively Pinoy [Positive News in Tagalog]</unittitle> 
+<unitdate type="inclusive" normal="1994">1994</unitdate> 
+<container>Box 10:</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.5.13" score="1" C-ORDER="113">  
+<did>  
+<unittitle>Treatment Information</unittitle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container>Box 4: 4</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.4.6" score="2" C-ORDER="114">  
+<did>  
+<unittitle>Subseries 3.4, People with AIDS Outreach</unittitle> 
+<unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>The newsletter in this subseries was a joint project with Shanti Project. It has an informal, upbeat style and provided information on workshops, taxes, social events, a classifieds section and other information for people with AIDS. This subseries is arranged alphabetically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.4.6.3" score="1" C-ORDER="116">  
+<did>  
+<unittitle>People with AIDS Update</unittitle> 
+<unitdate type="inclusive" normal="198602/198705">Feb. 1986-May 1987</unitdate> 
+<container>Box 4: 5</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.4.7" score="2" C-ORDER="117">  
+<did>  
+<unittitle>Subseries 3.5, Public Policy</unittitle> 
+<unitdate type="inclusive" normal="1994/1998">1994-1998</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries contains monthly newsletters focused on key HIV policy issues such as legislation and funding, state and federal HIV prevention reform efforts, the status of various federal health care reform initiatives, and specific information on how to get involved in advocacy efforts.  Also included with some issues are background articles and clippings pertaining to topics in that issue.  This subseries is arranged alphabetically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.4.7.3" score="1" C-ORDER="119">  
+<did>  
+<unittitle>HIV Policy Watch</unittitle> 
+<unitdate type="inclusive" normal="199406/199802">June 1994-Feb. 1998</unitdate> 
+<container>Box 4: 6 - 7</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.7.4" score="1" C-ORDER="120">  
+<did>  
+<unittitle>San Francisco HIV Policy Watch</unittitle> 
+<unitdate type="inclusive" normal="199607/199807">July 1996-July 1998</unitdate> 
+<container>Box 4: 8</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.4.8" score="2" C-ORDER="121">  
+<did>  
+<unittitle>Subseries 3.6 Staff</unittitle> 
+<unitdate type="inclusive" normal="1996/1999">1996-1999 </unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subsereis contains an all staff newsletter that was created to increase communication, and keep morale high. The focus of the newsletter is the staff. This subseries is arranged alphabetically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.4.8.3" score="1" C-ORDER="123">  
+<did>  
+<unittitle>The Loop</unittitle> 
+<unitdate type="inclusive" normal="199610/199902">Oct. 1996-Feb. 1999</unitdate> 
+<container>Box 4: 9</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.4.9" score="2" C-ORDER="124">  
+<did>  
+<unittitle>Subseries 3.7, Other Organization's</unittitle> 
+<unitdate type="inclusive" normal="1985/1999">1985-1999</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries contains newsletters published by individuals and organizations other than SFAF that were found in the collection. This subseries is arranged alphabetically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.4.9.3" score="1" C-ORDER="126">  
+<did>  
+<unittitle>AIDS Treatment News, John S. James (1issue)</unittitle> 
+<unitdate type="inclusive" normal="19890113">Jan. 13, 1989</unitdate> 
+<container>Box 4: 10</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.9.4" score="1" C-ORDER="127">  
+<did>  
+<unittitle>Coming UP! The Lesbian/Gay Community Calendar of Events and Newspaper for the Bay Area (1 issue)</unittitle> 
+<unitdate type="inclusive" normal="198512">Dec. 1985</unitdate> 
+<container>Box 10:</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.4.9.5" score="1" C-ORDER="128">  
+<did>  
+<unittitle>Mansex 101, Stop AIDS Project</unittitle> 
+<unitdate type="inclusive" normal="1999">Spring 1999</unitdate> 
+<container>Box 4: 11</container> 
+</did> 
+</c03>
+</c02>
+</c01>
+
+<c01 level="series" id="c01-1.3.11.5" score="2" C-ORDER="129"> 
+<did> 
+<unitid>Series 4</unitid>
+<unittitle>Monographs</unittitle> 
+<unitdate type="inclusive" normal="1984/2006">1984-2006</unitdate> 
+<physdesc><extent>90 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This series contains monographs primarily created by various departments of SFAF.  Included are research reports, papers, programs, brochures, and books.</p> 
+</scopecontent>
+<c02 level="subseries" id="c02-1.3.11.5.3" score="2" C-ORDER="131">  
+<did>  
+<unittitle>Subseries 4.1 Board of Directors</unittitle> 
+<unitdate type="inclusive" normal="1985/2004">1985-2004</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries provides general information about the activities and structure of SFAF.   Through these, one can see the 
+emergence, decline and merger of various departments.  This  subseries is arranged alphabetically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.5.3.3" score="1" C-ORDER="133">  
+<did>  
+<unittitle>Annual Report/Year in Review</unittitle> 
+<unitdate type="inclusive" normal="1985/2004">1985-2004</unitdate> 
+<container>Box 4: 12 - 21</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.5.4" score="2" C-ORDER="134">  
+<did>  
+<unittitle>Subseries 4.2, Client Services</unittitle> 
+<unitdate type="inclusive" normal="1984/2001">1984-2001</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries contains booklets and guides produced to help AIDS and ARC patients, friends, family and care-givers locate the proper medical, financial and emotional resources. They contain San Francisco resource listings in English and Spanish. This subseries is arranged alphabetically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.5.4.3" score="1" C-ORDER="136">  
+<did>  
+<unittitle>AIDS and ARC: A Resource Manual</unittitle> 
+<unitdate type="inclusive" normal="1988">1988</unitdate> 
+<container>Box 4: 22</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.4.4" score="1" C-ORDER="137">  
+<did>  
+<unittitle>AIDS Medical Guide</unittitle> 
+<unitdate type="inclusive" normal="1988">1988</unitdate> 
+<container>Box 4: 23</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.4.5" score="1" C-ORDER="138">  
+<did>  
+<unittitle>Client Services Handbook</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 4: 24</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.4.6" score="1" C-ORDER="139">  
+<did>  
+<unittitle>Coping with AIDS</unittitle> 
+<unitdate type="inclusive" normal="1984">1984</unitdate> 
+<container>Box 4: 25</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.4.7" score="1" C-ORDER="140">  
+<did>  
+<unittitle>The Family's Guide to AIDS</unittitle> 
+<unitdate type="inclusive" normal="1984">1984</unitdate> 
+<container>Box 4: 26</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.4.8" score="1" C-ORDER="141">  
+<did>  
+<unittitle>HIV Resource Guide (title varies)</unittitle> 
+<unitdate type="inclusive" normal="1988/1998">1988-1998</unitdate> 
+<container>Box 4: 27 - 31</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.4.9" score="1" C-ORDER="142">  
+<did>  
+<unittitle>HIV Resource Guide (English and Spanish)</unittitle> 
+<unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate> 
+<container>Box 4: 32</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.4.10" score="1" C-ORDER="143">  
+<did>  
+<unittitle>Manual de Ayuda al Cliente</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 4: 33</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.4.11" score="1" C-ORDER="144">  
+<did>  
+<unittitle>VIH: Guia de Recursos (title varies)</unittitle> 
+<unitdate type="inclusive" normal="1995/2001">1995-2001</unitdate> 
+<container>Box 4: 34 - 35</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.5.5" score="2" C-ORDER="145">  
+<did>  
+<unittitle>Subseries 4.3, Development</unittitle> 
+<unitdate type="inclusive" normal="1991/2006">1991-2006</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries primarily contains programs and event guides from SFAF fundraisers. Perhaps the most valuable sources of information in this subseries are programs from SFAF's annual Leadership Recognition Dinner. These could potentially be important because they contain lists of SFAF boards of directors, donors, corporate and foundation partners, previous honorees, some histories of the organization, and biographies of individual and corporate awardees.  One item of note is the 1996 Leadership Recognition Dinner program, which contains a copy of the speech given that year by Executive Director Pat Christensen. This subseries is arranged alphabetically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.5.5.3" score="1" C-ORDER="147">  
+<did>  
+<unittitle>AIDS Walk/Marathon Mailings</unittitle> 
+<unitdate type="inclusive" normal="2000/2005">2000-2005</unitdate> 
+<container>Box 4: 36</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.5.4" score="1" C-ORDER="148">  
+<did>  
+<unittitle>AIDS Walk San Francisco Event Guide</unittitle> 
+<unitdate type="inclusive" normal="1994/2002">1994-2002</unitdate> 
+<container>Box 4: 37 - 43</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.5.5" score="1" C-ORDER="149">  
+<did>  
+<unittitle>AIDS Walk San Francisco Event Guide</unittitle> 
+<unitdate type="inclusive" normal="2003/2006">2003-2006</unitdate> 
+<container>Box 10</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.5.6" score="1" C-ORDER="150">  
+<did>  
+<unittitle>California AIDS Ride 4</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 4: 44</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.5.7" score="1" C-ORDER="151">  
+<did>  
+<unittitle>California AIDS Ride 4 Rider Portfolio Packet</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 4: 45</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.5.8" score="1" C-ORDER="152">  
+<did>  
+<unittitle>Classical Action (title varies)</unittitle> 
+<unitdate type="inclusive" normal="1995/1998">1995-1998</unitdate> 
+<container>Box 4: 46</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.5.9" score="1" C-ORDER="153">  
+<did>  
+<unittitle>Leadership Recognition Dinner (invitation)</unittitle> 
+<unitdate type="inclusive" normal="1991">1991</unitdate> 
+<container>Box 5: 1</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.5.10" score="1" C-ORDER="154">  
+<did>  
+<unittitle>Leadership Recognition Dinner</unittitle> 
+<unitdate type="inclusive" normal="1992/2006">1992-2006</unitdate> 
+<container>Box 5: 2 - 16</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.5.6" score="2" C-ORDER="155">  
+<did>  
+<unittitle>Suberies 4.4, Education</unittitle> 
+<unitdate type="inclusive" normal="1986/2000">1986-2000</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries contains internal education reports as well as monographs produced for 	distribution. One item of note is "sumt'n ta say/behind our backs" a resource guide to safe sex practices for young (18-24) gay and bisexual men containing poetry and photographs by young gay and bisexual men. See the Photography series for all of the photographs submitted for acceptance to "sumt'n ta say/behind our backs".  This series is arranged alphabetically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.5.6.3" score="1" C-ORDER="157">  
+<did>  
+<unittitle>BETA Readership Survey</unittitle> 
+<unitdate type="inclusive" normal="1994">1994</unitdate> 
+<container>Box 5: 17</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.6.4" score="1" C-ORDER="158">  
+<did>  
+<unittitle>Catalog of Educational Materials</unittitle> 
+<unitdate type="inclusive" normal="1986">1986</unitdate> 
+<container>Box 5: 18</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.6.5" score="1" C-ORDER="159">  
+<did>  
+<unittitle>An Epidemic of Loss: AIDS in San Francisco's Gay Male Community 1988-1993</unittitle> 
+<unitdate type="inclusive" normal="1987">1987</unitdate> 
+<container>Box 5: 19</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.6.6" score="1" C-ORDER="160">  
+<did>  
+<unittitle>The New Epidemic (4 part series in BAR)</unittitle> 
+<unitdate type="inclusive" normal="2000">2000</unitdate> 
+<container>Box 10:</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.6.7" score="1" C-ORDER="161">  
+<did>  
+<unittitle>Primal Cream: An advanced Guide to Sexual Pleasure and Health</unittitle> 
+<unitdate type="inclusive" normal="1993">1993</unitdate> 
+<container>Box 5: 20</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.6.8" score="1" C-ORDER="162">  
+<did>  
+<unittitle>Positive News: An Evaluation of Readability, Content and Usefulness in English, Spanish, Tagalog and 
+Chinese</unittitle> 
+<unitdate type="inclusive" normal="1994">1994</unitdate> 
+<container>Box 5: 21</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.6.9" score="1" C-ORDER="163">  
+<did>  
+<unittitle>Results from the 1994 BETA Readership Study</unittitle> 
+<unitdate type="inclusive" normal="1994">1994</unitdate> 
+<container>Box 5: 22</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.6.10" score="1" C-ORDER="164">  
+<did>  
+<unittitle>sumt'n ta say/behind our backs [for young gay and bi men]</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 5: 23</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.5.7" score="2" C-ORDER="165">  
+<did>  
+<unittitle>Subseries 4.5, Public Policy</unittitle> 
+<unitdate type="inclusive" normal="1996/2000">1996-2000</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries contains material created to inform and guide  a grassroots network of individuals and organizations to advocate at all levels of governement for effective HIV-related public policy. Also included are policy agendas for CA and the nation, and a legislative report card for 1999.  This subseries is arranged alphabetically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.5.7.3" score="1" C-ORDER="167">  
+<did>  
+<unittitle>Advocacy in an new Era: A Resource Manual for HIV/AIDS Advocates in a Time of Change and Hope</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 5: 24</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.4" score="1" C-ORDER="168">  
+<did>  
+<unittitle>Advocacy in a new Era: Access to Treatment, Medicaid, ADAP and CARE</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 5: 25</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.5" score="1" C-ORDER="169">  
+<did>  
+<unittitle>Every Voice Counts: A Grassroots Advocacy Manual for the HIV/AIDS Community</unittitle> 
+<unitdate type="inclusive" normal="2001">2001</unitdate> 
+<container>Box 5: 26</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.6" score="1" C-ORDER="170">  
+<did>  
+<unittitle>Giving Life a Home: HOPWA at work in San Francisco A Report on the Implementation of the Housing Opportunities for 
+People with AIDS Program in San Francisco, California</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 5: 27</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.7" score="1" C-ORDER="171">  
+<did>  
+<unittitle>Grassroots Lobbying</unittitle> 
+<unitdate type="inclusive" normal="1996">1996</unitdate> 
+<container>Box 5: 28</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.8" score="1" C-ORDER="172">  
+<did>  
+<unittitle>Grassroots Lobbying: A Guide for Advocates Concerned with HIV/AIDS</unittitle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container>Box 5: 29</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.9" score="1" C-ORDER="173">  
+<did>  
+<unittitle>Grassroots Lobbying: A Guide for Advocates Concerned with HIV/AIDS [larger version]</unittitle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container>Box 5: 30</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.10" score="1" C-ORDER="174">  
+<did>  
+<unittitle>Grassroots Lobbying: A Guide for Citizens Concerned with HIV/AIDS</unittitle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container>Box 5: 31 - 32</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.11" score="1" C-ORDER="175">  
+<did>  
+<unittitle>HIV/AIDS and Immigrants: A Manual for Service Providers</unittitle> 
+<unitdate type="inclusive" normal="2004">2004</unitdate> 
+<container>Box 5: 33</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.12" score="1" C-ORDER="176">  
+<did>  
+<unittitle>La Movilizacion Politica Popular</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 5: 34</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.13" score="1" C-ORDER="177">  
+<did>  
+<unittitle>A New Era for HIV/AIDS Care, Treatment and Services: An Agenda for California Government 1997-1998</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 5: 35</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.14" score="1" C-ORDER="178">  
+<did>  
+<unittitle>Making the Grade: The Legislative Report Card on HIV/AIDS</unittitle> 
+<unitdate type="inclusive" normal="1999">1999</unitdate> 
+<container>Box 5: 36</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.15" score="1" C-ORDER="179">  
+<did>  
+<unittitle>New Hopes, New Challenges: An HIV/AIDS Policy Agenda for San Francisco</unittitle> 
+<unitdate type="inclusive" normal="1998">1998</unitdate> 
+<container>Box 5: 37</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.16" score="1" C-ORDER="180">  
+<did>  
+<unittitle>One Voice can Make a Difference...Many Voices can Create A Movement: A Grassroots Advocacy and Community Organizing 
+Manual for the HIV/AIDS Community</unittitle> 
+<unitdate type="inclusive" normal="2000">2000</unitdate> 
+<container>Box 5: 38</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.17" score="1" C-ORDER="181">  
+<did>  
+<unittitle>Renewing the Commitment: An HIV/AIDS Policy Agenda for the Nation</unittitle> 
+<unitdate type="inclusive" normal="1998">1998</unitdate> 
+<container>Box 5: 39</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.7.18" score="1" C-ORDER="182">  
+<did>  
+<unittitle>Toward 2000: An HIV/AIDS Policy Agenda for California</unittitle> 
+<unitdate type="inclusive" normal="1999">1999</unitdate> 
+<container>Box 5: 40</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.5.8" score="1" C-ORDER="183">  
+<did>  
+<unittitle>Subseries 4.6, Volunteer Services</unittitle> 
+<unitdate type="inclusive" normal="1992/1994">1992-1994</unitdate> 
+</did> 
+<c03 level="item" id="c03-1.3.11.5.8.2" score="1" C-ORDER="184">  
+<did>  
+<unittitle>SFAF Staff Manual: Working with Volunteers</unittitle> 
+<unitdate type="inclusive" normal="1994">1994</unitdate> 
+<container>Box 5: 41</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.8.3" score="1" C-ORDER="185">  
+<did>  
+<unittitle>Staff and Volunteer Yearbook</unittitle> 
+<unitdate type="inclusive" normal="1992">1992</unitdate> 
+<container>Box 5: 42</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.5.9" score="2" C-ORDER="186">  
+<did>  
+<unittitle>Subseries 4.7, Created Outside SFAF</unittitle> 
+<unitdate type="inclusive" normal="1986/2004">1986-2004</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries primarily contains research reports. There are some general monographs.  This subseries is arranged alphabetically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.5.9.3" score="1" C-ORDER="188">  
+<did>  
+<unittitle>Clinical and Legal Perspectives on Prenatal Drug and Alcohol Use: Guidelines for Individual and Community Response, 
+Marty Jessup and Robert Roth</unittitle> 
+<unitdate type="inclusive" normal="1986">1986</unitdate> 
+<container>Box 5: 43</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.9.4" score="1" C-ORDER="189">  
+<did>  
+<unittitle>Management and Organizational Needs Assessment Study of U.S. AIDS Agencies, Prepared for the National AIDS 
+Network</unittitle> 
+<unitdate type="inclusive" normal="1987">1987</unitdate> 
+<container>Box 5: 44</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.9.5" score="1" C-ORDER="190">  
+<did>  
+<unittitle>Presentation to the Presidential Commission on the Human Immunodeficiency Virus Epidemic. Panel 10: Outreach Education 
+to Intravenous Drug Users, Harvey W. Feldman</unittitle> 
+<unitdate type="inclusive" normal="1987">1987</unitdate> 
+<container>Box 5: 45</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.9.6" score="1" C-ORDER="191">  
+<did>  
+<unittitle>Preventing Human Immunodeficiency Virus Contagion Among Intravenous Drug Users: The Impact of Street-Based Education 
+on Risk-Behavior. Paper read before the III International Conference on AIDS, John K. Watters</unittitle> 
+<unitdate type="inclusive" normal="1987">1987</unitdate> 
+<container>Box 5: 46</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.9.7" score="1" C-ORDER="192">  
+<did>  
+<unittitle>Comprehensive Plan to Reduce the Spread of HIV Infection Among  Injection Drug Users (IDUs) in the City and County of 
+San Francisco, Raymond Baxter</unittitle> 
+<unitdate type="inclusive" normal="1992">1992</unitdate> 
+<container>Box 5: 47</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.9.8" score="1" C-ORDER="193">  
+<did>  
+<unittitle>Meanings, Complexities, and Condoms: Towards Understanding the Sexual Landscape of Middle-class Gay Men in San 
+Francisco, A.M. Williams</unittitle> 
+<unitdate type="inclusive" normal="1994">circa 1994</unitdate> 
+<container>Box 5: 48</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.9.9" score="1" C-ORDER="194">  
+<did>  
+<unittitle>Questions at the Crossroads: Surviving the Third Decade of HIV Infection in California, AIDS Partnership 
+California</unittitle> 
+<unitdate type="inclusive" normal="2004">2004</unitdate> 
+<container>Box 5: 49</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.9.10" score="1" C-ORDER="195">  
+<did>  
+<unittitle>Sex, Drugs and HIV: A Sociocultural Analysis of two Groups of Gay and Bisexual Male Substance Users who Practice 
+Unprotected Anal Sex, A.M. Williams</unittitle> 
+<unitdate type="inclusive" normal="1996">circa 1996</unitdate> 
+<container>Box 5: 50</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.9.11" score="1" C-ORDER="196">  
+<did>  
+<unittitle>Stand up to be Counted: A Great City Must Respond to AIDS, [The Tides Foundation]</unittitle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container>Box 5: 51</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.9.12" score="1" C-ORDER="197">  
+<did>  
+<unittitle>Voices of C.A.R.E.: People Living with HIV and AIDS and the  Ryan White Comprehensive AIDS Resources Emergency Act, 
+AIDS Action Committee of Massachusetts, et. al</unittitle> 
+<unitdate type="inclusive" normal="2000">2000</unitdate> 
+<container>Box 5: 52</container> 
+</did> 
+</c03>
+
+</c02>
+<c02 level="subseries" id="c02-1.3.11.5.10" score="2" C-ORDER="198">  
+<did>  
+<unittitle>Subseries 4.8, Brochures</unittitle> 
+<unitdate type="inclusive" normal="1983/2004">1983-2004</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This series contains educational and informational brochures primarily put out by SFAF, many of which were available for purchase by other AIDS organizations. Of particular interest to researchers might be the very early brochures. This suberies is arranged chronologically by SFAF brochures, followed by brochures of other organizations.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.5.10.3" score="1" C-ORDER="200">  
+<did>  
+<unittitle>Brochures, SFAF</unittitle> 
+<unitdate type="inclusive" normal="1983/1988">1983-1988</unitdate> 
+<container>Box 5: 53</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.10.4" score="1" C-ORDER="201">  
+<did>  
+<unittitle>Brochures, SFAF</unittitle> 
+<unitdate type="inclusive" normal="1991/2004">1991-2004</unitdate> 
+<container>Box 5: 54</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.5.10.5" score="1" C-ORDER="202">  
+<did>  
+<unittitle>Brochures, other organizations</unittitle> 
+<unitdate type="inclusive" normal="1987/1989">1987-1989</unitdate>
+<unitdate type="inclusive">undated</unitdate> 
+<container>Box 5: 55</container> 
+</did> 
+</c03>
+</c02>
+</c01>
+
+<c01 level="series" id="c01-1.3.11.6" score="2" C-ORDER="203"> 
+<did> 
+<unitid>Series 5</unitid>
+<unittitle>Education</unittitle> 
+<unitdate type="inclusive" normal="1986/2005">1986-2005</unitdate> 
+<physdesc><extent>20 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This series documents some of the education outreach activities of SFAF.  The most heavily represented activity is the 
+development of educational ad campaigns.</p> 
+</scopecontent>
+<c02 level="subseries" id="c02-1.3.11.6.3" score="2" C-ORDER="205">  
+<did>  
+<unittitle>Subseries 5.1, Targeted Groups</unittitle> 
+<unitdate type="inclusive" normal="1987/2005">1987-2005</unitdate> 
+<container>Box 11 folders</container> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries documents some of SFAF's efforts to identify at risk groups and develop  educational campaigns and support 
+programs that directly targeted and reflected the needs of  these groups.  This subseries illustrates their use of focus groups 
+to develop and refine  campaigns.  One item of interest is a paper on the emergence of a gay identity in Latin  America in the 
+"Latino AIDS response" folder.  Articles on cleaning hypodermic needles with  bleach are also included. Types of materials 
+include clippings, articles, handwritten notes, and  correspondence. This subseries is arranged chronologically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.6.3.3" score="1" C-ORDER="207">  
+<did>  
+<unittitle>"MidCity Consortium to Combat AIDS" [intravenous drug users]</unittitle> 
+<unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate> 
+<container>Box 6: 1</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.3.4" score="1" C-ORDER="208">  
+<did>  
+<unittitle>Campaign for black gay men</unittitle> 
+<unitdate type="inclusive" normal="1988">1988</unitdate> 
+<container>Box 6: 2</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.3.5" score="1" C-ORDER="209">  
+<did>  
+<unittitle>"Latino AIDS response"</unittitle> 
+<unitdate type="inclusive" normal="1988">1988</unitdate> 
+<unitdate type="inclusive">undated</unitdate> 
+<container>Box 6: 3</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.3.6" score="1" C-ORDER="210">  
+<did>  
+<unittitle>"Latino AIDS Project" re. poster</unittitle> 
+<unitdate type="inclusive" normal="1990">1990</unitdate> 
+<container>Box 6: 4</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.3.7" score="1" C-ORDER="211">  
+<did>  
+<unittitle>Focus group report re. Compass Project</unittitle> 
+<unitdate type="inclusive" normal="1996">1996</unitdate> 
+<container>Box 6: 5</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.3.8" score="1" C-ORDER="212">  
+<did>  
+<unittitle>Focus group transcript re. Females</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 6: 6</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.3.9" score="1" C-ORDER="213">  
+<did>  
+<unittitle>Vida y Movimiento</unittitle> 
+<unitdate type="inclusive" normal="1998">1998</unitdate> 
+<container>Box 6: 7</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.3.10" score="1" C-ORDER="214">  
+<did>  
+<unittitle>Black Brothers Esteem Leadership Institute (binder)</unittitle> 
+<unitdate type="inclusive" normal="2000">2000</unitdate> 
+<container>Box 6: 8 - 9</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.3.11" score="1" C-ORDER="215">  
+<did>  
+<unittitle>Black Brothers Esteem</unittitle> 
+<unitdate type="inclusive" normal="2002/2005">2002-2005</unitdate> 
+<container>Box 6: 10</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.6.4" score="2" C-ORDER="216">  
+<did>  
+<unittitle>Subseries 5.2, Campaigns</unittitle> 
+<unitdate type="inclusive" normal="1986/2003">1986-2003</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This series contians records documenting SFAF's educational campaigns. Included are images from campaigns, community program ideas, poster ideas and a video tape of commercials. This subseries is arranged chronologically.
+</p> 
+</scopecontent>
+
+<c03 level="item" id="c03-1.3.11.6.4.3" score="1" C-ORDER="218">  
+<did>  
+<unittitle>"AIDS: Fight the Fear with the Facts"</unittitle> 
+<unitdate type="inclusive" normal="1986">1986</unitdate> 
+<container>Box 6: 11</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.4.4" score="1" C-ORDER="219">  
+<did>  
+<unittitle>HIV Prevention Series VHS (8 x :30 spots)</unittitle> 
+<unitdate type="inclusive" normal="1990">circa 1990</unitdate> 
+<container>Box 9</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.4.5" score="1" C-ORDER="220">  
+<did>  
+<unittitle>Castro Street Fair Ideas</unittitle> 
+<unitdate type="inclusive" normal="1994">1994</unitdate> 
+<container>Box 6: 12</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.4.6" score="1" C-ORDER="221">  
+<did>  
+<unittitle>Poster ideas</unittitle> 
+<unitdate type="inclusive" normal="1996">1996</unitdate>
+<unitdate type="inclusive">undated</unitdate> 
+<container>Box 6: 13</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.4.7" score="1" C-ORDER="222">  
+<did>  
+<unittitle>"Sex Drug Exchange"</unittitle> 
+<unitdate type="inclusive" normal="2002">2002</unitdate> 
+<container>Box 6: 14</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.4.8" score="1" C-ORDER="223">  
+<did>  
+<unittitle>"Speed Project"</unittitle> 
+<unitdate type="inclusive" normal="2003">circa 2003</unitdate> 
+<container>Box 6: 15</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.4.9" score="1" C-ORDER="224">  
+<did>  
+<unittitle>"Gay Life"</unittitle> 
+<unitdate type="inclusive" normal="2003">2003</unitdate> 
+<container>Box 6: 16</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.4.10" score="1" C-ORDER="225">  
+<did>  
+<unittitle>Castro Stop AIDS campaign ads</unittitle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container>Box 6: 17</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.4.11" score="1" C-ORDER="226">  
+<did>  
+<unittitle>"Without a Condom You're a Dickhead" (foreign language)</unittitle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container>Box 6: 18</container> 
+</did> 
+</c03>
+</c02>
+<c02 level="subseries" id="c02-1.3.11.6.5" score="2" C-ORDER="227">  
+<did>  
+<unittitle>Subseries 5.3, Additional Education Documents</unittitle> 
+<unitdate type="inclusive" normal="1995/1998">1995-1998</unitdate> 
+</did> 
+<scopecontent> 
+<head>Series Description</head>
+<p>This subseries contains miscellaneous education documents. This subseries is arranged chronologically.</p> 
+</scopecontent>
+<c03 level="item" id="c03-1.3.11.6.5.3" score="1" C-ORDER="229">  
+<did>  
+<unittitle>List of events videos, SFAF (handwritten)</unittitle> 
+<unitdate type="inclusive" normal="1995">circa 1995</unitdate> 
+<container>Box 6: 19</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.5.4" score="1" C-ORDER="230">  
+<did>  
+<unittitle>Website project, SFAF</unittitle> 
+<unitdate type="inclusive" normal="1995/1998">1995-1998</unitdate> 
+<container>Box 6: 20</container> 
+</did> 
+</c03>
+<c03 level="item" id="c03-1.3.11.6.5.5" score="1" C-ORDER="231">  
+<did>  
+<unittitle>Web/Internet general information</unittitle> 
+<unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate> 
+<container>Box 6: 21</container> 
+</did> 
+</c03>
+</c02>
+</c01>
+
+<c01 level="series" id="c01-1.3.11.7" score="2" C-ORDER="232"> 
+<did> 
+<unitid>Series 6</unitid>
+<unittitle>Administration</unittitle> 
+<unitdate type="inclusive" normal="1984/2005">1984-2005</unitdate> 
+<physdesc><extent>7 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series contains a limited amount of financial records and a small amount of correspondence from executive directors. Items of note are the strategic plan and operating budget records because they contain organizational charts of SFAF, although the date range is limited.  Also of note in this series is a draft of an opinion editorial piece written by Derek Gordon about hate crimes directed at SFAF and executive director Pat Christensen.  This series is arranged chronologically.</p> 
+</scopecontent>
+<c02 level="item" id="c02-1.3.11.7.3" score="1" C-ORDER="234">  
+<did>  
+<unittitle>Correspondence from Executive Directors</unittitle> 
+<unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate> 
+<unitdate type="inclusive" normal="1989">1989 fix</unitdate> 
+<container>Box 6: 22</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.7.4" score="1" C-ORDER="235">  
+<did>  
+<unittitle>General histories of SFAF</unittitle> 
+<unitdate type="inclusive" normal="1989/2001">1989-2001</unitdate> 
+<container>Box 6: 23</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.7.5" score="1" C-ORDER="236">  
+<did>  
+<unittitle>Strategic plan and operating budget</unittitle> 
+<unitdate type="inclusive" normal="1989">1989</unitdate> 
+<unitdate type="inclusive" normal="1999/2005">1999-2005</unitdate> 
+<container>Box 6: 24</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.7.6" score="1" C-ORDER="237">  
+<did>  
+<unittitle>Miscellaneous development/fundraising</unittitle> 
+<unitdate type="inclusive" normal="1989/2003">1989-2003</unitdate> 
+<container>Box 6: 25</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.7.7" score="1" C-ORDER="238">  
+<did>  
+<unittitle>Financial report</unittitle> 
+<unitdate type="inclusive" normal="1993">1993</unitdate> 
+<container>Box 6: 26</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.7.8" score="1" C-ORDER="239">  
+<did>  
+<unittitle>Draft of opinion editorial piece to B.A.R.</unittitle> 
+<unitdate type="inclusive" normal="1997">circa 1997</unitdate> 
+<container>Box 6: 27</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.7.9" score="1" C-ORDER="240">  
+<did>  
+<unittitle>Report of audit of financial records</unittitle> 
+<unitdate type="inclusive" normal="2001/2005">2001-2005</unitdate> 
+<container>Box 6: 28</container> 
+</did> 
+</c02>
+</c01>
+
+<c01 level="series" id="c01-1.3.11.8" score="2" C-ORDER="241"> 
+<did> 
+<unitid>Series 7</unitid>
+<unittitle>Photographs</unittitle> 
+<unitdate type="inclusive" normal="1986/2005">1986-2005</unitdate> 
+<physdesc><extent>32 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>The majority of the photographs in this series are from sumt'n ta say/behind our backs.  Items of note include photographs from Black Brothers Esteem.  This series is arranged chronologically.  Within sumt'n ta say/behind our backs folders are arranged alphabetically by photographer.</p> 
+</scopecontent>
+<c02 level="item" id="c02-1.3.11.8.3" score="1" C-ORDER="243">  
+<did>  
+<unittitle>"AIDS: Fight the Fear with the Facts"</unittitle> 
+<unitdate type="inclusive" normal="1986">1986</unitdate> 
+<container type="box-folder" label="Box: Folder">10</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.4" score="1" C-ORDER="244">  
+<did>  
+<unittitle>"You Can't See Aids"</unittitle> 
+<unitdate type="inclusive" normal="1987">1987</unitdate> 
+<container>Box 7: 1</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.5" score="1" C-ORDER="245">  
+<did>  
+<unittitle>Latino AIDS project</unittitle> 
+<unitdate type="inclusive" normal="1990">1990</unitdate> 
+<container>Box 7: 2</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.6" score="1" C-ORDER="246">  
+<did>  
+<unittitle>unidentified male</unittitle> 
+<unitdate type="inclusive" normal="1990">1990</unitdate> 
+<container>Box 7: 3</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.7" score="1" C-ORDER="247">  
+<did>  
+<unittitle>"Be Here for the Cure" I</unittitle> 
+<unitdate type="inclusive" normal="1992">1992</unitdate> 
+<container>Box 7: 4</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.8" score="1" C-ORDER="248">  
+<did>  
+<unittitle>"Sex is Good"</unittitle> 
+<unitdate type="inclusive" normal="1992">1992</unitdate> 
+<container>Box 7: 5</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.9" score="1" C-ORDER="249">  
+<did>  
+<unittitle>"Be Here for the Cure II"</unittitle> 
+<unitdate type="inclusive" normal="1993">1993</unitdate> 
+<container>Box 7: 6</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.10" score="1" C-ORDER="250">  
+<did>  
+<unittitle>"No Condom No Date"</unittitle> 
+<unitdate type="inclusive" normal="1993">1993</unitdate> 
+<container>Box 7: 7</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.11" score="1" C-ORDER="251">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" Mark Bridges</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 8</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.12" score="1" C-ORDER="252">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" Carlos Garcia</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 9</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.13" score="1" C-ORDER="253">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" Noe Gutierrez</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 10</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.14" score="1" C-ORDER="254">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" Louis Guzman</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 11</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.15" score="1" C-ORDER="255">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" Morgan Kirby</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 12</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.16" score="1" C-ORDER="256">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" Derek Lassiter</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 13</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.17" score="1" C-ORDER="257">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" Erickson Liongsam</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 14</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.18" score="1" C-ORDER="258">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" Doug Natner (sp?)</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 15</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.19" score="1" C-ORDER="259">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" Hoang Nguyen</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 16</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.20" score="1" C-ORDER="260">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" Carlos Penate</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 17</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.21" score="1" C-ORDER="261">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" Richard Renfro</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 18</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.22" score="1" C-ORDER="262">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" Michael Smith</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 19</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.23" score="1" C-ORDER="263">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" Jaime Soria</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 20</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.24" score="1" C-ORDER="264">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" unknown</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 21</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.25" score="1" C-ORDER="265">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" extra contact sheets</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 22</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.26" score="1" C-ORDER="266">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" prints used</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 7: 23-26</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.27" score="1" C-ORDER="267">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" prints not used</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 8 1</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.28" score="1" C-ORDER="268">  
+<did>  
+<unittitle>Black Brothers Esteem</unittitle> 
+<unitdate type="inclusive" normal="1998">1998</unitdate> 
+<container>Box 8 2</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.29" score="1" C-ORDER="269">  
+<did>  
+<unittitle>Black Brothers Esteem</unittitle> 
+<unitdate type="inclusive" normal="2005">2005</unitdate> 
+<container>Box 8 3</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.30" score="1" C-ORDER="270">  
+<did>  
+<unittitle>[by Leslie Hirsch]</unittitle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container>Box 8 4-5</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.8.31" score="1" C-ORDER="271">  
+<did>  
+<unittitle>unidentified male</unittitle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container>Box 8 6</container> 
+</did> 
+</c02>
+</c01>
+
+<c01 level="series" id="c01-1.3.11.9" score="2" C-ORDER="272"> 
+<did> 
+<unitid>Series 8</unitid>
+<unittitle>Negatives</unittitle> 
+<unitdate type="inclusive" normal="1980/1995">circa 1980s-1995</unitdate> 
+<physdesc><extent>7 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series primarily contains negatives from submissions to sumt'n ta say/behind our backs.  Other items of note include negatives from a Rubber Men event and some negatives from AIDS LifeCycle.  This series is arranged chronologically.</p> 
+</scopecontent>
+<c02 level="item" id="c02-1.3.11.9.3" score="1" C-ORDER="274">  
+<did>  
+<unittitle>Rubber Men</unittitle> 
+<unitdate type="inclusive" normal="1980/1989">circa 1980s</unitdate> 
+<container>Box 8 7</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.9.4" score="1" C-ORDER="275">  
+<did>  
+<unittitle>Unidentified party</unittitle> 
+<unitdate type="inclusive" normal="1980/1989">circa 1980s</unitdate> 
+<container>Box 8 8</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.9.5" score="1" C-ORDER="276">  
+<did>  
+<unittitle>"Be Here for the Cure II"</unittitle> 
+<unitdate type="inclusive" normal="1992">1992</unitdate> 
+<container>Box 8 9</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.9.6" score="1" C-ORDER="277">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" to box 7 folder 23</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 8 10</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.9.7" score="1" C-ORDER="278">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" to box 7 folders 8-20</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container type="box-folder" label="Box: Folder">6</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.9.8" score="1" C-ORDER="279">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" to prints not used</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 8 11</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.9.9" score="1" C-ORDER="280">  
+<did>  
+<unittitle>"sumt'n ta say/behind our backs" miscellaneous</unittitle> 
+<unitdate type="inclusive" normal="1995">1995</unitdate> 
+<container>Box 8 12</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.9.10" score="1" C-ORDER="281">  
+<did>  
+<unittitle>AIDS LifeCycle</unittitle> 
+<unitdate type="inclusive">undated</unitdate> 
+<container>Box 8 13</container> 
+</did> 
+</c02>
+</c01>
+
+<c01 level="series" id="c01-1.3.11.10" score="2" C-ORDER="282"> 
+<did> 
+<unitid>Series 9</unitid>
+<unittitle>Slides</unittitle> 
+<unitdate type="inclusive" normal="1983/2000">circa 1983-circa 2000</unitdate> 
+<physdesc><extent>1,644 slides</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series has not been arranged.</p> 
+</scopecontent>
+<c02 level="item" id="c02-1.3.11.10.3" score="1" C-ORDER="284">  
+<did>  
+<unittitle>Unidentified</unittitle> 
+<unitdate type="inclusive" normal="1983/2000">circa 1983-circa 2000</unitdate> 
+<container>Box 9</container> 
+</did> 
+</c02>
+</c01>
+
+<c01 level="series" id="c01-1.3.11.11" score="2" C-ORDER="285"> 
+<did> 
+<unitid>Series 10</unitid>
+<unittitle>Posters</unittitle> 
+<unitdate type="inclusive" normal="1980/2005">circa 1980s-circa 2005</unitdate> 
+<physdesc><extent>1 box</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series contains approximately 15 small to oversize posters from various campaigns including "Be Here for the Cure II" and Black Brothers Esteem.  Also included are approximately 7 framed items including brochures and photographs.  One item of note is a foam core bleachman poster.  This series has not been arranged.</p> 
+</scopecontent>
+<c02 level="item" id="c02-1.3.11.11.3" score="1" C-ORDER="287">  
+<did>  
+<unittitle>Unidentified</unittitle> 
+<unitdate type="inclusive" normal="1980/2005">circa 1980s-circa 2005</unitdate> 
+<container type="box-folder" label="Box: Folder">10</container> 
+</did> 
+</c02>
+</c01>
+
+<c01 level="series" id="c01-1.3.11.12" score="2" C-ORDER="288"> 
+<did> 
+<unitid>Series 11</unitid>
+<unittitle>Miscellaneous</unittitle> 
+<unitdate type="inclusive" normal="1997/2006">1997-2006</unitdate>
+<physdesc><extent>3 folders</extent></physdesc> 
+</did> 
+<scopecontent> 
+<head>Series Description</head> 
+<p>This series contains miscellaneous records related to cycling.  This series is arranged chronologically.</p> 
+</scopecontent>
+<c02 level="item" id="c02-1.3.11.12.3" score="1" C-ORDER="290">  
+<did>  
+<unittitle>"The Unknown Cyclist" a screenplay</unittitle> 
+<unitdate type="inclusive" normal="1997">1997</unitdate> 
+<container>Box 6: 29</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.12.4" score="1" C-ORDER="291">  
+<did>  
+<unittitle>Collected works of cheerleader Scott, AIDS LifeCycle</unittitle> 
+<unitdate type="inclusive" normal="2006">2006</unitdate> 
+<container>Box 6: 30</container> 
+</did> 
+</c02>
+<c02 level="item" id="c02-1.3.11.12.5" score="1" C-ORDER="292">  
+<did>  
+<unittitle>AIDS Ride speech</unittitle> 
+<unitdate type="inclusive" normal="1980/1989">circa 1980s</unitdate> 
+<container>Box 6: 31</container> 
+</did> 
+</c02>
+</c01>
+
+</dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,15 @@
+/Users/trott/ucsf-ckm/ead2calisphere/index.js:301
+          throw new Error(`<container> is missing expected attributes: <container>${text}</container>`)
+          ^
+
+Error: <container> is missing expected attributes: <container>Box 1: 1 - 7</container>
+    at Object.ontext (/Users/trott/ucsf-ckm/ead2calisphere/index.js:301:17)
+    at Parser.ontext (/Users/trott/ucsf-ckm/ead2calisphere/node_modules/htmlparser2/lib/Parser.js:142:33)
+    at Tokenizer._stateText (/Users/trott/ucsf-ckm/ead2calisphere/node_modules/htmlparser2/lib/Tokenizer.js:152:14)
+    at Tokenizer._parse (/Users/trott/ucsf-ckm/ead2calisphere/node_modules/htmlparser2/lib/Tokenizer.js:639:9)
+    at Tokenizer.write (/Users/trott/ucsf-ckm/ead2calisphere/node_modules/htmlparser2/lib/Tokenizer.js:632:7)
+    at Parser.write (/Users/trott/ucsf-ckm/ead2calisphere/node_modules/htmlparser2/lib/Parser.js:334:18)
+    at Object.<anonymous> (/Users/trott/ucsf-ckm/ead2calisphere/index.js:387:8)
+    at Module._compile (internal/modules/cjs/loader.js:738:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:749:10)
+    at Module.load (internal/modules/cjs/loader.js:630:32)
