@@ -10,7 +10,7 @@ const inputFiles = fs.readdirSync(path.join(__dirname, 'input'))
 inputFiles.forEach((fileName) => {
   const expected = fs.readFileSync(path.join(__dirname, 'output', `${path.basename(fileName, '.xml')}.tsv`))
   const expectedErr = fs.readFileSync(path.join(__dirname, 'output', `${path.basename(fileName, '.xml')}.err`))
-  const results = spawnSync(process.argv[0], [path.join(__dirname, '..', 'index.js'), path.join('test', 'input', fileName)])
+  const results = spawnSync(process.argv[0], [path.join(__dirname, '..', 'index.js'), path.join('test', 'input', fileName)], {maxBuffer: 1024 * 1024 * 2})
   if (results.error) {
     throw results.error
   }
