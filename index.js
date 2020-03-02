@@ -298,7 +298,8 @@ const handlers = {
       }
       if (/^container$/i.test(thisTag.name)) {
         if (!thisTag.attribs.type) {
-          throw new Error(`<container> is missing expected attributes: <container>${text}</container>`)
+          console.error(`<container> is missing required "type" attribute: <container>${text}</container>`)
+          process.exit(1)
         }
         const types = thisTag.attribs.type.split(/[: -]+/).map((val) => val.charAt(0).toUpperCase() + val.slice(1))
         const texts = text.split(/[: ]+/)
