@@ -154,10 +154,15 @@ const displayData = (data) => {
   output.push(data.get('extent') || '')
 
   // Language
-  output.push(language.text)
+  output.push(language.text || '')
 
   // Language code
-  output.push(language.attribs.langcode)
+  if (language.attribs && language.attribs.langcode) {
+    output.push(language.attribs.langcode)
+  } else {
+    console.warn('WARNING: <language> element is missing "langcode" attribute. Assuming "eng".')
+    output.push('eng')
+  }
 
   // Temporal coverage: leave blank
   output.push('')
@@ -241,7 +246,7 @@ const displayData = (data) => {
 
   const badTypes = output.filter((val) => typeof val !== 'string')
   if (badTypes.length) {
-    console.error(`Non-string found in ${output.join('\t')}`)
+    console.error(`Non-string found in ${output.join('\n')}`)
     throw new TypeError(`${typeof badTypes[0]} found at index ${output.indexOf(badTypes[0])}, string expected`)
   }
 
