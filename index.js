@@ -21,16 +21,16 @@ if (outputFile) {
 
 const htmlparser2 = require('htmlparser2')
 
-let tagStack = []
-let fileLevelTagStack = []
-let dataMapStack = []
+const tagStack = []
+const fileLevelTagStack = []
+const dataMapStack = []
 let dataMap = new Map()
 let collectionNumber = ''
 let creator = ''
 let creatorType = ''
 let creatorSource = 'local'
 let language = {}
-let languageStack = []
+const languageStack = []
 let collectionTitle = ''
 let containerDisplay = ''
 
@@ -254,7 +254,7 @@ const displayData = (data) => {
   const tsvOutput = detabbedOutput.join('\t')
 
   if (outputFile) {
-    fs.writeFileSync(outputFile, `${tsvOutput}\n`, {flag: 'a'})
+    fs.writeFileSync(outputFile, `${tsvOutput}\n`, { flag: 'a' })
   } else {
     console.log(tsvOutput)
   }
@@ -270,9 +270,9 @@ const handlers = {
       https://docs.google.com/spreadsheets/d/1zmJVEZtdJ_6cwmdyWYR7dXMGYFKp_TGiyRV9zQgGbXE/edit?usp=sharing
    */
   onopentag: function (name, attribs) {
-    tagStack.push({name, attribs})
+    tagStack.push({ name, attribs })
     if (/^language$/i.test(name)) {
-      language = {name, attribs, text: ''}
+      language = { name, attribs, text: '' }
       languageStack.push(language)
     }
     // Use both `level="file"` and `level="item"` because some finding aids don't include `level="file"`.
