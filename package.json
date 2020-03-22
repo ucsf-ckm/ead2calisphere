@@ -11,7 +11,7 @@
   "author": "Rich Trott <rtrott@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "htmlparser2": "^3.9.2"
+    "htmlparser2": "^4.1.0"
   },
   "devDependencies": {
     "pkg": "^4.4.4",
