@@ -14,7 +14,7 @@
     "htmlparser2": "^4.1.0"
   },
   "devDependencies": {
-    "pkg": "^4.4.7",
+    "pkg": "^4.4.8",
     "standard": "^14.3.3"
   }
 }
