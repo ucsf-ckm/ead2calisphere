@@ -3,7 +3,9 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "bin": "index.js",
+  "bin": {
+    "ead2calisphere": "index.js"
+  },
   "scripts": {
     "test": "standard && node test/test.js",
     "build": "pkg ."
@@ -15,6 +17,6 @@
   },
   "devDependencies": {
     "pkg": "^4.4.9",
-    "standard": "^14.3.4"
+    "standard": "^15.0.0"
   }
 }
