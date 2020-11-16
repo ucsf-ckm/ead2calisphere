@@ -7,8 +7,8 @@
     "ead2calisphere": "index.js"
   },
   "scripts": {
-    "test": "standard && node test/test.js",
-    "build": "pkg ."
+    "test": "standard && npx -p node@14 node test/test.js",
+    "build": "npx -p node@14 pkg ."
   },
   "author": "Rich Trott <rtrott@gmail.com>",
   "license": "MIT",

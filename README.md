@@ -16,7 +16,7 @@ program directly".
 ### Prerequisites
 
 * git
-* Node.js 10, 12, or 14
+* Node.js
 
 ### How-to
 
