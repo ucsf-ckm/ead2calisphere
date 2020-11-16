@@ -4,6 +4,7 @@ const fs = require('fs')
 const path = require('path')
 
 if (!process.argv[2]) {
+  console.error(`ead2calisphere ${require('./package.json').version}`)
   console.error('Usage: ead2calisphere input.xml [output.tsv]')
   process.exit(1)
 }
