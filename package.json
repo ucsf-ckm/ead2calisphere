@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "standard && npx -p node@14 node test/test.js",
-    "build": "npx -p node@14 pkg ."
+    "build-cli": "npx -p node@14 pkg .",
+    "build-web": "browserify --standalone convert -g uglifyify lib/convert.js > web/convert.min.js"
   },
   "author": "Rich Trott <rtrott@gmail.com>",
   "license": "MIT",
@@ -16,7 +17,9 @@
     "htmlparser2": "^5.0.1"
   },
   "devDependencies": {
+    "browserify": "^17.0.0",
     "pkg": "^4.4.9",
-    "standard": "^16.0.3"
+    "standard": "^16.0.3",
+    "uglifyify": "^5.0.2"
   }
 }
