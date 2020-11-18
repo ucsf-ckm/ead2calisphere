@@ -30,7 +30,7 @@ npm ci
 Then:
 
 ```
-npm run build
+npm run build-cli
 ```
 
 That should generate three files:
