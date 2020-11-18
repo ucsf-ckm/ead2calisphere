@@ -46,9 +46,13 @@
           const div = document.createElement('div');
           div.setAttribute('class', 'gallery-container');
           const pre = document.createElement('pre');
-          pre.textContent = convert(reader.result);
+          let warnings = [];
+          pre.textContent = convert(reader.result, { warn: (txt) => { warnings.push(txt); }})
           div.appendChild(pre);
           gallery.appendChild(div);
+          if (warnings.length) {
+            alert(warnings.join('\n'));
+          }
         }
       }
     </script>
