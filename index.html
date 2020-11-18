@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>ead2calisphere</title>
+    <style>
+      body { background: #f3f3f3 }
+      .drop-zone { margin-top: 1rem; border: 0.2rem solid black; text-align: center; width: 100%; height: 90vh; overflow: auto }
+      .gallery-container { margin: 1rem }
+    </style>
+  </head>
+  <body id="body">
+     <div class="drop-zone">
+      <div id="gallery" class="gallery">Drag and drop EAD file here.</div>
+    </div>
+    <script src="convert.min.js"></script>
+    <script>
+      const dropZone = document.getElementById('body');  
+      dropZone.addEventListener('drop', dropHandler);
+      dropZone.addEventListener('dragover', dragOverHandler);
+
+      function dropHandler(ev) {
+        // Prevent default behavior (Prevent file from being opened)
+        ev.preventDefault();
+
+        if (ev.dataTransfer.files.length) {
+          processFile(ev.dataTransfer.files);
+        }
+      }
+
+      function dragOverHandler(ev) {
+        // Prevent default behavior (Prevent file from being opened)
+        ev.preventDefault();
+      }
+
+      const gallery = document.getElementById('gallery');
+
+      function processFile(files) {
+        gallery.innerHTML = '';
+        const file = files[0];
+        const reader = new FileReader();
+        reader.readAsText(file);
+        reader.onloadend = function() {
+          const div = document.createElement('div');
+          div.setAttribute('class', 'gallery-container');
+          const pre = document.createElement('pre');
+          pre.textContent = convert(reader.result);
+          div.appendChild(pre);
+          gallery.appendChild(div);
+        }
+      }
+    </script>
+  </body>
+</html>
