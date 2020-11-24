@@ -9,7 +9,8 @@
   "scripts": {
     "test": "standard && npx -p node@14 node test/test.js",
     "build-cli": "npx -p node@14 pkg .",
-    "build-web": "browserify --standalone convert -g uglifyify lib/convert.js > web/convert.min.js"
+    "build-web": "browserify --standalone convert -g uglifyify lib/convert.js > web/convert.min.js",
+    "publish-web": "git subtree push --prefix web origin gh-pages"
   },
   "author": "Rich Trott <rtrott@gmail.com>",
   "license": "MIT",
