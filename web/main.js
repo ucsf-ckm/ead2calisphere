@@ -38,21 +38,23 @@ function processFile (files) {
     if (warnings.length) {
       window.alert(warnings.join('\n'))
     }
-    div.appendChild(pre)
-    gallery.appendChild(div)
-    const blob = new window.Blob([pre.textContent], { type: 'text/plain' })
-    URL.revokeObjectURL(downloadMe)
-    downloadMe = URL.createObjectURL(blob)
+    if (pre.textContent) {
+      div.appendChild(pre)
+      gallery.appendChild(div)
+      const blob = new window.Blob([pre.textContent], { type: 'text/plain' })
+      URL.revokeObjectURL(downloadMe)
+      downloadMe = URL.createObjectURL(blob)
 
-    const newA = document.createElement('a')
-    newA.href = downloadMe
-    newA.download = `${filename}.tsv`
-    newA.innerHTML = `Download ${filename}.tsv`
-    if (a) {
-      a.replaceWith(newA)
-    } else {
-      download.appendChild(newA)
+      const newA = document.createElement('a')
+      newA.href = downloadMe
+      newA.download = `${filename}.tsv`
+      newA.innerHTML = `Download ${filename}.tsv`
+      if (a) {
+        a.replaceWith(newA)
+      } else {
+        download.appendChild(newA)
+      }
+      a = newA
     }
-    a = newA
   }
 }
