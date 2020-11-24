@@ -21,7 +21,13 @@ if (outputFile) {
   }
 }
 
-const tsvOutput = convert(eadRaw)
+let tsvOutput
+try {
+  tsvOutput = convert(eadRaw)
+} catch (e) {
+  console.warn(e.message)
+  process.exit(1)
+}
 
 if (tsvOutput) {
   if (outputFile) {

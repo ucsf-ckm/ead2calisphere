@@ -34,7 +34,11 @@ function processFile (files) {
     div.setAttribute('class', 'gallery-container')
     const pre = document.createElement('pre')
     const warnings = []
-    pre.textContent = window.convert(reader.result, { warn: (txt) => { warnings.push(txt) } })
+    try {
+      pre.textContent = window.convert(reader.result, { warn: (txt) => { warnings.push(txt) } })
+    } catch (e) {
+      warnings.push(e.message)
+    }
     if (warnings.length) {
       window.alert(warnings.join('\n'))
     }
