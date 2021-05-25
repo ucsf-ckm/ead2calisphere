@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "browserify": "^17.0.0",
-    "pkg": "^5.2.0",
+    "pkg": "^5.2.1",
     "standard": "^16.0.3",
     "uglifyify": "^5.0.2"
   }
