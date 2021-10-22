@@ -20,7 +20,7 @@ program directly".
 
 ### How-to
 
-User your git client to clone this repository. From within the resulting
+Use your git client to clone this repository. From within the resulting
 directory:
 
 ```
