@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "standard && npx -p node@14 node test/test.js",
-    "build-cli": "npx -p node@14 pkg .",
+    "build-cli": "npx -p node@14 -p pkg pkg .",
     "build-web": "browserify --standalone convert -g uglifyify lib/convert.js > web/convert.min.js",
     "publish-web": "git subtree push --prefix web origin gh-pages"
   },
@@ -19,7 +19,6 @@
   },
   "devDependencies": {
     "browserify": "^17.0.0",
-    "pkg": "^5.5.2",
     "standard": "^16.0.4",
     "uglifyify": "^5.0.2"
   }
