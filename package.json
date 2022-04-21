@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "browserify": "^17.0.0",
-    "standard": "^16.0.4",
+    "standard": "^17.0.0",
     "uglifyify": "^5.0.2"
   }
 }
