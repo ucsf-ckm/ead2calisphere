@@ -15,7 +15,7 @@
   "author": "Rich Trott <rtrott@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "htmlparser2": "^8.0.0"
+    "htmlparser2": "^8.0.1"
   },
   "devDependencies": {
     "browserify": "^17.0.0",
