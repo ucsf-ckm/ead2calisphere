@@ -7,9 +7,9 @@
     "ead2calisphere": "index.js"
   },
   "scripts": {
-    "test": "standard && npx -p node@14 node test/test.js",
+    "test": "standard lib test web/main.js && npx -p node@14 node test/test.js",
     "build-cli": "npx -p node@14 -p pkg pkg .",
-    "build-web": "browserify --standalone convert -g uglifyify lib/convert.js > web/convert.min.js",
+    "build-web": "browserify --standalone convert lib/convert.js > web/convert.bundle.js",
     "publish-web": "git subtree push --prefix web origin gh-pages"
   },
   "author": "Rich Trott <rtrott@gmail.com>",
@@ -19,7 +19,6 @@
   },
   "devDependencies": {
     "browserify": "^17.0.0",
-    "standard": "^17.0.0",
-    "uglifyify": "^5.0.2"
+    "standard": "^17.0.0"
   }
 }
